@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.png binary
+*.pdf binary
+*.zip binary
+*.whl binary
+*.svg whitespace=-trailing-space
+*.tsv whitespace=-trailing-space
+*.csv whitespace=-trailing-space

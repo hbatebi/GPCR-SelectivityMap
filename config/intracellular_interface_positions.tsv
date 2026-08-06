@@ -1,0 +1,31 @@
+generic_position	region	definition_status	rationale
+3x49	cytoplasmic_TM3	predefined	DRY-proximal receptor-transducer interface
+3x50	cytoplasmic_TM3	predefined	DRY-proximal receptor-transducer interface
+3x53	cytoplasmic_TM3	predefined	receptor-side coupling interface
+3x55	cytoplasmic_TM3	predefined	receptor-side coupling interface
+5x58	cytoplasmic_TM5	predefined	TM5 intracellular extension
+5x61	cytoplasmic_TM5	predefined	TM5 intracellular extension
+5x64	cytoplasmic_TM5	predefined	TM5 intracellular extension
+5x68	cytoplasmic_TM5	predefined	TM5 intracellular extension
+5x72	cytoplasmic_TM5	predefined	TM5 intracellular extension
+6x23	cytoplasmic_TM6	predefined	ICL3-proximal TM6 segment
+6x30	cytoplasmic_TM6	predefined	intracellular TM6 tip
+6x34	cytoplasmic_TM6	predefined	intracellular TM6 tip
+6x37	cytoplasmic_TM6	predefined	intracellular TM6 tip
+6x40	cytoplasmic_TM6	predefined	intracellular TM6 tip
+7x53	cytoplasmic_TM7	predefined	intracellular TM7 interface
+7x54	cytoplasmic_TM7	predefined	intracellular TM7 interface
+7x55	cytoplasmic_TM7	predefined	intracellular TM7 interface
+7x56	cytoplasmic_TM7	predefined	intracellular TM7 interface
+8x47	helix_8	predefined	helix 8 receptor-transducer interface
+8x50	helix_8	predefined	helix 8 receptor-transducer interface
+8x53	helix_8	predefined	helix 8 receptor-transducer interface
+8x59	helix_8	predefined	helix 8 receptor-transducer interface
+34x50	ICL2	predefined	ICL2 coupling-interface block
+34x51	ICL2	predefined	ICL2 coupling-interface block
+34x52	ICL2	predefined	ICL2 coupling-interface block
+34x53	ICL2	predefined	ICL2 coupling-interface block
+34x54	ICL2	predefined	ICL2 coupling-interface block
+34x55	ICL2	predefined	ICL2 coupling-interface block
+34x56	ICL2	predefined	ICL2 coupling-interface block
+34x57	ICL2	predefined	ICL2 coupling-interface block

@@ -1,0 +1,15 @@
+name: gpcr-selectivitymap
+channels: [conda-forge]
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - biopython
+  - scikit-learn
+  - matplotlib
+  - pyyaml
+  - pytest
+  - pip
+  - pip:
+      - -e .

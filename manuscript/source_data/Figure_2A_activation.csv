@@ -1,0 +1,7 @@
+model,auc,lo,hi
+Minimal four feature code,0.996257,0.988802,1.0
+Canonical geometry + ICL2,0.986525,0.957298,1.0
+TM6 opening,0.986321,0.95964,1.0
+Metadata,0.87124,0.81241,0.922087
+Availability,0.543385,0.479067,0.611525
+ICL2,0.554886,0.495857,0.628991

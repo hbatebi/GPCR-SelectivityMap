@@ -1,0 +1,74 @@
+schema_version: 1
+analysis_name: receptor_only_dynamic_selectivity_static_first_pass
+
+paths:
+  bound_frame: results/microswitches/publication_controls/publication_control_analysis_frame.csv
+  mapping: results/microswitches/measurements/generic_number_mapping.csv
+  structures: data/structures
+  receptor_only_primary: data/manual/receptor_only_ligand_permissive_structures.csv
+  receptor_only_conservative: data/manual/strict_polymer_only_structures.csv
+  receptor_only_labels: data/manual/receptor_only_receptor_level_labels.csv
+
+feature_extraction:
+  contact_cutoff_angstrom: 8.0
+  anm_cutoff_angstrom: 15.0
+  anm_modes_quick: 8
+  anm_modes_full: 12
+  sasa_points_quick: 60
+  sasa_points_full: 100
+
+validation:
+  C_grid: [0.03, 0.1, 0.3, 1.0, 3.0, 10.0]
+  minimum_training_feature_coverage: 0.60
+  max_iter: 50000
+  strict_transfer_C: 1.0
+
+quick:
+  bound_receptors_per_class: 8
+  receptor_only_receptors: 8
+  outer_folds: 3
+  inner_folds: 2
+  bootstrap_iterations: 100
+  permutation_iterations: 100
+  models:
+    - existing_geometry
+    - sequence_only
+    - missingness_only
+    - contact_network
+    - surface_electrostatics
+    - mechanical_susceptibility
+    - all_new_static
+    - sequence_plus_new_static
+  strict_transfer_models:
+    - existing_geometry
+    - sequence_only
+    - all_new_static
+    - sequence_plus_new_static
+
+full:
+  outer_folds: 5
+  inner_folds: 3
+  bootstrap_iterations: 1000
+  permutation_iterations: 1000
+  models:
+    - existing_geometry
+    - sequence_only
+    - missingness_only
+    - contact_network
+    - surface_electrostatics
+    - mechanical_susceptibility
+    - all_new_static
+    - sequence_plus_new_static
+    - existing_geometry_plus_new_static
+  strict_transfer_models:
+    - existing_geometry
+    - sequence_only
+    - contact_network
+    - surface_electrostatics
+    - mechanical_susceptibility
+    - all_new_static
+    - sequence_plus_new_static
+    - existing_geometry_plus_new_static
+
+figures:
+  dpi: 600

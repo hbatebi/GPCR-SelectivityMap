@@ -1,0 +1,40 @@
+analysis_name: gpcr_galpha_interface_complementarity
+version: 1.0.0
+seed: 20272729
+contact_cutoff_angstrom: 4.5
+families:
+  - Gs
+  - Gi/o
+  - Gq/11
+physical_models:
+  hydropathy:
+    scale: Kyte-Doolittle
+    hydropathy_similarity_weight: 0.60
+    hydrophobic_packing_weight: 0.40
+  charge:
+    acidic: -1.0
+    basic: 1.0
+    histidine: 0.1
+  combined_physics:
+    hydropathy_similarity: 0.30
+    hydrophobic_packing: 0.20
+    charge_complementarity: 0.25
+    side_chain_volume_similarity: 0.20
+    aromatic_pair: 0.05
+validation:
+  folds: 5
+  holdouts:
+    - receptor_name
+    - sequence_cluster_50
+    - sequence_cluster_40
+    - sequence_cluster_30
+  global_identity_knn_k: 5
+  full_bootstraps: 2000
+  full_scrambles: 500
+  quick_bootstraps: 300
+  quick_scrambles: 20
+interpretation:
+  scores_are_probabilities: false
+  receptor_alone_modes:
+    - sequence
+    - observed_structure_coverage

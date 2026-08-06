@@ -1,0 +1,2 @@
+receptor_name	transducer_family	label_source	label_type	experimental_support	curation_status	homology_inferred	reference
+example_receptor	Gs	primary_publication	direct_functional_measurement	multiple_assays	curated	false	DOI_or_PMID

@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "Please cite this software and the associated manuscript."
+title: "GPCR SelectivityMap"
+abstract: >-
+  An open, auditable toolkit for resolving conserved activation state, evolutionary
+  organization, receptor-side compatibility, bound-partner association, and
+  receptor-only transfer in class A GPCR endpoint structures. The software reports
+  structural associations and validation outcomes, not calibrated functional
+  G-protein coupling probabilities.
+type: software
+version: 0.3.1
+date-released: 2026-08-06
+authors:
+  - family-names: Batebi
+    given-names: Hossein
+    orcid: "https://orcid.org/0000-0002-0714-9700"
+    email: hossein.batebi@fu-berlin.de
+    affiliation: "Department of Physics, Freie Universität Berlin"
+repository-code: "https://github.com/hbatebi/GPCR-SelectivityMap"
+license: MIT
+keywords:
+  - GPCR
+  - G protein selectivity
+  - structural bioinformatics
+  - phylogeny-aware validation
+  - sequence identity
+  - static structure
+preferred-citation:
+  type: article
+  title: "GPCR endpoint structures integrate activation, evolutionary history, and partner accommodation"
+  authors:
+    - family-names: Batebi
+      given-names: Hossein
+      orcid: "https://orcid.org/0000-0002-0714-9700"
+  year: 2026
+  status: manuscript in preparation

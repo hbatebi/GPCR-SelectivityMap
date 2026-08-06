@@ -1,0 +1,1226 @@
+converged	fold	group_overlap	n_iter	status	test_n	train_n	experiment	validation	task_id	chosen_k	test_groups	train_groups	best_parameters	max_iter	n_categorical_features	n_numeric_features
+True	0	0	68.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__000__receptor							
+True	1	0	57.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__000__receptor							
+True	2	0	67.0	ok	39	168	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__000__receptor							
+True	3	0	61.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__000__receptor							
+True	4	0	56.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__000__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__000__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__000__seq30							
+True	0	0	61.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__001__receptor							
+True	1	0	67.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__001__receptor							
+True	2	0	57.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__001__receptor							
+True	3	0	37.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__001__receptor							
+True	4	0	61.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__001__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__001__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__001__seq30							
+True	0	0	58.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__002__receptor							
+True	1	0	56.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__002__receptor							
+True	2	0	69.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__002__receptor							
+True	3	0	63.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__002__receptor							
+True	4	0	51.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__002__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__002__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__002__seq30							
+True	0	0	62.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__003__receptor							
+True	1	0	57.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__003__receptor							
+True	2	0	61.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__003__receptor							
+True	3	0	58.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__003__receptor							
+True	4	0	69.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__003__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__003__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__003__seq30							
+True	0	0	61.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__004__receptor							
+True	1	0	56.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__004__receptor							
+True	2	0	60.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__004__receptor							
+True	3	0	59.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__004__receptor							
+True	4	0	62.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__004__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__004__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__004__seq30							
+True	0	0	61.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__005__receptor							
+True	1	0	69.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__005__receptor							
+True	2	0	61.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__005__receptor							
+True	3	0	59.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__005__receptor							
+True	4	0	68.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__005__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__005__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__005__seq30							
+True	0	0	62.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__006__receptor							
+True	1	0	64.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__006__receptor							
+True	2	0	61.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__006__receptor							
+True	3	0	62.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__006__receptor							
+True	4	0	61.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__006__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__006__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__006__seq30							
+True	0	0	61.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__007__receptor							
+True	1	0	66.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__007__receptor							
+True	2	0	39.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__007__receptor							
+True	3	0	57.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__007__receptor							
+True	4	0	61.0	ok	43	164	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__007__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__007__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__007__seq30							
+True	0	0	60.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__008__receptor							
+True	1	0	62.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__008__receptor							
+True	2	0	68.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__008__receptor							
+True	3	0	60.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__008__receptor							
+True	4	0	57.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__008__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__008__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__008__seq30							
+True	0	0	66.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__009__receptor							
+True	1	0	52.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__009__receptor							
+True	2	0	63.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__009__receptor							
+True	3	0	62.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__009__receptor							
+True	4	0	60.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__009__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__009__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__009__seq30							
+True	0	0	61.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__010__receptor							
+True	1	0	58.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__010__receptor							
+True	2	0	64.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__010__receptor							
+True	3	0	55.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__010__receptor							
+True	4	0	62.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__010__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__010__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__010__seq30							
+True	0	0	63.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__011__receptor							
+True	1	0	55.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__011__receptor							
+True	2	0	59.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__011__receptor							
+True	3	0	62.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__011__receptor							
+True	4	0	56.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__011__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__011__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__011__seq30							
+True	0	0	64.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__012__receptor							
+True	1	0	58.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__012__receptor							
+True	2	0	58.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__012__receptor							
+True	3	0	60.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__012__receptor							
+True	4	0	61.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__012__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__012__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__012__seq30							
+True	0	0	56.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__013__receptor							
+True	1	0	75.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__013__receptor							
+True	2	0	62.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__013__receptor							
+True	3	0	63.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__013__receptor							
+True	4	0	63.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__013__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__013__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__013__seq30							
+True	0	0	60.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__014__receptor							
+True	1	0	59.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__014__receptor							
+True	2	0	60.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__014__receptor							
+True	3	0	62.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__014__receptor							
+True	4	0	62.0	ok	39	168	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__014__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__014__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__014__seq30							
+True	0	0	65.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__015__receptor							
+True	1	0	56.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__015__receptor							
+True	2	0	55.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__015__receptor							
+True	3	0	62.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__015__receptor							
+True	4	0	62.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__015__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__015__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__015__seq30							
+True	0	0	64.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__016__receptor							
+True	1	0	63.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__016__receptor							
+True	2	0	56.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__016__receptor							
+True	3	0	70.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__016__receptor							
+True	4	0	63.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__016__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__016__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__016__seq30							
+True	0	0	64.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__017__receptor							
+True	1	0	58.0	ok	43	164	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__017__receptor							
+True	2	0	69.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__017__receptor							
+True	3	0	74.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__017__receptor							
+True	4	0	49.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__017__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__017__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__017__seq30							
+True	0	0	61.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__018__receptor							
+True	1	0	59.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__018__receptor							
+True	2	0	58.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__018__receptor							
+True	3	0	56.0	ok	39	168	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__018__receptor							
+True	4	0	65.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__018__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__018__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__018__seq30							
+True	0	0	61.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__019__receptor							
+True	1	0	67.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__019__receptor							
+True	2	0	48.0	ok	39	168	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__019__receptor							
+True	3	0	64.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__019__receptor							
+True	4	0	65.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__019__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__019__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__019__seq30							
+True	0	0	64.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__020__receptor							
+True	1	0	66.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__020__receptor							
+True	2	0	62.0	ok	39	168	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__020__receptor							
+True	3	0	65.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__020__receptor							
+True	4	0	59.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__020__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__020__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__020__seq30							
+True	0	0	63.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__021__receptor							
+True	1	0	68.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__021__receptor							
+True	2	0	65.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__021__receptor							
+True	3	0	50.0	ok	39	168	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__021__receptor							
+True	4	0	61.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__021__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__021__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__021__seq30							
+True	0	0	64.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__022__receptor							
+True	1	0	54.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__022__receptor							
+True	2	0	50.0	ok	39	168	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__022__receptor							
+True	3	0	36.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__022__receptor							
+True	4	0	58.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__022__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__022__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__022__seq30							
+True	0	0	66.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__023__receptor							
+True	1	0	66.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__023__receptor							
+True	2	0	53.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__023__receptor							
+True	3	0	65.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__023__receptor							
+True	4	0	60.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__023__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__023__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__023__seq30							
+True	0	0	63.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__024__receptor							
+True	1	0	58.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__024__receptor							
+True	2	0	61.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__024__receptor							
+True	3	0	61.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__024__receptor							
+True	4	0	57.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__024__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__024__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__024__seq30							
+True	0	0	64.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__025__receptor							
+True	1	0	56.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__025__receptor							
+True	2	0	56.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__025__receptor							
+True	3	0	57.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__025__receptor							
+True	4	0	58.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__025__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__025__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__025__seq30							
+True	0	0	62.0	ok	43	164	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__026__receptor							
+True	1	0	67.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__026__receptor							
+True	2	0	64.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__026__receptor							
+True	3	0	61.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__026__receptor							
+True	4	0	61.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__026__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__026__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__026__seq30							
+True	0	0	66.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__027__receptor							
+True	1	0	67.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__027__receptor							
+True	2	0	57.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__027__receptor							
+True	3	0	57.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__027__receptor							
+True	4	0	58.0	ok	39	168	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__027__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__027__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__027__seq30							
+True	0	0	69.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__028__receptor							
+True	1	0	59.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__028__receptor							
+True	2	0	59.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__028__receptor							
+True	3	0	69.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__028__receptor							
+True	4	0	55.0	ok	39	168	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__028__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__028__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__028__seq30							
+True	0	0	59.0	ok	43	164	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__029__receptor							
+True	1	0	68.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__029__receptor							
+True	2	0	57.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__029__receptor							
+True	3	0	61.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__029__receptor							
+True	4	0	57.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__029__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__029__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__029__seq30							
+True	0	0	66.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__030__receptor							
+True	1	0	59.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__030__receptor							
+True	2	0	67.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__030__receptor							
+True	3	0	62.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__030__receptor							
+True	4	0	60.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__030__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__030__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__030__seq30							
+True	0	0	64.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__031__receptor							
+True	1	0	61.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__031__receptor							
+True	2	0	44.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__031__receptor							
+True	3	0	57.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__031__receptor							
+True	4	0	60.0	ok	39	168	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__031__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__031__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__031__seq30							
+True	0	0	61.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__032__receptor							
+True	1	0	64.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__032__receptor							
+True	2	0	63.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__032__receptor							
+True	3	0	56.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__032__receptor							
+True	4	0	43.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__032__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__032__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__032__seq30							
+True	0	0	57.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__033__receptor							
+True	1	0	60.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__033__receptor							
+True	2	0	64.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__033__receptor							
+True	3	0	54.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__033__receptor							
+True	4	0	55.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__033__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__033__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__033__seq30							
+True	0	0	63.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__034__receptor							
+True	1	0	58.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__034__receptor							
+True	2	0	60.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__034__receptor							
+True	3	0	54.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__034__receptor							
+True	4	0	58.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__034__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__034__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__034__seq30							
+True	0	0	59.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__035__receptor							
+True	1	0	63.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__035__receptor							
+True	2	0	69.0	ok	43	164	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__035__receptor							
+True	3	0	62.0	ok	39	168	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__035__receptor							
+True	4	0	62.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__035__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__035__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__035__seq30							
+True	0	0	60.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__036__receptor							
+True	1	0	58.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__036__receptor							
+True	2	0	52.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__036__receptor							
+True	3	0	59.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__036__receptor							
+True	4	0	56.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__036__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__036__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__036__seq30							
+True	0	0	60.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__037__receptor							
+True	1	0	59.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__037__receptor							
+True	2	0	63.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__037__receptor							
+True	3	0	56.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__037__receptor							
+True	4	0	60.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__037__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__037__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__037__seq30							
+True	0	0	64.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__038__receptor							
+True	1	0	67.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__038__receptor							
+True	2	0	50.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__038__receptor							
+True	3	0	63.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__038__receptor							
+True	4	0	61.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__038__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__038__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__038__seq30							
+True	0	0	67.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__039__receptor							
+True	1	0	66.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__039__receptor							
+True	2	0	62.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__039__receptor							
+True	3	0	63.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__039__receptor							
+True	4	0	65.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__039__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__039__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__039__seq30							
+True	0	0	74.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__040__receptor							
+True	1	0	64.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__040__receptor							
+True	2	0	62.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__040__receptor							
+True	3	0	63.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__040__receptor							
+True	4	0	62.0	ok	39	168	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__040__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__040__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__040__seq30							
+True	0	0	55.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__041__receptor							
+True	1	0	59.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__041__receptor							
+True	2	0	56.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__041__receptor							
+True	3	0	63.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__041__receptor							
+True	4	0	57.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__041__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__041__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__041__seq30							
+True	0	0	51.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__042__receptor							
+True	1	0	57.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__042__receptor							
+True	2	0	60.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__042__receptor							
+True	3	0	62.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__042__receptor							
+True	4	0	65.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__042__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__042__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__042__seq30							
+True	0	0	62.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__043__receptor							
+True	1	0	61.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__043__receptor							
+True	2	0	58.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__043__receptor							
+True	3	0	71.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__043__receptor							
+True	4	0	57.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__043__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__043__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__043__seq30							
+True	0	0	60.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__044__receptor							
+True	1	0	50.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__044__receptor							
+True	2	0	61.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__044__receptor							
+True	3	0	61.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__044__receptor							
+True	4	0	55.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__044__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__044__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__044__seq30							
+True	0	0	65.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__045__receptor							
+True	1	0	62.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__045__receptor							
+True	2	0	57.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__045__receptor							
+True	3	0	62.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__045__receptor							
+True	4	0	50.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__045__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__045__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__045__seq30							
+True	0	0	61.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__046__receptor							
+True	1	0	67.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__046__receptor							
+True	2	0	56.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__046__receptor							
+True	3	0	59.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__046__receptor							
+True	4	0	71.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__046__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__046__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__046__seq30							
+True	0	0	67.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__047__receptor							
+True	1	0	64.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__047__receptor							
+True	2	0	60.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__047__receptor							
+True	3	0	67.0	ok	39	168	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__047__receptor							
+True	4	0	55.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__047__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__047__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__047__seq30							
+True	0	0	55.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__048__receptor							
+True	1	0	60.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__048__receptor							
+True	2	0	61.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__048__receptor							
+True	3	0	62.0	ok	39	168	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__048__receptor							
+True	4	0	56.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__048__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__048__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__048__seq30							
+True	0	0	60.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__049__receptor							
+True	1	0	60.0	ok	41	166	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__049__receptor							
+True	2	0	65.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__049__receptor							
+True	3	0	51.0	ok	40	167	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__049__receptor							
+True	4	0	63.0	ok	42	165	matched_noninterface_control	receptor_grouped_5fold	control_noninterface__049__receptor							
+True	0	0	31.0	ok	196	11	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__049__seq30							
+True	1	0	73.0	ok	11	196	matched_noninterface_control	sequence_cluster_30_grouped_5fold	control_noninterface__049__seq30							
+True	0	0	60.0	ok	42	165	interface_fixed_l2	receptor_grouped_5fold	interface_fixed_l2__receptor							
+True	1	0	52.0	ok	42	165	interface_fixed_l2	receptor_grouped_5fold	interface_fixed_l2__receptor							
+True	2	0	58.0	ok	39	168	interface_fixed_l2	receptor_grouped_5fold	interface_fixed_l2__receptor							
+True	3	0	54.0	ok	42	165	interface_fixed_l2	receptor_grouped_5fold	interface_fixed_l2__receptor							
+True	4	0	57.0	ok	42	165	interface_fixed_l2	receptor_grouped_5fold	interface_fixed_l2__receptor							
+True	0	0	19.0	ok	196	11	interface_fixed_l2	sequence_cluster_30_grouped_5fold	interface_fixed_l2__seq30							
+True	1	0	61.0	ok	11	196	interface_fixed_l2	sequence_cluster_30_grouped_5fold	interface_fixed_l2__seq30							
+	0	0		ok	42	165	global_identity_knn	receptor_grouped_5fold	knn__receptor	3.0	36.0	133.0				
+	1	0		ok	42	165	global_identity_knn	receptor_grouped_5fold	knn__receptor	3.0	34.0	135.0				
+	2	0		ok	39	168	global_identity_knn	receptor_grouped_5fold	knn__receptor	5.0	31.0	138.0				
+	3	0		ok	42	165	global_identity_knn	receptor_grouped_5fold	knn__receptor	5.0	34.0	135.0				
+	4	0		ok	42	165	global_identity_knn	receptor_grouped_5fold	knn__receptor	5.0	34.0	135.0				
+	0	0		ok	196	11	global_identity_knn	sequence_cluster_30_grouped_5fold	knn__seq30	5.0	1.0	4.0				
+	1	0		ok	11	196	global_identity_knn	sequence_cluster_30_grouped_5fold	knn__seq30	3.0	4.0	1.0				
+	0	0		ok	135	72	global_identity_knn	sequence_cluster_40_grouped_5fold	knn__seq40	1.0	1.0	19.0				
+	1	0		ok	21	186	global_identity_knn	sequence_cluster_40_grouped_5fold	knn__seq40	3.0	3.0	17.0				
+	2	0		ok	18	189	global_identity_knn	sequence_cluster_40_grouped_5fold	knn__seq40	3.0	7.0	13.0				
+	3	0		ok	16	191	global_identity_knn	sequence_cluster_40_grouped_5fold	knn__seq40	3.0	5.0	15.0				
+	4	0		ok	17	190	global_identity_knn	sequence_cluster_40_grouped_5fold	knn__seq40	3.0	4.0	16.0				
+	0	0		ok	40	167	global_identity_knn	sequence_cluster_50_grouped_5fold	knn__seq50	5.0	8.0	40.0				
+	1	0		ok	42	165	global_identity_knn	sequence_cluster_50_grouped_5fold	knn__seq50	5.0	11.0	37.0				
+	2	0		ok	41	166	global_identity_knn	sequence_cluster_50_grouped_5fold	knn__seq50	5.0	14.0	34.0				
+	3	0		ok	46	161	global_identity_knn	sequence_cluster_50_grouped_5fold	knn__seq50	3.0	3.0	45.0				
+	4	0		ok	38	169	global_identity_knn	sequence_cluster_50_grouped_5fold	knn__seq50	5.0	12.0	36.0				
+True	0	0	49.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__000__receptor							
+True	1	0	53.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__000__receptor							
+True	2	0	45.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__000__receptor							
+True	3	0	45.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__000__receptor							
+True	4	0	45.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__000__receptor							
+True	0	0	17.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__000__seq30							
+True	1	0	61.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__000__seq30							
+True	0	0	50.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__001__receptor							
+True	1	0	55.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__001__receptor							
+True	2	0	37.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__001__receptor							
+True	3	0	50.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__001__receptor							
+True	4	0	51.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__001__receptor							
+True	0	0	20.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__001__seq30							
+True	1	0	62.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__001__seq30							
+True	0	0	52.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__002__receptor							
+True	1	0	56.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__002__receptor							
+True	2	0	53.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__002__receptor							
+True	3	0	56.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__002__receptor							
+True	4	0	49.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__002__receptor							
+True	0	0	20.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__002__seq30							
+True	1	0	62.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__002__seq30							
+True	0	0	56.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__003__receptor							
+True	1	0	55.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__003__receptor							
+True	2	0	52.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__003__receptor							
+True	3	0	51.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__003__receptor							
+True	4	0	50.0	ok	39	168	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__003__receptor							
+True	0	0	20.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__003__seq30							
+True	1	0	66.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__003__seq30							
+True	0	0	61.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__004__receptor							
+True	1	0	55.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__004__receptor							
+True	2	0	45.0	ok	39	168	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__004__receptor							
+True	3	0	57.0	ok	43	164	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__004__receptor							
+True	4	0	53.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__004__receptor							
+True	0	0	19.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__004__seq30							
+True	1	0	57.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__004__seq30							
+True	0	0	50.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__005__receptor							
+True	1	0	61.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__005__receptor							
+True	2	0	58.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__005__receptor							
+True	3	0	47.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__005__receptor							
+True	4	0	61.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__005__receptor							
+True	0	0	21.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__005__seq30							
+True	1	0	53.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__005__seq30							
+True	0	0	50.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__006__receptor							
+True	1	0	47.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__006__receptor							
+True	2	0	53.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__006__receptor							
+True	3	0	56.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__006__receptor							
+True	4	0	55.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__006__receptor							
+True	0	0	18.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__006__seq30							
+True	1	0	52.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__006__seq30							
+True	0	0	33.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__007__receptor							
+True	1	0	58.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__007__receptor							
+True	2	0	52.0	ok	39	168	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__007__receptor							
+True	3	0	58.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__007__receptor							
+True	4	0	55.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__007__receptor							
+True	0	0	20.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__007__seq30							
+True	1	0	53.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__007__seq30							
+True	0	0	51.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__008__receptor							
+True	1	0	57.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__008__receptor							
+True	2	0	47.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__008__receptor							
+True	3	0	54.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__008__receptor							
+True	4	0	62.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__008__receptor							
+True	0	0	27.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__008__seq30							
+True	1	0	57.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__008__seq30							
+True	0	0	50.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__009__receptor							
+True	1	0	56.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__009__receptor							
+True	2	0	49.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__009__receptor							
+True	3	0	55.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__009__receptor							
+True	4	0	66.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__009__receptor							
+True	0	0	21.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__009__seq30							
+True	1	0	67.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__009__seq30							
+True	0	0	49.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__010__receptor							
+True	1	0	50.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__010__receptor							
+True	2	0	59.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__010__receptor							
+True	3	0	49.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__010__receptor							
+True	4	0	48.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__010__receptor							
+True	0	0	19.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__010__seq30							
+True	1	0	57.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__010__seq30							
+True	0	0	31.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__011__receptor							
+True	1	0	53.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__011__receptor							
+True	2	0	51.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__011__receptor							
+True	3	0	55.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__011__receptor							
+True	4	0	55.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__011__receptor							
+True	0	0	17.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__011__seq30							
+True	1	0	56.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__011__seq30							
+True	0	0	52.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__012__receptor							
+True	1	0	53.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__012__receptor							
+True	2	0	53.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__012__receptor							
+True	3	0	58.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__012__receptor							
+True	4	0	56.0	ok	43	164	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__012__receptor							
+True	0	0	21.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__012__seq30							
+True	1	0	55.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__012__seq30							
+True	0	0	30.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__013__receptor							
+True	1	0	51.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__013__receptor							
+True	2	0	54.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__013__receptor							
+True	3	0	55.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__013__receptor							
+True	4	0	64.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__013__receptor							
+True	0	0	21.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__013__seq30							
+True	1	0	44.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__013__seq30							
+True	0	0	60.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__014__receptor							
+True	1	0	53.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__014__receptor							
+True	2	0	53.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__014__receptor							
+True	3	0	60.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__014__receptor							
+True	4	0	55.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__014__receptor							
+True	0	0	27.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__014__seq30							
+True	1	0	55.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__014__seq30							
+True	0	0	56.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__015__receptor							
+True	1	0	42.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__015__receptor							
+True	2	0	55.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__015__receptor							
+True	3	0	41.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__015__receptor							
+True	4	0	60.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__015__receptor							
+True	0	0	21.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__015__seq30							
+True	1	0	30.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__015__seq30							
+True	0	0	50.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__016__receptor							
+True	1	0	51.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__016__receptor							
+True	2	0	39.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__016__receptor							
+True	3	0	51.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__016__receptor							
+True	4	0	54.0	ok	39	168	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__016__receptor							
+True	0	0	17.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__016__seq30							
+True	1	0	50.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__016__seq30							
+True	0	0	55.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__017__receptor							
+True	1	0	50.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__017__receptor							
+True	2	0	60.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__017__receptor							
+True	3	0	52.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__017__receptor							
+True	4	0	48.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__017__receptor							
+True	0	0	28.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__017__seq30							
+True	1	0	54.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__017__seq30							
+True	0	0	64.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__018__receptor							
+True	1	0	52.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__018__receptor							
+True	2	0	51.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__018__receptor							
+True	3	0	60.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__018__receptor							
+True	4	0	51.0	ok	39	168	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__018__receptor							
+True	0	0	23.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__018__seq30							
+True	1	0	64.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__018__seq30							
+True	0	0	54.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__019__receptor							
+True	1	0	54.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__019__receptor							
+True	2	0	52.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__019__receptor							
+True	3	0	60.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__019__receptor							
+True	4	0	58.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__019__receptor							
+True	0	0	20.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__019__seq30							
+True	1	0	62.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__019__seq30							
+True	0	0	45.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__020__receptor							
+True	1	0	58.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__020__receptor							
+True	2	0	51.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__020__receptor							
+True	3	0	56.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__020__receptor							
+True	4	0	56.0	ok	39	168	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__020__receptor							
+True	0	0	20.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__020__seq30							
+True	1	0	56.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__020__seq30							
+True	0	0	55.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__021__receptor							
+True	1	0	51.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__021__receptor							
+True	2	0	50.0	ok	39	168	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__021__receptor							
+True	3	0	57.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__021__receptor							
+True	4	0	59.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__021__receptor							
+True	0	0	19.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__021__seq30							
+True	1	0	60.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__021__seq30							
+True	0	0	54.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__022__receptor							
+True	1	0	53.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__022__receptor							
+True	2	0	48.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__022__receptor							
+True	3	0	58.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__022__receptor							
+True	4	0	59.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__022__receptor							
+True	0	0	21.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__022__seq30							
+True	1	0	69.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__022__seq30							
+True	0	0	47.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__023__receptor							
+True	1	0	64.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__023__receptor							
+True	2	0	51.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__023__receptor							
+True	3	0	53.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__023__receptor							
+True	4	0	55.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__023__receptor							
+True	0	0	20.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__023__seq30							
+True	1	0	54.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__023__seq30							
+True	0	0	60.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__024__receptor							
+True	1	0	58.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__024__receptor							
+True	2	0	52.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__024__receptor							
+True	3	0	51.0	ok	43	164	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__024__receptor							
+True	4	0	49.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__024__receptor							
+True	0	0	21.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__024__seq30							
+True	1	0	63.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__024__seq30							
+True	0	0	55.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__025__receptor							
+True	1	0	55.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__025__receptor							
+True	2	0	49.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__025__receptor							
+True	3	0	50.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__025__receptor							
+True	4	0	59.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__025__receptor							
+True	0	0	19.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__025__seq30							
+True	1	0	57.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__025__seq30							
+True	0	0	55.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__026__receptor							
+True	1	0	54.0	ok	39	168	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__026__receptor							
+True	2	0	50.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__026__receptor							
+True	3	0	54.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__026__receptor							
+True	4	0	56.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__026__receptor							
+True	0	0	19.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__026__seq30							
+True	1	0	56.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__026__seq30							
+True	0	0	55.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__027__receptor							
+True	1	0	58.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__027__receptor							
+True	2	0	38.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__027__receptor							
+True	3	0	59.0	ok	39	168	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__027__receptor							
+True	4	0	53.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__027__receptor							
+True	0	0	20.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__027__seq30							
+True	1	0	44.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__027__seq30							
+True	0	0	52.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__028__receptor							
+True	1	0	53.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__028__receptor							
+True	2	0	25.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__028__receptor							
+True	3	0	52.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__028__receptor							
+True	4	0	52.0	ok	39	168	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__028__receptor							
+True	0	0	19.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__028__seq30							
+True	1	0	43.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__028__seq30							
+True	0	0	53.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__029__receptor							
+True	1	0	54.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__029__receptor							
+True	2	0	50.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__029__receptor							
+True	3	0	56.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__029__receptor							
+True	4	0	49.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__029__receptor							
+True	0	0	20.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__029__seq30							
+True	1	0	63.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__029__seq30							
+True	0	0	52.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__030__receptor							
+True	1	0	52.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__030__receptor							
+True	2	0	50.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__030__receptor							
+True	3	0	39.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__030__receptor							
+True	4	0	50.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__030__receptor							
+True	0	0	22.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__030__seq30							
+True	1	0	63.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__030__seq30							
+True	0	0	52.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__031__receptor							
+True	1	0	55.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__031__receptor							
+True	2	0	54.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__031__receptor							
+True	3	0	57.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__031__receptor							
+True	4	0	43.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__031__receptor							
+True	0	0	19.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__031__seq30							
+True	1	0	71.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__031__seq30							
+True	0	0	49.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__032__receptor							
+True	1	0	55.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__032__receptor							
+True	2	0	57.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__032__receptor							
+True	3	0	61.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__032__receptor							
+True	4	0	49.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__032__receptor							
+True	0	0	27.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__032__seq30							
+True	1	0	66.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__032__seq30							
+True	0	0	61.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__033__receptor							
+True	1	0	34.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__033__receptor							
+True	2	0	50.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__033__receptor							
+True	3	0	57.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__033__receptor							
+True	4	0	51.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__033__receptor							
+True	0	0	22.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__033__seq30							
+True	1	0	61.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__033__seq30							
+True	0	0	56.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__034__receptor							
+True	1	0	60.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__034__receptor							
+True	2	0	52.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__034__receptor							
+True	3	0	32.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__034__receptor							
+True	4	0	49.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__034__receptor							
+True	0	0	20.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__034__seq30							
+True	1	0	44.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__034__seq30							
+True	0	0	34.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__035__receptor							
+True	1	0	52.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__035__receptor							
+True	2	0	55.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__035__receptor							
+True	3	0	59.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__035__receptor							
+True	4	0	60.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__035__receptor							
+True	0	0	18.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__035__seq30							
+True	1	0	55.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__035__seq30							
+True	0	0	57.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__036__receptor							
+True	1	0	50.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__036__receptor							
+True	2	0	58.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__036__receptor							
+True	3	0	64.0	ok	39	168	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__036__receptor							
+True	4	0	48.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__036__receptor							
+True	0	0	21.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__036__seq30							
+True	1	0	59.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__036__seq30							
+True	0	0	51.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__037__receptor							
+True	1	0	48.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__037__receptor							
+True	2	0	50.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__037__receptor							
+True	3	0	49.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__037__receptor							
+True	4	0	39.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__037__receptor							
+True	0	0	17.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__037__seq30							
+True	1	0	58.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__037__seq30							
+True	0	0	55.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__038__receptor							
+True	1	0	52.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__038__receptor							
+True	2	0	59.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__038__receptor							
+True	3	0	51.0	ok	43	164	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__038__receptor							
+True	4	0	31.0	ok	39	168	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__038__receptor							
+True	0	0	23.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__038__seq30							
+True	1	0	60.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__038__seq30							
+True	0	0	52.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__039__receptor							
+True	1	0	60.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__039__receptor							
+True	2	0	59.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__039__receptor							
+True	3	0	62.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__039__receptor							
+True	4	0	63.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__039__receptor							
+True	0	0	19.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__039__seq30							
+True	1	0	55.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__039__seq30							
+True	0	0	51.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__040__receptor							
+True	1	0	44.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__040__receptor							
+True	2	0	57.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__040__receptor							
+True	3	0	56.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__040__receptor							
+True	4	0	50.0	ok	39	168	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__040__receptor							
+True	0	0	18.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__040__seq30							
+True	1	0	58.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__040__seq30							
+True	0	0	54.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__041__receptor							
+True	1	0	55.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__041__receptor							
+True	2	0	54.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__041__receptor							
+True	3	0	37.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__041__receptor							
+True	4	0	52.0	ok	39	168	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__041__receptor							
+True	0	0	20.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__041__seq30							
+True	1	0	38.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__041__seq30							
+True	0	0	52.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__042__receptor							
+True	1	0	61.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__042__receptor							
+True	2	0	53.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__042__receptor							
+True	3	0	50.0	ok	39	168	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__042__receptor							
+True	4	0	54.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__042__receptor							
+True	0	0	20.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__042__seq30							
+True	1	0	56.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__042__seq30							
+True	0	0	58.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__043__receptor							
+True	1	0	36.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__043__receptor							
+True	2	0	56.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__043__receptor							
+True	3	0	58.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__043__receptor							
+True	4	0	53.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__043__receptor							
+True	0	0	22.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__043__seq30							
+True	1	0	57.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__043__seq30							
+True	0	0	51.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__044__receptor							
+True	1	0	58.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__044__receptor							
+True	2	0	33.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__044__receptor							
+True	3	0	57.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__044__receptor							
+True	4	0	58.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__044__receptor							
+True	0	0	19.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__044__seq30							
+True	1	0	59.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__044__seq30							
+True	0	0	48.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__045__receptor							
+True	1	0	56.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__045__receptor							
+True	2	0	57.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__045__receptor							
+True	3	0	62.0	ok	39	168	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__045__receptor							
+True	4	0	58.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__045__receptor							
+True	0	0	19.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__045__seq30							
+True	1	0	50.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__045__seq30							
+True	0	0	42.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__046__receptor							
+True	1	0	53.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__046__receptor							
+True	2	0	56.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__046__receptor							
+True	3	0	34.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__046__receptor							
+True	4	0	60.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__046__receptor							
+True	0	0	22.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__046__seq30							
+True	1	0	39.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__046__seq30							
+True	0	0	50.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__047__receptor							
+True	1	0	59.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__047__receptor							
+True	2	0	58.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__047__receptor							
+True	3	0	35.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__047__receptor							
+True	4	0	53.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__047__receptor							
+True	0	0	18.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__047__seq30							
+True	1	0	60.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__047__seq30							
+True	0	0	56.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__048__receptor							
+True	1	0	35.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__048__receptor							
+True	2	0	55.0	ok	39	168	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__048__receptor							
+True	3	0	58.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__048__receptor							
+True	4	0	39.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__048__receptor							
+True	0	0	21.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__048__seq30							
+True	1	0	57.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__048__seq30							
+True	0	0	49.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__049__receptor							
+True	1	0	53.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__049__receptor							
+True	2	0	52.0	ok	42	165	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__049__receptor							
+True	3	0	55.0	ok	40	167	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__049__receptor							
+True	4	0	49.0	ok	41	166	position_shuffle_across_receptors	receptor_grouped_5fold	position_shuffle_across_receptors__049__receptor							
+True	0	0	21.0	ok	196	11	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__049__seq30							
+True	1	0	50.0	ok	11	196	position_shuffle_across_receptors	sequence_cluster_30_grouped_5fold	position_shuffle_across_receptors__049__seq30							
+True	0	0	6.0	ok	42	165	coarse_taxonomy	receptor_grouped_5fold	primary__coarse_taxonomy__receptor		36.0	133.0	"{""inner_macro_auc"": 0.5930514193725576, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	2.0	0.0
+True	1	0	21.0	ok	42	165	coarse_taxonomy	receptor_grouped_5fold	primary__coarse_taxonomy__receptor		34.0	135.0	"{""inner_macro_auc"": 0.6050900695209639, ""model__C"": 1.0, ""model__l1_ratio"": 0.0}"	50000.0	2.0	0.0
+True	2	0	10.0	ok	39	168	coarse_taxonomy	receptor_grouped_5fold	primary__coarse_taxonomy__receptor		31.0	138.0	"{""inner_macro_auc"": 0.6134156895836455, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	2.0	0.0
+True	3	0	6.0	ok	42	165	coarse_taxonomy	receptor_grouped_5fold	primary__coarse_taxonomy__receptor		34.0	135.0	"{""inner_macro_auc"": 0.5819926585509241, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	2.0	0.0
+True	4	0	7.0	ok	42	165	coarse_taxonomy	receptor_grouped_5fold	primary__coarse_taxonomy__receptor		34.0	135.0	"{""inner_macro_auc"": 0.6332035674854103, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	2.0	0.0
+True	0	0	7.0	ok	196	11	coarse_taxonomy	sequence_cluster_30_grouped_5fold	primary__coarse_taxonomy__seq30		1.0	4.0	"{""inner_macro_auc"": 0.6722222222222223, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	2.0	0.0
+True	1	0	9.0	ok	11	196	coarse_taxonomy	sequence_cluster_30_grouped_5fold	primary__coarse_taxonomy__seq30		4.0	1.0	"{""inner_macro_auc"": 0.6365419966339076, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	2.0	0.0
+True	0	0	28.0	ok	135	72	coarse_taxonomy	sequence_cluster_40_grouped_5fold	primary__coarse_taxonomy__seq40		1.0	19.0	"{""inner_macro_auc"": 0.5915197538004556, ""model__C"": 10.0, ""model__l1_ratio"": 0.0}"	50000.0	2.0	0.0
+True	1	0	14.0	ok	21	186	coarse_taxonomy	sequence_cluster_40_grouped_5fold	primary__coarse_taxonomy__seq40		3.0	17.0	"{""inner_macro_auc"": 0.6370549902699785, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	2.0	0.0
+True	2	0	7.0	ok	18	189	coarse_taxonomy	sequence_cluster_40_grouped_5fold	primary__coarse_taxonomy__seq40		7.0	13.0	"{""inner_macro_auc"": 0.6076548133826037, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	2.0	0.0
+True	3	0	9.0	ok	16	191	coarse_taxonomy	sequence_cluster_40_grouped_5fold	primary__coarse_taxonomy__seq40		5.0	15.0	"{""inner_macro_auc"": 0.6246552034697426, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	2.0	0.0
+True	4	0	6.0	ok	17	190	coarse_taxonomy	sequence_cluster_40_grouped_5fold	primary__coarse_taxonomy__seq40		4.0	16.0	"{""inner_macro_auc"": 0.6578748302897354, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	2.0	0.0
+True	0	0	11.0	ok	40	167	coarse_taxonomy	sequence_cluster_50_grouped_5fold	primary__coarse_taxonomy__seq50		8.0	40.0	"{""inner_macro_auc"": 0.629248327343443, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	2.0	0.0
+True	1	0	6.0	ok	42	165	coarse_taxonomy	sequence_cluster_50_grouped_5fold	primary__coarse_taxonomy__seq50		11.0	37.0	"{""inner_macro_auc"": 0.5650836376069832, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	2.0	0.0
+True	2	0	6.0	ok	41	166	coarse_taxonomy	sequence_cluster_50_grouped_5fold	primary__coarse_taxonomy__seq50		14.0	34.0	"{""inner_macro_auc"": 0.6563794969960282, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	2.0	0.0
+True	3	0	6.0	ok	46	161	coarse_taxonomy	sequence_cluster_50_grouped_5fold	primary__coarse_taxonomy__seq50		3.0	45.0	"{""inner_macro_auc"": 0.6138732470471154, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	2.0	0.0
+True	4	0	38.0	ok	38	169	coarse_taxonomy	sequence_cluster_50_grouped_5fold	primary__coarse_taxonomy__seq50		12.0	36.0	"{""inner_macro_auc"": 0.572590757067383, ""model__C"": 10.0, ""model__l1_ratio"": 0.0}"	50000.0	2.0	0.0
+True	0	0	37.0	ok	42	165	endpoint_geometry	receptor_grouped_5fold	primary__endpoint_geometry__receptor		36.0	133.0	"{""inner_macro_auc"": 0.790932405945956, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	4.0	96.0
+True	1	0	22.0	ok	42	165	endpoint_geometry	receptor_grouped_5fold	primary__endpoint_geometry__receptor		34.0	135.0	"{""inner_macro_auc"": 0.7933717391711973, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	5.0	96.0
+True	2	0	26.0	ok	39	168	endpoint_geometry	receptor_grouped_5fold	primary__endpoint_geometry__receptor		31.0	138.0	"{""inner_macro_auc"": 0.745471214316634, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	5.0	96.0
+True	3	0	22.0	ok	42	165	endpoint_geometry	receptor_grouped_5fold	primary__endpoint_geometry__receptor		34.0	135.0	"{""inner_macro_auc"": 0.7646434665404854, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	5.0	96.0
+True	4	0	23.0	ok	42	165	endpoint_geometry	receptor_grouped_5fold	primary__endpoint_geometry__receptor		34.0	135.0	"{""inner_macro_auc"": 0.7657941526505212, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	5.0	96.0
+True	0	0	16.0	ok	196	11	endpoint_geometry	sequence_cluster_30_grouped_5fold	primary__endpoint_geometry__seq30		1.0	4.0	"{""inner_macro_auc"": 0.5638888888888889, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	2.0	96.0
+True	1	0	24.0	ok	11	196	endpoint_geometry	sequence_cluster_30_grouped_5fold	primary__endpoint_geometry__seq30		4.0	1.0	"{""inner_macro_auc"": 0.7766253697360633, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	5.0	96.0
+True	0	0	18.0	ok	135	72	endpoint_geometry	sequence_cluster_40_grouped_5fold	primary__endpoint_geometry__seq40		1.0	19.0	"{""inner_macro_auc"": 0.7057368760219638, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	5.0	96.0
+True	1	0	27.0	ok	21	186	endpoint_geometry	sequence_cluster_40_grouped_5fold	primary__endpoint_geometry__seq40		3.0	17.0	"{""inner_macro_auc"": 0.7995292481891484, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	5.0	96.0
+True	2	0	24.0	ok	18	189	endpoint_geometry	sequence_cluster_40_grouped_5fold	primary__endpoint_geometry__seq40		7.0	13.0	"{""inner_macro_auc"": 0.7697594692247459, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	5.0	96.0
+True	3	0	25.0	ok	16	191	endpoint_geometry	sequence_cluster_40_grouped_5fold	primary__endpoint_geometry__seq40		5.0	15.0	"{""inner_macro_auc"": 0.7942070745768696, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	5.0	96.0
+True	4	0	23.0	ok	17	190	endpoint_geometry	sequence_cluster_40_grouped_5fold	primary__endpoint_geometry__seq40		4.0	16.0	"{""inner_macro_auc"": 0.7951566844109771, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	5.0	96.0
+True	0	0	23.0	ok	40	167	endpoint_geometry	sequence_cluster_50_grouped_5fold	primary__endpoint_geometry__seq50		8.0	40.0	"{""inner_macro_auc"": 0.7698446880082553, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	5.0	96.0
+True	1	0	23.0	ok	42	165	endpoint_geometry	sequence_cluster_50_grouped_5fold	primary__endpoint_geometry__seq50		11.0	37.0	"{""inner_macro_auc"": 0.7693620556183468, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	5.0	96.0
+True	2	0	37.0	ok	41	166	endpoint_geometry	sequence_cluster_50_grouped_5fold	primary__endpoint_geometry__seq50		14.0	34.0	"{""inner_macro_auc"": 0.7718865926376574, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	5.0	96.0
+True	3	0	27.0	ok	46	161	endpoint_geometry	sequence_cluster_50_grouped_5fold	primary__endpoint_geometry__seq50		3.0	45.0	"{""inner_macro_auc"": 0.7744179947472128, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	5.0	96.0
+True	4	0	23.0	ok	38	169	endpoint_geometry	sequence_cluster_50_grouped_5fold	primary__endpoint_geometry__seq50		12.0	36.0	"{""inner_macro_auc"": 0.751792156256442, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	5.0	96.0
+True	0	0	3.0	ok	42	165	fine_family	receptor_grouped_5fold	primary__fine_family__receptor		36.0	133.0	"{""inner_macro_auc"": 0.5088369963369964, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	1.0	0.0
+True	1	0	3.0	ok	42	165	fine_family	receptor_grouped_5fold	primary__fine_family__receptor		34.0	135.0	"{""inner_macro_auc"": 0.5141971723950043, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	1.0	0.0
+True	2	0	3.0	ok	39	168	fine_family	receptor_grouped_5fold	primary__fine_family__receptor		31.0	138.0	"{""inner_macro_auc"": 0.5448391552611533, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	1.0	0.0
+True	3	0	3.0	ok	42	165	fine_family	receptor_grouped_5fold	primary__fine_family__receptor		34.0	135.0	"{""inner_macro_auc"": 0.5250265267202937, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	1.0	0.0
+True	4	0	3.0	ok	42	165	fine_family	receptor_grouped_5fold	primary__fine_family__receptor		34.0	135.0	"{""inner_macro_auc"": 0.538936923760772, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	1.0	0.0
+True	0	0	4.0	ok	196	11	fine_family	sequence_cluster_30_grouped_5fold	primary__fine_family__seq30		1.0	4.0	"{""inner_macro_auc"": 0.5, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	1.0	0.0
+True	1	0	8.0	ok	11	196	fine_family	sequence_cluster_30_grouped_5fold	primary__fine_family__seq30		4.0	1.0	"{""inner_macro_auc"": 0.5478918155444533, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	1.0	0.0
+True	0	0	3.0	ok	135	72	fine_family	sequence_cluster_40_grouped_5fold	primary__fine_family__seq40		1.0	19.0	"{""inner_macro_auc"": 0.5319200779727096, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	1.0	0.0
+True	1	0	3.0	ok	21	186	fine_family	sequence_cluster_40_grouped_5fold	primary__fine_family__seq40		3.0	17.0	"{""inner_macro_auc"": 0.5498596507926329, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	1.0	0.0
+True	2	0	3.0	ok	18	189	fine_family	sequence_cluster_40_grouped_5fold	primary__fine_family__seq40		7.0	13.0	"{""inner_macro_auc"": 0.5205021989739135, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	1.0	0.0
+True	3	0	3.0	ok	16	191	fine_family	sequence_cluster_40_grouped_5fold	primary__fine_family__seq40		5.0	15.0	"{""inner_macro_auc"": 0.5339456306506034, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	1.0	0.0
+True	4	0	3.0	ok	17	190	fine_family	sequence_cluster_40_grouped_5fold	primary__fine_family__seq40		4.0	16.0	"{""inner_macro_auc"": 0.5255042932980867, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	1.0	0.0
+True	0	0	3.0	ok	40	167	fine_family	sequence_cluster_50_grouped_5fold	primary__fine_family__seq50		8.0	40.0	"{""inner_macro_auc"": 0.5452840688011856, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	1.0	0.0
+True	1	0	3.0	ok	42	165	fine_family	sequence_cluster_50_grouped_5fold	primary__fine_family__seq50		11.0	37.0	"{""inner_macro_auc"": 0.5334855550213428, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	1.0	0.0
+True	2	0	3.0	ok	41	166	fine_family	sequence_cluster_50_grouped_5fold	primary__fine_family__seq50		14.0	34.0	"{""inner_macro_auc"": 0.5200614083332821, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	1.0	0.0
+True	3	0	8.0	ok	46	161	fine_family	sequence_cluster_50_grouped_5fold	primary__fine_family__seq50		3.0	45.0	"{""inner_macro_auc"": 0.5337807511418623, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	1.0	0.0
+True	4	0	3.0	ok	38	169	fine_family	sequence_cluster_50_grouped_5fold	primary__fine_family__seq50		12.0	36.0	"{""inner_macro_auc"": 0.5367687839486619, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	1.0	0.0
+True	0	0	18.0	ok	42	165	full_sequence	receptor_grouped_5fold	primary__full_sequence__receptor		36.0	133.0	"{""inner_macro_auc"": 0.761199760542579, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	64.0	0.0
+True	1	0	33.0	ok	42	165	full_sequence	receptor_grouped_5fold	primary__full_sequence__receptor		34.0	135.0	"{""inner_macro_auc"": 0.7854974118524255, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	64.0	0.0
+True	2	0	52.0	ok	39	168	full_sequence	receptor_grouped_5fold	primary__full_sequence__receptor		31.0	138.0	"{""inner_macro_auc"": 0.8059910679384613, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	62.0	0.0
+True	3	0	54.0	ok	42	165	full_sequence	receptor_grouped_5fold	primary__full_sequence__receptor		34.0	135.0	"{""inner_macro_auc"": 0.8084519866362684, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	64.0	0.0
+True	4	0	18.0	ok	42	165	full_sequence	receptor_grouped_5fold	primary__full_sequence__receptor		34.0	135.0	"{""inner_macro_auc"": 0.7675829139243775, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	64.0	0.0
+True	0	0	21.0	ok	196	11	full_sequence	sequence_cluster_30_grouped_5fold	primary__full_sequence__seq30		1.0	4.0	"{""inner_macro_auc"": 0.9055555555555557, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	63.0	0.0
+True	1	0	55.0	ok	11	196	full_sequence	sequence_cluster_30_grouped_5fold	primary__full_sequence__seq30		4.0	1.0	"{""inner_macro_auc"": 0.7926877798027792, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	62.0	0.0
+True	0	0	62.0	ok	135	72	full_sequence	sequence_cluster_40_grouped_5fold	primary__full_sequence__seq40		1.0	19.0	"{""inner_macro_auc"": 0.729337655927568, ""model__C"": 10.0, ""model__l1_ratio"": 0.0}"	50000.0	64.0	0.0
+True	1	0	85.0	ok	21	186	full_sequence	sequence_cluster_40_grouped_5fold	primary__full_sequence__seq40		3.0	17.0	"{""inner_macro_auc"": 0.8361103034543943, ""model__C"": 1.0, ""model__l1_ratio"": 0.0}"	50000.0	64.0	0.0
+True	2	0	23.0	ok	18	189	full_sequence	sequence_cluster_40_grouped_5fold	primary__full_sequence__seq40		7.0	13.0	"{""inner_macro_auc"": 0.7680510723212381, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	62.0	0.0
+True	3	0	56.0	ok	16	191	full_sequence	sequence_cluster_40_grouped_5fold	primary__full_sequence__seq40		5.0	15.0	"{""inner_macro_auc"": 0.8171089916959206, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	64.0	0.0
+True	4	0	35.0	ok	17	190	full_sequence	sequence_cluster_40_grouped_5fold	primary__full_sequence__seq40		4.0	16.0	"{""inner_macro_auc"": 0.81114826670721, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	64.0	0.0
+True	0	0	57.0	ok	40	167	full_sequence	sequence_cluster_50_grouped_5fold	primary__full_sequence__seq50		8.0	40.0	"{""inner_macro_auc"": 0.8122611526421918, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	64.0	0.0
+True	1	0	23.0	ok	42	165	full_sequence	sequence_cluster_50_grouped_5fold	primary__full_sequence__seq50		11.0	37.0	"{""inner_macro_auc"": 0.7813747385857636, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	64.0	0.0
+True	2	0	50.0	ok	41	166	full_sequence	sequence_cluster_50_grouped_5fold	primary__full_sequence__seq50		14.0	34.0	"{""inner_macro_auc"": 0.8153874693508839, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	62.0	0.0
+True	3	0	19.0	ok	46	161	full_sequence	sequence_cluster_50_grouped_5fold	primary__full_sequence__seq50		3.0	45.0	"{""inner_macro_auc"": 0.7757006402376773, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	64.0	0.0
+True	4	0	34.0	ok	38	169	full_sequence	sequence_cluster_50_grouped_5fold	primary__full_sequence__seq50		12.0	36.0	"{""inner_macro_auc"": 0.7672771123518801, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	64.0	0.0
+True	0	0	39.0	ok	42	165	interface_plus_taxonomy	receptor_grouped_5fold	primary__interface_plus_taxonomy__receptor		36.0	133.0	"{""inner_macro_auc"": 0.7723287730537053, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	32.0	0.0
+True	1	0	37.0	ok	42	165	interface_plus_taxonomy	receptor_grouped_5fold	primary__interface_plus_taxonomy__receptor		34.0	135.0	"{""inner_macro_auc"": 0.7893777029955892, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	32.0	0.0
+True	2	0	78.0	ok	39	168	interface_plus_taxonomy	receptor_grouped_5fold	primary__interface_plus_taxonomy__receptor		31.0	138.0	"{""inner_macro_auc"": 0.8260187603679173, ""model__C"": 3.0, ""model__l1_ratio"": 0.0}"	50000.0	32.0	0.0
+True	3	0	23.0	ok	42	165	interface_plus_taxonomy	receptor_grouped_5fold	primary__interface_plus_taxonomy__receptor		34.0	135.0	"{""inner_macro_auc"": 0.8155998623478297, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	32.0	0.0
+True	4	0	36.0	ok	42	165	interface_plus_taxonomy	receptor_grouped_5fold	primary__interface_plus_taxonomy__receptor		34.0	135.0	"{""inner_macro_auc"": 0.7872521185529315, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	32.0	0.0
+True	0	0	15.0	ok	196	11	interface_plus_taxonomy	sequence_cluster_30_grouped_5fold	primary__interface_plus_taxonomy__seq30		1.0	4.0	"{""inner_macro_auc"": 0.9055555555555557, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	31.0	0.0
+True	1	0	54.0	ok	11	196	interface_plus_taxonomy	sequence_cluster_30_grouped_5fold	primary__interface_plus_taxonomy__seq30		4.0	1.0	"{""inner_macro_auc"": 0.829216337191375, ""model__C"": 1.0, ""model__l1_ratio"": 0.0}"	50000.0	32.0	0.0
+True	0	0	20.0	ok	135	72	interface_plus_taxonomy	sequence_cluster_40_grouped_5fold	primary__interface_plus_taxonomy__seq40		1.0	19.0	"{""inner_macro_auc"": 0.721127002870424, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	32.0	0.0
+True	1	0	36.0	ok	21	186	interface_plus_taxonomy	sequence_cluster_40_grouped_5fold	primary__interface_plus_taxonomy__seq40		3.0	17.0	"{""inner_macro_auc"": 0.8393338945432874, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	32.0	0.0
+True	2	0	27.0	ok	18	189	interface_plus_taxonomy	sequence_cluster_40_grouped_5fold	primary__interface_plus_taxonomy__seq40		7.0	13.0	"{""inner_macro_auc"": 0.7769680020168708, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	32.0	0.0
+True	3	0	38.0	ok	16	191	interface_plus_taxonomy	sequence_cluster_40_grouped_5fold	primary__interface_plus_taxonomy__seq40		5.0	15.0	"{""inner_macro_auc"": 0.8310132796683402, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	32.0	0.0
+True	4	0	34.0	ok	17	190	interface_plus_taxonomy	sequence_cluster_40_grouped_5fold	primary__interface_plus_taxonomy__seq40		4.0	16.0	"{""inner_macro_auc"": 0.8318071613178634, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	32.0	0.0
+True	0	0	76.0	ok	40	167	interface_plus_taxonomy	sequence_cluster_50_grouped_5fold	primary__interface_plus_taxonomy__seq50		8.0	40.0	"{""inner_macro_auc"": 0.8178819350112532, ""model__C"": 3.0, ""model__l1_ratio"": 0.0}"	50000.0	32.0	0.0
+True	1	0	22.0	ok	42	165	interface_plus_taxonomy	sequence_cluster_50_grouped_5fold	primary__interface_plus_taxonomy__seq50		11.0	37.0	"{""inner_macro_auc"": 0.789546213502002, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	32.0	0.0
+True	2	0	37.0	ok	41	166	interface_plus_taxonomy	sequence_cluster_50_grouped_5fold	primary__interface_plus_taxonomy__seq50		14.0	34.0	"{""inner_macro_auc"": 0.8226346922388347, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	32.0	0.0
+True	3	0	34.0	ok	46	161	interface_plus_taxonomy	sequence_cluster_50_grouped_5fold	primary__interface_plus_taxonomy__seq50		3.0	45.0	"{""inner_macro_auc"": 0.7847534054118416, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	32.0	0.0
+True	4	0	26.0	ok	38	169	interface_plus_taxonomy	sequence_cluster_50_grouped_5fold	primary__interface_plus_taxonomy__seq50		12.0	36.0	"{""inner_macro_auc"": 0.7867244489909511, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	32.0	0.0
+True	0	0	37.0	ok	42	165	interface_sequence	receptor_grouped_5fold	primary__interface_sequence__receptor		36.0	133.0	"{""inner_macro_auc"": 0.767057935790998, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	1	0	71.0	ok	42	165	interface_sequence	receptor_grouped_5fold	primary__interface_sequence__receptor		34.0	135.0	"{""inner_macro_auc"": 0.7945879148453674, ""model__C"": 10.0, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	2	0	69.0	ok	39	168	interface_sequence	receptor_grouped_5fold	primary__interface_sequence__receptor		31.0	138.0	"{""inner_macro_auc"": 0.8093004166461841, ""model__C"": 10.0, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	3	0	33.0	ok	42	165	interface_sequence	receptor_grouped_5fold	primary__interface_sequence__receptor		34.0	135.0	"{""inner_macro_auc"": 0.8109361781448503, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	4	0	35.0	ok	42	165	interface_sequence	receptor_grouped_5fold	primary__interface_sequence__receptor		34.0	135.0	"{""inner_macro_auc"": 0.7745874019586756, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	0	0	16.0	ok	196	11	interface_sequence	sequence_cluster_30_grouped_5fold	primary__interface_sequence__seq30		1.0	4.0	"{""inner_macro_auc"": 0.9055555555555557, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	29.0	0.0
+True	1	0	81.0	ok	11	196	interface_sequence	sequence_cluster_30_grouped_5fold	primary__interface_sequence__seq30		4.0	1.0	"{""inner_macro_auc"": 0.8236116191019579, ""model__C"": 3.0, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	0	0	16.0	ok	135	72	interface_sequence	sequence_cluster_40_grouped_5fold	primary__interface_sequence__seq40		1.0	19.0	"{""inner_macro_auc"": 0.713996016572771, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	1	0	66.0	ok	21	186	interface_sequence	sequence_cluster_40_grouped_5fold	primary__interface_sequence__seq40		3.0	17.0	"{""inner_macro_auc"": 0.8297374725765247, ""model__C"": 10.0, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	2	0	24.0	ok	18	189	interface_sequence	sequence_cluster_40_grouped_5fold	primary__interface_sequence__seq40		7.0	13.0	"{""inner_macro_auc"": 0.7711943733356722, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	3	0	88.0	ok	16	191	interface_sequence	sequence_cluster_40_grouped_5fold	primary__interface_sequence__seq40		5.0	15.0	"{""inner_macro_auc"": 0.8285735509231132, ""model__C"": 3.0, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	4	0	37.0	ok	17	190	interface_sequence	sequence_cluster_40_grouped_5fold	primary__interface_sequence__seq40		4.0	16.0	"{""inner_macro_auc"": 0.8121805361762385, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	0	0	66.0	ok	40	167	interface_sequence	sequence_cluster_50_grouped_5fold	primary__interface_sequence__seq50		8.0	40.0	"{""inner_macro_auc"": 0.8133324948450481, ""model__C"": 3.0, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	1	0	37.0	ok	42	165	interface_sequence	sequence_cluster_50_grouped_5fold	primary__interface_sequence__seq50		11.0	37.0	"{""inner_macro_auc"": 0.7854623968220662, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	2	0	65.0	ok	41	166	interface_sequence	sequence_cluster_50_grouped_5fold	primary__interface_sequence__seq50		14.0	34.0	"{""inner_macro_auc"": 0.804485012915133, ""model__C"": 10.0, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	3	0	23.0	ok	46	161	interface_sequence	sequence_cluster_50_grouped_5fold	primary__interface_sequence__seq50		3.0	45.0	"{""inner_macro_auc"": 0.777814137546648, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	4	0	22.0	ok	38	169	interface_sequence	sequence_cluster_50_grouped_5fold	primary__interface_sequence__seq50		12.0	36.0	"{""inner_macro_auc"": 0.7759204144620812, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	0	0	33.0	ok	42	165	noninterface_sequence	receptor_grouped_5fold	primary__noninterface_sequence__receptor		36.0	133.0	"{""inner_macro_auc"": 0.7100589020033464, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	34.0	0.0
+True	1	0	104.0	ok	42	165	noninterface_sequence	receptor_grouped_5fold	primary__noninterface_sequence__receptor		34.0	135.0	"{""inner_macro_auc"": 0.741173247609562, ""model__C"": 3.0, ""model__l1_ratio"": 0.0}"	50000.0	34.0	0.0
+True	2	0	38.0	ok	39	168	noninterface_sequence	receptor_grouped_5fold	primary__noninterface_sequence__receptor		31.0	138.0	"{""inner_macro_auc"": 0.7347219592117749, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	32.0	0.0
+True	3	0	36.0	ok	42	165	noninterface_sequence	receptor_grouped_5fold	primary__noninterface_sequence__receptor		34.0	135.0	"{""inner_macro_auc"": 0.7367545633128288, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	34.0	0.0
+True	4	0	18.0	ok	42	165	noninterface_sequence	receptor_grouped_5fold	primary__noninterface_sequence__receptor		34.0	135.0	"{""inner_macro_auc"": 0.7050802254054287, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	34.0	0.0
+True	0	0	50.0	ok	196	11	noninterface_sequence	sequence_cluster_30_grouped_5fold	primary__noninterface_sequence__seq30		1.0	4.0	"{""inner_macro_auc"": 0.875, ""model__C"": 10.0, ""model__l1_ratio"": 0.0}"	50000.0	34.0	0.0
+True	1	0	26.0	ok	11	196	noninterface_sequence	sequence_cluster_30_grouped_5fold	primary__noninterface_sequence__seq30		4.0	1.0	"{""inner_macro_auc"": 0.738805976305671, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	32.0	0.0
+True	0	0	36.0	ok	135	72	noninterface_sequence	sequence_cluster_40_grouped_5fold	primary__noninterface_sequence__seq40		1.0	19.0	"{""inner_macro_auc"": 0.6861650877550001, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	34.0	0.0
+True	1	0	87.0	ok	21	186	noninterface_sequence	sequence_cluster_40_grouped_5fold	primary__noninterface_sequence__seq40		3.0	17.0	"{""inner_macro_auc"": 0.7767794173475705, ""model__C"": 1.0, ""model__l1_ratio"": 0.0}"	50000.0	34.0	0.0
+True	2	0	39.0	ok	18	189	noninterface_sequence	sequence_cluster_40_grouped_5fold	primary__noninterface_sequence__seq40		7.0	13.0	"{""inner_macro_auc"": 0.7176046686201841, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	32.0	0.0
+True	3	0	48.0	ok	16	191	noninterface_sequence	sequence_cluster_40_grouped_5fold	primary__noninterface_sequence__seq40		5.0	15.0	"{""inner_macro_auc"": 0.7533906859615459, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	34.0	0.0
+True	4	0	44.0	ok	17	190	noninterface_sequence	sequence_cluster_40_grouped_5fold	primary__noninterface_sequence__seq40		4.0	16.0	"{""inner_macro_auc"": 0.7498877068339754, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	34.0	0.0
+True	0	0	57.0	ok	40	167	noninterface_sequence	sequence_cluster_50_grouped_5fold	primary__noninterface_sequence__seq50		8.0	40.0	"{""inner_macro_auc"": 0.7665932367404972, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	34.0	0.0
+True	1	0	14.0	ok	42	165	noninterface_sequence	sequence_cluster_50_grouped_5fold	primary__noninterface_sequence__seq50		11.0	37.0	"{""inner_macro_auc"": 0.7309931096203574, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	34.0	0.0
+True	2	0	68.0	ok	41	166	noninterface_sequence	sequence_cluster_50_grouped_5fold	primary__noninterface_sequence__seq50		14.0	34.0	"{""inner_macro_auc"": 0.7709482995245674, ""model__C"": 1.0, ""model__l1_ratio"": 0.0}"	50000.0	32.0	0.0
+True	3	0	47.0	ok	46	161	noninterface_sequence	sequence_cluster_50_grouped_5fold	primary__noninterface_sequence__seq50		3.0	45.0	"{""inner_macro_auc"": 0.7386282342866705, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	34.0	0.0
+True	4	0	51.0	ok	38	169	noninterface_sequence	sequence_cluster_50_grouped_5fold	primary__noninterface_sequence__seq50		12.0	36.0	"{""inner_macro_auc"": 0.7165501275172685, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	34.0	0.0
+True	0	0	34.0	ok	42	165	sequence_plus_geometry	receptor_grouped_5fold	primary__sequence_plus_geometry__receptor		36.0	133.0	"{""inner_macro_auc"": 0.8069543133770775, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	66.0	96.0
+True	1	0	33.0	ok	42	165	sequence_plus_geometry	receptor_grouped_5fold	primary__sequence_plus_geometry__receptor		34.0	135.0	"{""inner_macro_auc"": 0.8191553252528863, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	67.0	96.0
+True	2	0	34.0	ok	39	168	sequence_plus_geometry	receptor_grouped_5fold	primary__sequence_plus_geometry__receptor		31.0	138.0	"{""inner_macro_auc"": 0.7820006072954913, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	65.0	96.0
+True	3	0	33.0	ok	42	165	sequence_plus_geometry	receptor_grouped_5fold	primary__sequence_plus_geometry__receptor		34.0	135.0	"{""inner_macro_auc"": 0.7965723175750276, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	67.0	96.0
+True	4	0	34.0	ok	42	165	sequence_plus_geometry	receptor_grouped_5fold	primary__sequence_plus_geometry__receptor		34.0	135.0	"{""inner_macro_auc"": 0.7946939390028821, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	67.0	96.0
+True	0	0	24.0	ok	196	11	sequence_plus_geometry	sequence_cluster_30_grouped_5fold	primary__sequence_plus_geometry__seq30		1.0	4.0	"{""inner_macro_auc"": 0.6055555555555556, ""model__C"": 1.0, ""model__l1_ratio"": 0.0}"	50000.0	64.0	96.0
+True	1	0	35.0	ok	11	196	sequence_plus_geometry	sequence_cluster_30_grouped_5fold	primary__sequence_plus_geometry__seq30		4.0	1.0	"{""inner_macro_auc"": 0.8022744154533723, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	65.0	96.0
+True	0	0	26.0	ok	135	72	sequence_plus_geometry	sequence_cluster_40_grouped_5fold	primary__sequence_plus_geometry__seq40		1.0	19.0	"{""inner_macro_auc"": 0.762321981949175, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	67.0	96.0
+True	1	0	36.0	ok	21	186	sequence_plus_geometry	sequence_cluster_40_grouped_5fold	primary__sequence_plus_geometry__seq40		3.0	17.0	"{""inner_macro_auc"": 0.8261939412975877, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	67.0	96.0
+True	2	0	36.0	ok	18	189	sequence_plus_geometry	sequence_cluster_40_grouped_5fold	primary__sequence_plus_geometry__seq40		7.0	13.0	"{""inner_macro_auc"": 0.8003214198546881, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	65.0	96.0
+True	3	0	34.0	ok	16	191	sequence_plus_geometry	sequence_cluster_40_grouped_5fold	primary__sequence_plus_geometry__seq40		5.0	15.0	"{""inner_macro_auc"": 0.8299492417495541, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	67.0	96.0
+True	4	0	36.0	ok	17	190	sequence_plus_geometry	sequence_cluster_40_grouped_5fold	primary__sequence_plus_geometry__seq40		4.0	16.0	"{""inner_macro_auc"": 0.8258949437658183, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	67.0	96.0
+True	0	0	34.0	ok	40	167	sequence_plus_geometry	sequence_cluster_50_grouped_5fold	primary__sequence_plus_geometry__seq50		8.0	40.0	"{""inner_macro_auc"": 0.8054097854368857, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	67.0	96.0
+True	1	0	32.0	ok	42	165	sequence_plus_geometry	sequence_cluster_50_grouped_5fold	primary__sequence_plus_geometry__seq50		11.0	37.0	"{""inner_macro_auc"": 0.7843107650610621, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	67.0	96.0
+True	2	0	34.0	ok	41	166	sequence_plus_geometry	sequence_cluster_50_grouped_5fold	primary__sequence_plus_geometry__seq50		14.0	34.0	"{""inner_macro_auc"": 0.8132247478937374, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	65.0	96.0
+True	3	0	47.0	ok	46	161	sequence_plus_geometry	sequence_cluster_50_grouped_5fold	primary__sequence_plus_geometry__seq50		3.0	45.0	"{""inner_macro_auc"": 0.7902427822901075, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	67.0	96.0
+True	4	0	51.0	ok	38	169	sequence_plus_geometry	sequence_cluster_50_grouped_5fold	primary__sequence_plus_geometry__seq50		12.0	36.0	"{""inner_macro_auc"": 0.7888321692860988, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	67.0	96.0
+True	0	0	36.0	ok	27	108	endpoint_geometry_single_transducer	single_transducer_receptor_grouped_5fold	single__endpoint_geometry		27.0	108.0	"{""inner_macro_auc"": 0.8665661665536925, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	5.0	96.0
+True	1	0	19.0	ok	27	108	endpoint_geometry_single_transducer	single_transducer_receptor_grouped_5fold	single__endpoint_geometry		27.0	108.0	"{""inner_macro_auc"": 0.7648591525922693, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	5.0	96.0
+True	2	0	28.0	ok	27	108	endpoint_geometry_single_transducer	single_transducer_receptor_grouped_5fold	single__endpoint_geometry		27.0	108.0	"{""inner_macro_auc"": 0.7767304909188741, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	5.0	96.0
+True	3	0	26.0	ok	27	108	endpoint_geometry_single_transducer	single_transducer_receptor_grouped_5fold	single__endpoint_geometry		27.0	108.0	"{""inner_macro_auc"": 0.8197282979840926, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	5.0	96.0
+True	4	0	19.0	ok	27	108	endpoint_geometry_single_transducer	single_transducer_receptor_grouped_5fold	single__endpoint_geometry		27.0	108.0	"{""inner_macro_auc"": 0.8348795351005508, ""model__C"": 0.03, ""model__l1_ratio"": 0.0}"	50000.0	5.0	96.0
+True	0	0	25.0	ok	27	108	full_sequence_single_transducer	single_transducer_receptor_grouped_5fold	single__full_sequence		27.0	108.0	"{""inner_macro_auc"": 0.8057827094026165, ""model__C"": 0.1, ""model__l1_ratio"": 0.0}"	50000.0	64.0	0.0
+True	1	0	33.0	ok	27	108	full_sequence_single_transducer	single_transducer_receptor_grouped_5fold	single__full_sequence		27.0	108.0	"{""inner_macro_auc"": 0.7945807036632154, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	62.0	0.0
+True	2	0	26.0	ok	27	108	full_sequence_single_transducer	single_transducer_receptor_grouped_5fold	single__full_sequence		27.0	108.0	"{""inner_macro_auc"": 0.8538372799826358, ""model__C"": 10.0, ""model__l1_ratio"": 0.0}"	50000.0	64.0	0.0
+True	3	0	39.0	ok	27	108	full_sequence_single_transducer	single_transducer_receptor_grouped_5fold	single__full_sequence		27.0	108.0	"{""inner_macro_auc"": 0.8799813834610112, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	64.0	0.0
+True	4	0	38.0	ok	27	108	full_sequence_single_transducer	single_transducer_receptor_grouped_5fold	single__full_sequence		27.0	108.0	"{""inner_macro_auc"": 0.86854796792902, ""model__C"": 0.3, ""model__l1_ratio"": 0.0}"	50000.0	64.0	0.0
+True	0	0	31.0	ok	27	108	interface_sequence_single_transducer	single_transducer_receptor_grouped_5fold	single__interface_sequence		27.0	108.0	"{""inner_macro_auc"": 0.7992420824416918, ""model__C"": 3.0, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	1	0	38.0	ok	27	108	interface_sequence_single_transducer	single_transducer_receptor_grouped_5fold	single__interface_sequence		27.0	108.0	"{""inner_macro_auc"": 0.8239136513937472, ""model__C"": 3.0, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	2	0	26.0	ok	27	108	interface_sequence_single_transducer	single_transducer_receptor_grouped_5fold	single__interface_sequence		27.0	108.0	"{""inner_macro_auc"": 0.8417635320170298, ""model__C"": 10.0, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	3	0	30.0	ok	27	108	interface_sequence_single_transducer	single_transducer_receptor_grouped_5fold	single__interface_sequence		27.0	108.0	"{""inner_macro_auc"": 0.8693964188482227, ""model__C"": 1.0, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	4	0	37.0	ok	27	108	interface_sequence_single_transducer	single_transducer_receptor_grouped_5fold	single__interface_sequence		27.0	108.0	"{""inner_macro_auc"": 0.8812555603003451, ""model__C"": 3.0, ""model__l1_ratio"": 0.0}"	50000.0	30.0	0.0
+True	0	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__000__receptor							
+True	1	0	31.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__000__receptor							
+True	2	0	23.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__000__receptor							
+True	3	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__000__receptor							
+True	4	0	29.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__000__receptor							
+True	0	0	19.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__000__seq30							
+True	1	0	36.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__000__seq30							
+True	0	0	33.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__001__receptor							
+True	1	0	27.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__001__receptor							
+True	2	0	30.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__001__receptor							
+True	3	0	31.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__001__receptor							
+True	4	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__001__receptor							
+True	0	0	22.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__001__seq30							
+True	1	0	25.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__001__seq30							
+True	0	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__002__receptor							
+True	1	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__002__receptor							
+True	2	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__002__receptor							
+True	3	0	29.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__002__receptor							
+True	4	0	32.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__002__receptor							
+True	0	0	19.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__002__seq30							
+True	1	0	34.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__002__seq30							
+True	0	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__003__receptor							
+True	1	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__003__receptor							
+True	2	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__003__receptor							
+True	3	0	32.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__003__receptor							
+True	4	0	34.0	ok	39	168	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__003__receptor							
+True	0	0	17.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__003__seq30							
+True	1	0	31.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__003__seq30							
+True	0	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__004__receptor							
+True	1	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__004__receptor							
+True	2	0	36.0	ok	39	168	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__004__receptor							
+True	3	0	31.0	ok	43	164	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__004__receptor							
+True	4	0	31.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__004__receptor							
+True	0	0	18.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__004__seq30							
+True	1	0	30.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__004__seq30							
+True	0	0	30.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__005__receptor							
+True	1	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__005__receptor							
+True	2	0	27.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__005__receptor							
+True	3	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__005__receptor							
+True	4	0	32.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__005__receptor							
+True	0	0	17.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__005__seq30							
+True	1	0	25.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__005__seq30							
+True	0	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__006__receptor							
+True	1	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__006__receptor							
+True	2	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__006__receptor							
+True	3	0	30.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__006__receptor							
+True	4	0	27.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__006__receptor							
+True	0	0	25.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__006__seq30							
+True	1	0	30.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__006__seq30							
+True	0	0	32.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__007__receptor							
+True	1	0	33.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__007__receptor							
+True	2	0	33.0	ok	39	168	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__007__receptor							
+True	3	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__007__receptor							
+True	4	0	26.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__007__receptor							
+True	0	0	25.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__007__seq30							
+True	1	0	28.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__007__seq30							
+True	0	0	32.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__008__receptor							
+True	1	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__008__receptor							
+True	2	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__008__receptor							
+True	3	0	27.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__008__receptor							
+True	4	0	35.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__008__receptor							
+True	0	0	22.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__008__seq30							
+True	1	0	30.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__008__seq30							
+True	0	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__009__receptor							
+True	1	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__009__receptor							
+True	2	0	27.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__009__receptor							
+True	3	0	28.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__009__receptor							
+True	4	0	30.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__009__receptor							
+True	0	0	23.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__009__seq30							
+True	1	0	29.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__009__seq30							
+True	0	0	32.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__010__receptor							
+True	1	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__010__receptor							
+True	2	0	27.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__010__receptor							
+True	3	0	32.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__010__receptor							
+True	4	0	31.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__010__receptor							
+True	0	0	16.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__010__seq30							
+True	1	0	29.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__010__seq30							
+True	0	0	35.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__011__receptor							
+True	1	0	29.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__011__receptor							
+True	2	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__011__receptor							
+True	3	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__011__receptor							
+True	4	0	29.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__011__receptor							
+True	0	0	23.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__011__seq30							
+True	1	0	30.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__011__seq30							
+True	0	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__012__receptor							
+True	1	0	29.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__012__receptor							
+True	2	0	27.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__012__receptor							
+True	3	0	32.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__012__receptor							
+True	4	0	34.0	ok	43	164	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__012__receptor							
+True	0	0	20.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__012__seq30							
+True	1	0	31.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__012__seq30							
+True	0	0	31.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__013__receptor							
+True	1	0	31.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__013__receptor							
+True	2	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__013__receptor							
+True	3	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__013__receptor							
+True	4	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__013__receptor							
+True	0	0	18.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__013__seq30							
+True	1	0	34.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__013__seq30							
+True	0	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__014__receptor							
+True	1	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__014__receptor							
+True	2	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__014__receptor							
+True	3	0	26.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__014__receptor							
+True	4	0	29.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__014__receptor							
+True	0	0	24.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__014__seq30							
+True	1	0	31.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__014__seq30							
+True	0	0	31.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__015__receptor							
+True	1	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__015__receptor							
+True	2	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__015__receptor							
+True	3	0	26.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__015__receptor							
+True	4	0	27.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__015__receptor							
+True	0	0	18.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__015__seq30							
+True	1	0	30.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__015__seq30							
+True	0	0	35.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__016__receptor							
+True	1	0	33.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__016__receptor							
+True	2	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__016__receptor							
+True	3	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__016__receptor							
+True	4	0	29.0	ok	39	168	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__016__receptor							
+True	0	0	25.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__016__seq30							
+True	1	0	29.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__016__seq30							
+True	0	0	33.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__017__receptor							
+True	1	0	29.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__017__receptor							
+True	2	0	26.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__017__receptor							
+True	3	0	32.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__017__receptor							
+True	4	0	33.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__017__receptor							
+True	0	0	17.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__017__seq30							
+True	1	0	31.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__017__seq30							
+True	0	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__018__receptor							
+True	1	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__018__receptor							
+True	2	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__018__receptor							
+True	3	0	32.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__018__receptor							
+True	4	0	30.0	ok	39	168	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__018__receptor							
+True	0	0	18.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__018__seq30							
+True	1	0	32.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__018__seq30							
+True	0	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__019__receptor							
+True	1	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__019__receptor							
+True	2	0	30.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__019__receptor							
+True	3	0	33.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__019__receptor							
+True	4	0	33.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__019__receptor							
+True	0	0	23.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__019__seq30							
+True	1	0	35.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__019__seq30							
+True	0	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__020__receptor							
+True	1	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__020__receptor							
+True	2	0	26.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__020__receptor							
+True	3	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__020__receptor							
+True	4	0	29.0	ok	39	168	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__020__receptor							
+True	0	0	19.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__020__seq30							
+True	1	0	33.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__020__seq30							
+True	0	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__021__receptor							
+True	1	0	26.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__021__receptor							
+True	2	0	30.0	ok	39	168	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__021__receptor							
+True	3	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__021__receptor							
+True	4	0	26.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__021__receptor							
+True	0	0	19.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__021__seq30							
+True	1	0	34.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__021__seq30							
+True	0	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__022__receptor							
+True	1	0	31.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__022__receptor							
+True	2	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__022__receptor							
+True	3	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__022__receptor							
+True	4	0	29.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__022__receptor							
+True	0	0	17.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__022__seq30							
+True	1	0	35.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__022__seq30							
+True	0	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__023__receptor							
+True	1	0	32.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__023__receptor							
+True	2	0	28.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__023__receptor							
+True	3	0	29.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__023__receptor							
+True	4	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__023__receptor							
+True	0	0	25.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__023__seq30							
+True	1	0	34.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__023__seq30							
+True	0	0	20.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__024__receptor							
+True	1	0	31.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__024__receptor							
+True	2	0	33.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__024__receptor							
+True	3	0	30.0	ok	43	164	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__024__receptor							
+True	4	0	32.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__024__receptor							
+True	0	0	25.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__024__seq30							
+True	1	0	32.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__024__seq30							
+True	0	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__025__receptor							
+True	1	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__025__receptor							
+True	2	0	27.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__025__receptor							
+True	3	0	26.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__025__receptor							
+True	4	0	30.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__025__receptor							
+True	0	0	19.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__025__seq30							
+True	1	0	26.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__025__seq30							
+True	0	0	26.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__026__receptor							
+True	1	0	29.0	ok	39	168	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__026__receptor							
+True	2	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__026__receptor							
+True	3	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__026__receptor							
+True	4	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__026__receptor							
+True	0	0	22.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__026__seq30							
+True	1	0	36.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__026__seq30							
+True	0	0	27.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__027__receptor							
+True	1	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__027__receptor							
+True	2	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__027__receptor							
+True	3	0	28.0	ok	39	168	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__027__receptor							
+True	4	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__027__receptor							
+True	0	0	23.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__027__seq30							
+True	1	0	29.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__027__seq30							
+True	0	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__028__receptor							
+True	1	0	33.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__028__receptor							
+True	2	0	32.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__028__receptor							
+True	3	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__028__receptor							
+True	4	0	32.0	ok	39	168	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__028__receptor							
+True	0	0	23.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__028__seq30							
+True	1	0	33.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__028__seq30							
+True	0	0	33.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__029__receptor							
+True	1	0	27.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__029__receptor							
+True	2	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__029__receptor							
+True	3	0	29.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__029__receptor							
+True	4	0	35.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__029__receptor							
+True	0	0	21.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__029__seq30							
+True	1	0	34.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__029__seq30							
+True	0	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__030__receptor							
+True	1	0	32.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__030__receptor							
+True	2	0	27.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__030__receptor							
+True	3	0	31.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__030__receptor							
+True	4	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__030__receptor							
+True	0	0	24.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__030__seq30							
+True	1	0	35.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__030__seq30							
+True	0	0	30.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__031__receptor							
+True	1	0	26.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__031__receptor							
+True	2	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__031__receptor							
+True	3	0	33.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__031__receptor							
+True	4	0	31.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__031__receptor							
+True	0	0	23.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__031__seq30							
+True	1	0	35.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__031__seq30							
+True	0	0	30.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__032__receptor							
+True	1	0	26.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__032__receptor							
+True	2	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__032__receptor							
+True	3	0	29.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__032__receptor							
+True	4	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__032__receptor							
+True	0	0	23.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__032__seq30							
+True	1	0	27.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__032__seq30							
+True	0	0	33.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__033__receptor							
+True	1	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__033__receptor							
+True	2	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__033__receptor							
+True	3	0	29.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__033__receptor							
+True	4	0	29.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__033__receptor							
+True	0	0	27.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__033__seq30							
+True	1	0	25.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__033__seq30							
+True	0	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__034__receptor							
+True	1	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__034__receptor							
+True	2	0	33.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__034__receptor							
+True	3	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__034__receptor							
+True	4	0	28.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__034__receptor							
+True	0	0	18.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__034__seq30							
+True	1	0	34.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__034__seq30							
+True	0	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__035__receptor							
+True	1	0	33.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__035__receptor							
+True	2	0	32.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__035__receptor							
+True	3	0	28.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__035__receptor							
+True	4	0	29.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__035__receptor							
+True	0	0	19.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__035__seq30							
+True	1	0	36.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__035__seq30							
+True	0	0	26.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__036__receptor							
+True	1	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__036__receptor							
+True	2	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__036__receptor							
+True	3	0	24.0	ok	39	168	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__036__receptor							
+True	4	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__036__receptor							
+True	0	0	22.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__036__seq30							
+True	1	0	28.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__036__seq30							
+True	0	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__037__receptor							
+True	1	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__037__receptor							
+True	2	0	29.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__037__receptor							
+True	3	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__037__receptor							
+True	4	0	27.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__037__receptor							
+True	0	0	21.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__037__seq30							
+True	1	0	33.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__037__seq30							
+True	0	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__038__receptor							
+True	1	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__038__receptor							
+True	2	0	29.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__038__receptor							
+True	3	0	30.0	ok	43	164	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__038__receptor							
+True	4	0	31.0	ok	39	168	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__038__receptor							
+True	0	0	18.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__038__seq30							
+True	1	0	36.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__038__seq30							
+True	0	0	35.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__039__receptor							
+True	1	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__039__receptor							
+True	2	0	29.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__039__receptor							
+True	3	0	32.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__039__receptor							
+True	4	0	27.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__039__receptor							
+True	0	0	21.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__039__seq30							
+True	1	0	34.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__039__seq30							
+True	0	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__040__receptor							
+True	1	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__040__receptor							
+True	2	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__040__receptor							
+True	3	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__040__receptor							
+True	4	0	32.0	ok	39	168	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__040__receptor							
+True	0	0	23.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__040__seq30							
+True	1	0	30.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__040__seq30							
+True	0	0	27.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__041__receptor							
+True	1	0	24.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__041__receptor							
+True	2	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__041__receptor							
+True	3	0	27.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__041__receptor							
+True	4	0	26.0	ok	39	168	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__041__receptor							
+True	0	0	22.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__041__seq30							
+True	1	0	30.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__041__seq30							
+True	0	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__042__receptor							
+True	1	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__042__receptor							
+True	2	0	26.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__042__receptor							
+True	3	0	32.0	ok	39	168	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__042__receptor							
+True	4	0	32.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__042__receptor							
+True	0	0	18.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__042__seq30							
+True	1	0	32.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__042__seq30							
+True	0	0	35.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__043__receptor							
+True	1	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__043__receptor							
+True	2	0	28.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__043__receptor							
+True	3	0	31.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__043__receptor							
+True	4	0	33.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__043__receptor							
+True	0	0	25.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__043__seq30							
+True	1	0	27.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__043__seq30							
+True	0	0	25.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__044__receptor							
+True	1	0	33.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__044__receptor							
+True	2	0	34.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__044__receptor							
+True	3	0	27.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__044__receptor							
+True	4	0	32.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__044__receptor							
+True	0	0	24.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__044__seq30							
+True	1	0	30.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__044__seq30							
+True	0	0	27.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__045__receptor							
+True	1	0	33.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__045__receptor							
+True	2	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__045__receptor							
+True	3	0	30.0	ok	39	168	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__045__receptor							
+True	4	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__045__receptor							
+True	0	0	17.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__045__seq30							
+True	1	0	29.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__045__seq30							
+True	0	0	31.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__046__receptor							
+True	1	0	23.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__046__receptor							
+True	2	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__046__receptor							
+True	3	0	31.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__046__receptor							
+True	4	0	32.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__046__receptor							
+True	0	0	23.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__046__seq30							
+True	1	0	35.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__046__seq30							
+True	0	0	31.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__047__receptor							
+True	1	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__047__receptor							
+True	2	0	31.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__047__receptor							
+True	3	0	34.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__047__receptor							
+True	4	0	29.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__047__receptor							
+True	0	0	23.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__047__seq30							
+True	1	0	31.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__047__seq30							
+True	0	0	30.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__048__receptor							
+True	1	0	35.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__048__receptor							
+True	2	0	29.0	ok	39	168	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__048__receptor							
+True	3	0	27.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__048__receptor							
+True	4	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__048__receptor							
+True	0	0	22.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__048__seq30							
+True	1	0	31.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__048__seq30							
+True	0	0	27.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__049__receptor							
+True	1	0	27.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__049__receptor							
+True	2	0	29.0	ok	42	165	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__049__receptor							
+True	3	0	32.0	ok	40	167	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__049__receptor							
+True	4	0	26.0	ok	41	166	within_receptor_position_shuffle	receptor_grouped_5fold	within_receptor_position_shuffle__049__receptor							
+True	0	0	22.0	ok	196	11	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__049__seq30							
+True	1	0	33.0	ok	11	196	within_receptor_position_shuffle	sequence_cluster_30_grouped_5fold	within_receptor_position_shuffle__049__seq30							

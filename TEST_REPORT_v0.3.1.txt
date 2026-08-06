@@ -1,0 +1,21 @@
+GPCR SelectivityMap v0.3.1 public-release test report
+Date: 2026-08-06
+Python: 3.12
+
+Commands:
+  python -m compileall -q src tests manuscript/figure_scripts
+  python -m pip install --no-deps --no-build-isolation -e .
+  pytest -q
+  python -m gpcr_selectivitymap --help
+  python manuscript/figure_scripts/fig1.py
+  python manuscript/figure_scripts/fig2.py
+  python manuscript/figure_scripts/fig3.py
+  python manuscript/figure_scripts/fig4.py
+
+Pytest result:
+  .............                                                            [100%]
+  13 passed
+
+Build result:
+  gpcr_selectivitymap-0.3.1-py3-none-any.whl
+  SHA-256: 8a84db8677deed3af895538b5e48b36e409f7a6e84ae3d950ee3301c43934305

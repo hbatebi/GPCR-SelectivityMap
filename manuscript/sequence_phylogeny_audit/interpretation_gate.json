@@ -1,0 +1,61 @@
+{
+  "interpretation_limits": [
+    "The interface region is physically defined, but coefficient localisation remains descriptive.",
+    "Bound-complex labels are structural observations, whereas receptor-only functional labels require separate provenance review.",
+    "The current representative frame already contains one structure per receptor-by-transducer-family unit; promiscuous receptors cannot be collapsed to one multiclass row without changing the target to multilabel.",
+    "A negative low-identity result does not show that interface chemistry is biologically irrelevant."
+  ],
+  "key_metrics": {
+    "coarse_taxonomy_30pct_cluster_auc": 0.4537036569751116,
+    "full_sequence_30pct_cluster_auc": 0.5391978346938785,
+    "full_sequence_receptor_grouped_auc": 0.790133352433306,
+    "global_identity_knn_30pct_cluster_auc": 0.549548286225276,
+    "interface_sequence_30pct_cluster_auc": 0.5520285900839766
+  },
+  "key_paired_results": {
+    "full_sequence_vs_geometry_receptor_grouped": {
+      "auc_difference": 0.014205639693448902,
+      "auc_difference_ci_high": 0.06462182544290343,
+      "auc_difference_ci_low": -0.03661061912198361,
+      "candidate_model": "full_sequence",
+      "comparison": "full_sequence_minus_endpoint_geometry",
+      "log_loss_difference": -0.06166027936366281,
+      "log_loss_difference_ci_high": 0.04284810689081688,
+      "log_loss_difference_ci_low": -0.16765955761023377,
+      "n_receptors": 169,
+      "n_rows": 207,
+      "reference_model": "endpoint_geometry",
+      "validation": "receptor_grouped_5fold"
+    },
+    "interface_vs_global_identity_knn_30pct": {
+      "auc_difference": 0.002480303858700683,
+      "auc_difference_ci_high": 0.05463973585380766,
+      "auc_difference_ci_low": -0.05155717273100743,
+      "candidate_model": "interface_sequence",
+      "comparison": "interface_sequence_minus_global_identity_knn",
+      "log_loss_difference": -0.161496639846338,
+      "log_loss_difference_ci_high": -0.06459864595756751,
+      "log_loss_difference_ci_low": -0.2683842818926943,
+      "n_receptors": 169,
+      "n_rows": 207,
+      "reference_model": "global_identity_knn",
+      "validation": "sequence_cluster_30_grouped_5fold"
+    },
+    "interface_vs_noninterface_30pct": {
+      "auc_difference": -0.004114709986322129,
+      "auc_difference_ci_high": 0.06184147533836921,
+      "auc_difference_ci_low": -0.06833283501664947,
+      "candidate_model": "interface_sequence",
+      "comparison": "interface_sequence_minus_noninterface_sequence",
+      "log_loss_difference": -0.32085310433631564,
+      "log_loss_difference_ci_high": -0.16149820766373432,
+      "log_loss_difference_ci_low": -0.47642593994579135,
+      "n_receptors": 169,
+      "n_rows": 207,
+      "reference_model": "noninterface_sequence",
+      "validation": "sequence_cluster_30_grouped_5fold"
+    }
+  },
+  "outcome": "phylogeny_dominated",
+  "recommended_wording": "The sequence advantage weakens under low-identity transfer and is largely consistent with evolutionary organisation rather than a general interface code."
+}

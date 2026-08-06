@@ -1,0 +1,20 @@
+# Example settings for manuscript-style phylogeny-aware evaluation.
+target: transducer_family
+receptor_column: receptor_name
+identity_thresholds: [0.30, 0.40, 0.50]
+interface_positions: config/intracellular_interface_positions.tsv
+geometry_prefixes:
+  - scv_
+  - geometry_
+  - cavity_
+  - microswitch_
+  - intracellular_
+coarse_taxonomy_columns:
+  - receptor_ligand_class
+  - receptor_subfamily
+fine_taxonomy_columns:
+  - receptor_family
+folds: 5
+seed: 20272729
+bootstraps: 2000
+k_neighbors: 5

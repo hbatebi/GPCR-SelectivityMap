@@ -1,0 +1,9 @@
+models:
+  contact_network:
+    prefixes: [contact_, availability_contact]
+  surface_electrostatics:
+    prefixes: [surface_, electro_, availability_surface, availability_electro]
+  mechanical_susceptibility:
+    prefixes: [mechanical_, availability_mechanical]
+  all_new_static:
+    prefixes: [contact_, surface_, electro_, mechanical_, availability_]

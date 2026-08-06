@@ -1,0 +1,24 @@
+{
+  "all_primary_model_folds_converged": true,
+  "completed_utc": "2026-08-05T09:12:42.638528+00:00",
+  "failed_checkpoint_count": 0,
+  "failed_checkpoints": [],
+  "interpretation_outcome": "phylogeny_dominated",
+  "key_output_files": [
+    "metrics/model_metrics.tsv",
+    "metrics/paired_model_differences.tsv",
+    "predictions/out_of_fold_predictions.tsv",
+    "coefficients/position_coefficient_summary.tsv",
+    "coefficients/interface_coefficient_enrichment.tsv",
+    "controls/control_summary.tsv",
+    "controls/interface_control_tests.tsv",
+    "granularity/receptor_transducer_unit_multiplicity.tsv",
+    "label_provenance/bound_label_provenance.tsv",
+    "label_provenance/functional_label_provenance.tsv",
+    "interpretation_gate.json",
+    "run_summary.md"
+  ],
+  "mode": "full",
+  "output_dir": "results/microswitches/sequence_interface_audit_v1",
+  "success": true
+}

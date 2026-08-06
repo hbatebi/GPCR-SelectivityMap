@@ -1,0 +1,25 @@
+Receptor-only static selectivity extension v0.1.1
+Verification date: 2026-08-04
+
+Verification performed against the supplied gpcr-icl2-microswitches-complete repository:
+
+- Python source compilation: PASS
+- Bash syntax: quick and full Fritz launchers PASS
+- Unit tests: 4/4 PASS
+  - generic-number normalisation
+  - receptor-centred coordinate-frame orthonormality
+  - contact-network and ANM feature sanity
+  - receptor-block permutation behavior
+- End-to-end quick run: PASS
+  - 24 bound structures / 24 receptors
+  - 59 total structures feature-extracted
+  - 8 matched models completed
+  - all outer folds converged
+  - receptor-group leakage audit passed
+  - ligand-permissive and polymer-only held-receptor transfer completed
+- Resume test: PASS
+  - feature checkpoints reused
+  - per-model checkpoints reused
+  - strict-transfer checkpoints reused
+
+The quick result is a technical and directional smoke test only. It is not intended for manuscript inference.
