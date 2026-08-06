@@ -1,13 +1,12 @@
 # GPCR SelectivityMap
 
-[![Tests](https://github.com/hbatebi/GPCR-SelectivityMap/actions/workflows/tests.yml/badge.svg)](https://github.com/hbatebi/GPCR-SelectivityMap/actions/workflows/tests.yml)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-0.3.1-informational.svg)](CHANGELOG.md)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21820928.svg)](https://doi.org/10.5281/zenodo.21820928)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**GPCR SelectivityMap** is an open, auditable toolkit for resolving the distinct sources of information encoded by class A GPCR endpoint structures. It profiles generic-position sequence, activation geometry, contact networks, intracellular surface chemistry, approximate electrostatics, and elastic-network susceptibility, then stress-tests those representations with receptor grouping, sequence-identity cluster transfer, missingness baselines, interface controls, and receptor-only evaluation.
 
-The framework separates **conserved receptor state**, **evolutionary organization**, **receptor-side compatibility**, **bound-partner association**, and evidence for **transferable receptor-intrinsic preference**. It reports structural associations and validation outcomes, not calibrated functional G-protein coupling probabilities.
+**GPCR SelectivityMap** is an open, auditable toolkit for static receptor profiling and phylogeny-aware benchmarking of class A G protein-coupled receptors. It integrates GPCR generic-position sequence, endpoint geometry, contact networks, intracellular surface chemistry, approximate electrostatics, and elastic-network susceptibility, then tests whether apparent signals survive receptor grouping, low-homology transfer, missingness controls, and interface-specificity audits.
+
+The package is designed to separate **bound-class association**, **family-constrained signal**, and **transferable evidence** before biological interpretation. It does not report calibrated functional G-protein coupling probabilities.
 
 ## Experimental interface-complementarity module
 
@@ -34,19 +33,21 @@ gpcr-selectivitymap receptor-compatibility \
 
 These are compatibility scores, not calibrated functional coupling probabilities.
 
-## What changed in v0.3.1
+## What changed in v0.2.0
 
-Version 0.3.1 aligns the public software release with the manuscript's layered-contribution model:
+Version 0.2.0 adds the controls required to distinguish transferable representation signal from receptor homology:
 
-- a reproducible hierarchy separating activation, evolutionary organization, receptor-side compatibility, partner-conditioned accommodation, and receptor-only transfer;
-- receptor-grouped and 30%, 40%, and 50% sequence-identity cluster holdouts;
-- global sequence-identity nearest-neighbour and taxonomy baselines;
-- physically predefined intracellular-interface models with matched non-interface and scrambling controls;
-- audited receptor-only entity definitions and label-provenance checks;
-- editable main-manuscript figures, compact source tables, and exact manuscript workflow overlays;
-- automated interpretation gates that distinguish state assignment and bound-class association from stronger functional inference.
+- 30%, 40%, and 50% sequence-identity cluster holdouts
+- global sequence-identity k-nearest-neighbour baseline
+- coarse taxonomy and receptor-family baselines
+- predefined intracellular interface sequence model
+- interface versus non-interface comparison
+- matched non-interface and positional scrambling controls
+- receptor-level or receptor-by-transducer aggregation
+- label-provenance auditing
+- automated interpretation gates that separate receptor-grouped association from low-homology transfer
 
-The associated analysis shows that endpoint geometry strongly encodes receptor activation, retains class information at intermediate evolutionary divergence, and becomes more class-informative in mature bound complexes than in matched receptor-only structures. The software is designed to quantify and separate these contributions rather than collapse them into a single coupling-probability claim.
+The associated manuscript audit found that sequence and interface representations are predictive under conventional receptor-grouped validation but lose their advantage under stringent homology removal. Global sequence proximity matches the interface model at 30% identity, while endpoint geometry retains more information at intermediate divergence. The software therefore emphasizes representation benchmarking rather than coupling prediction.
 
 ## Scientific scope and claim boundary
 
@@ -238,7 +239,7 @@ These exclusions keep the package scientifically honest and distinct from trajec
 The editable workflow overview used in the manuscript is provided as:
 
 ```text
-manuscript/figures/Figure_4.svg
+manuscript/figures/Figure_4_GPCR_SelectivityMap_workflow.svg
 ```
 
 PNG and PDF exports are included beside it.
@@ -258,12 +259,18 @@ Please cite the associated manuscript and archived software release. See `CITATI
 
 ## Associated manuscript
 
-Batebi H. *GPCR endpoint structures integrate activation, evolutionary history, and partner accommodation* (manuscript in preparation, 2026).
+Batebi H. *Bound G proteins leave a readable imprint on GPCR structures* (submitted, 2026).
 Source tables and fold assignments underlying the main figures are in `manuscript/source_data/`
 and `manuscript/sequence_phylogeny_audit/source_data/`.
 
 ## Use of generative AI
 
-See [AI_USE.md](AI_USE.md). Generative AI tools assisted with prose editing, code review, plotting code, and figure-layout development. All numerical results derive from the archived analysis outputs, and every scientific claim, value, and figure was reviewed by the author.
+See [AI_USE.md](AI_USE.md). Generative AI was used for prose editing, code assistance, and consistency
+checking only. No figure or image content was AI-generated, and AI was not used to generate
+results or conclusions.
 
-Use [CITATION.cff](CITATION.cff), or the GitHub **Cite this repository** button, for citation metadata.
+## Citation
+
+See [CITATION.cff](CITATION.cff), or use the GitHub "Cite this repository" button.
+
+Archived at Zenodo. Cite the concept DOI [10.5281/zenodo.21820928](https://doi.org/10.5281/zenodo.21820928) for the software in general, or [10.5281/zenodo.21820929](https://doi.org/10.5281/zenodo.21820929) for the exact v0.3.1 snapshot used in the manuscript.
