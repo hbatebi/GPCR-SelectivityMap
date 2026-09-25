@@ -31,4 +31,4 @@ Captured structural class is the G protein family physically present in a deposi
 
 ## Release state
 
-This archive is a **local release candidate**. Assign the public release DOI only after pushing/tagging v0.4.0 and creating the Zenodo-backed release.
+This is the v0.4.0 public release accompanying the revised manuscript. The version-specific Zenodo DOI will be cited in the manuscript and Supporting Information after archival.

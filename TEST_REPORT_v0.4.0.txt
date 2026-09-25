@@ -1,4 +1,4 @@
-GPCR SelectivityMap v0.4.0 local release candidate test report
+GPCR SelectivityMap v0.4.0 test report
 ============================================================
 Date: 2026-09-25
 
