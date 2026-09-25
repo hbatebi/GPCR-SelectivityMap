@@ -1,0 +1,29 @@
+{
+  "core10_interpretable__bound": 0.8336538461538462,
+  "core10_interpretable__free": 0.7009615384615384,
+  "delta_auc": 0.13269230769230778,
+  "feature_set": "core10_interpretable",
+  "features": [
+    "tm6_r350_634_distance",
+    "tm3_tm7_distance",
+    "pif_550_644_distance",
+    "y753_displacement",
+    "tm6_aligned_displacement",
+    "dry_r350_630_min_distance",
+    "icl2_helix_fraction",
+    "icl2_centroid_to_tm6_634",
+    "tm7_h8_angle",
+    "intracellular_cavity_core_mouth_area"
+  ],
+  "mean_ci_high": 0.5644501652172631,
+  "mean_ci_low": -0.020156210820061863,
+  "mean_margin_gain": 0.24587938855611707,
+  "median_margin_gain": 0.08977200020127263,
+  "n_negative": 5,
+  "n_positive": 10,
+  "n_receptors": 15,
+  "n_zero": 0,
+  "population": "P1_terminal_strict",
+  "signflip_p_two_sided": 0.14776611328125,
+  "status": "ok"
+}

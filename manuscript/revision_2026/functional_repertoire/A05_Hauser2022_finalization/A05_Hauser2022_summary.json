@@ -1,0 +1,31 @@
+{
+  "analysis": "A05_Hauser2022_functional_repertoire_finalization",
+  "source": "Hauser et al. 2022 eLife 11:e74107, Source Data 5, sheet Merged_couplings",
+  "mapping_rule": "Direct UniProt accession match to the human receptor map; non-human and viral structural receptors are left unannotated. No ortholog substitution.",
+  "definition_modeled_families": "Supported family couplings in Hauser common map for Gs, Gi/o, and Gq/11. A receptor is multi-family if >=2 of these 3 families are supported.",
+  "n_structural_units": 207,
+  "n_structural_receptors": 169,
+  "n_directly_mapped_units": 190,
+  "n_directly_mapped_receptors": 156,
+  "n_unmapped_units": 17,
+  "n_unmapped_receptors": 13,
+  "n_units_from_receptors_with_2plus_modeled_families": 101,
+  "fraction_all_207_units_from_2plus_modeled_families": 0.48792270531400966,
+  "fraction_mapped_units_from_2plus_modeled_families": 0.531578947368421,
+  "n_receptors_with_2plus_modeled_families": 76,
+  "fraction_mapped_receptors_with_2plus_modeled_families": 0.48717948717948717,
+  "n_units_from_receptors_with_2plus_of_four_families": 110,
+  "n_receptors_with_2plus_of_four_families": 84,
+  "mapped_unit_distribution_n_supported_modeled_families": {
+    "0": 16,
+    "1": 73,
+    "2": 70,
+    "3": 31
+  },
+  "mapped_receptor_distribution_n_supported_modeled_families": {
+    "0": 14,
+    "1": 66,
+    "2": 57,
+    "3": 19
+  }
+}

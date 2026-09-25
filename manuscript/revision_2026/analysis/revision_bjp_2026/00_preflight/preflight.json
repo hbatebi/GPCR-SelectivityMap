@@ -1,0 +1,14 @@
+{
+  "bound_units": 207,
+  "frozen_result_matches_expected": true,
+  "p0_features": 92,
+  "p0_receptors": 12,
+  "p0_reproduced_mean_margin_gain": 0.3887713288847121,
+  "p0_reproduced_positive_receptors": 11,
+  "p0_reproduced_signflip_p": 0.0302734375,
+  "p0_units": 15,
+  "python": "3.12.13 | packaged by Anaconda, Inc. | (main, Jul  9 2026, 14:38:16) [GCC 14.3.0]",
+  "same_receptor_comparisons": 408,
+  "strict_partner_free_structures": 51,
+  "structure_cif_count": 1360
+}

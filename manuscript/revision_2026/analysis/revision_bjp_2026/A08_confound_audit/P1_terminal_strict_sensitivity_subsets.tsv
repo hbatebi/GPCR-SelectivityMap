@@ -1,0 +1,5 @@
+population	subset	n	positive	mean_margin_gain	signflip_p
+P1_terminal_strict	all	15	8	0.12034959997098861	0.244873046875
+P1_terminal_strict	same_method	13	7	0.12548972631853422	0.291015625
+P1_terminal_strict	no_bound_fusion	11	6	0.11845576980641913	0.3642578125
+P1_terminal_strict	ligand_type_overlap	13	7	0.09770126062411848	0.38623046875

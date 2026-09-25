@@ -1,0 +1,16 @@
+Receptor	Captured class	Bound PDB:chain	Receptor-only reference PDB:chain	Reference provenance
+A2A receptor	Gs	5G53:B	2YDO:A; 2YDV:A; 4UG2:A; 4UHR:A	Transducer-free
+M3 receptor	Gq/11	8E9W:A	8EA0:A	Receptor-focused reconstruction, transducer-containing specimen
+β2-adrenoceptor	Gs	8GG0:R	8GGI:R to 8GH1:R (20 structures, chain R)	Receptor-focused reconstruction, transducer-containing specimen
+GPR101	Gs	8W8Q:C	8W8S:R	Receptor-focused reconstruction, transducer-containing specimen
+GPR34	Gi/o	8XBH:R	8IYX:C; 8XBG:A; 8XBI:R	Mixed: receptor-focused and inactive
+HCA2 receptor	Gi/o	8J6J:R	8K5B:A; 8K5C:A; 8K5D:A	Receptor-focused reconstruction, transducer-containing specimen
+LPA1 receptor	Gi/o	7TD0:R	7YU4:A	Receptor-focused reconstruction, transducer-containing specimen
+LPA1 receptor	Gq/11	9IZG:R	7YU4:A	Receptor-focused reconstruction, transducer-containing specimen
+MRGPRX2	Gi/o	7VV5:R	7VV6:R	Receptor-focused reconstruction, transducer-containing specimen
+MRGPRX2	Gq/11	7S8L:R	7VV6:R	Receptor-focused reconstruction, transducer-containing specimen
+δ receptor	Gi/o	8F7S:R	6PT3:A	Transducer-free
+rhodopsin	Gi/o	4X1H:A	3CAP:A; 3PXO:A; 4BEZ:A; 5DYS:A; 5TE3:A; 6FK6:A to 6FKD:A	Transducer-free
+TAAR1	Gq/11	8WCB:R	8WCC:R	Receptor-focused reconstruction, transducer-containing specimen
+TAAR1	Gs	8ZSV:R	8WCC:R	Receptor-focused reconstruction, transducer-containing specimen
+TAAR9	Gs	8IW9:R	8IWE:R; 8IWM:R	Receptor-focused reconstruction, transducer-containing specimen

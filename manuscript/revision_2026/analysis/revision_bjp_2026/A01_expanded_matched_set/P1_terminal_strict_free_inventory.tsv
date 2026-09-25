@@ -1,0 +1,57 @@
+pdb_id	chain_id	receptor_name	experimental_method	resolution	ligand_type	fusion_protein	fusion_names
+2YDO	A	aa2ar_human	X-ray diffraction	3.0	agonist	False	
+2YDV	A	aa2ar_human	X-ray diffraction	2.6	agonist	False	
+4UG2	A	aa2ar_human	X-ray diffraction	2.6	agonist	False	
+4UHR	A	aa2ar_human	X-ray diffraction	2.6	agonist	False	
+8UGW	A	aa2ar_human	X-ray diffraction	3.9	agonist	True	endolysin
+8EA0	A	acm3_human	Electron microscopy	2.56	agonist	False	
+8GGI	R	adrb2_human	Electron microscopy	3.5	agonist	False	
+8GGJ	R	adrb2_human	Electron microscopy	3.5	agonist	False	
+8GGK	R	adrb2_human	Electron microscopy	3.3	agonist	False	
+8GGL	R	adrb2_human	Electron microscopy	3.2	agonist	False	
+8GGM	R	adrb2_human	Electron microscopy	3.2	agonist	False	
+8GGN	R	adrb2_human	Electron microscopy	3.3	agonist	False	
+8GGO	R	adrb2_human	Electron microscopy	3.2	agonist	False	
+8GGP	R	adrb2_human	Electron microscopy	3.2	agonist	False	
+8GGQ	R	adrb2_human	Electron microscopy	3.4	agonist	False	
+8GGR	R	adrb2_human	Electron microscopy	3.4	agonist	False	
+8GGS	R	adrb2_human	Electron microscopy	3.5	agonist	False	
+8GGT	R	adrb2_human	Electron microscopy	3.5	agonist	False	
+8GGU	R	adrb2_human	Electron microscopy	3.4	agonist	False	
+8GGV	R	adrb2_human	Electron microscopy	3.5	agonist	False	
+8GGW	R	adrb2_human	Electron microscopy	3.6	agonist	False	
+8GGX	R	adrb2_human	Electron microscopy	3.6	agonist	False	
+8GGY	R	adrb2_human	Electron microscopy	3.9	agonist	False	
+8GGZ	R	adrb2_human	Electron microscopy	3.9	agonist	False	
+8GH0	R	adrb2_human	Electron microscopy	4.0	agonist	False	
+8GH1	R	adrb2_human	Electron microscopy	4.1	agonist	False	
+8W8S	R	gp101_human	Electron microscopy	3.3	agonist	False	
+8IYX	C	gpr34_human	Electron microscopy	3.34	agonist	False	
+8XBG	A	gpr34_human	Electron microscopy	3.43	agonist	False	
+8XBI	R	gpr34_human	Electron microscopy	3.06	agonist	False	
+7ZL9	A	hcar2_human	X-ray diffraction	2.7	apo	True	b562
+8K5B	A	hcar2_human	Electron microscopy	3.43	agonist	False	
+8K5C	A	hcar2_human	Electron microscopy	3.13	agonist	False	
+8K5D	A	hcar2_human	Electron microscopy	3.74	agonist	False	
+8IHK	R	hcar3_human	Electron microscopy	3.21	agonist	True	b562
+7YU4	A	lpar1_human	Electron microscopy	3.3	agonist	False	
+7VV6	R	mrgx2_human	Electron microscopy	3.3	agonist	False	
+8KEX	E	mrgx4_human	Electron microscopy	3.2	agonist	True	b562
+6PT3	A	oprd_human	X-ray diffraction	3.3	agonist	False	
+3CAP	A	opsd_bovin	X-ray diffraction	2.9	apo	False	
+3PXO	A	opsd_bovin	X-ray diffraction	3.0	agonist	False	
+4BEZ	A	opsd_bovin	X-ray diffraction	3.3	apo	False	
+5DYS	A	opsd_bovin	X-ray diffraction	2.3	agonist	False	
+5TE3	A	opsd_bovin	X-ray diffraction	2.7	unknown	False	
+6FK6	A	opsd_bovin	X-ray diffraction	2.36	agonist	False	
+6FK7	A	opsd_bovin	X-ray diffraction	2.62	agonist	False	
+6FK8	A	opsd_bovin	X-ray diffraction	2.87	agonist	False	
+6FK9	A	opsd_bovin	X-ray diffraction	2.63	agonist	False	
+6FKA	A	opsd_bovin	X-ray diffraction	2.7	agonist	False	
+6FKB	A	opsd_bovin	X-ray diffraction	3.03	agonist	False	
+6FKC	A	opsd_bovin	X-ray diffraction	2.46	agonist	False	
+6FKD	A	opsd_bovin	X-ray diffraction	2.49	agonist	False	
+6AK3	B	pe2r3_human	X-ray diffraction	2.9	agonist	True	b562
+8WCC	R	taar1_mouse	Electron microscopy	3.04	agonist	False	
+8IWE	R	taar9_mouse	Electron microscopy	3.4	agonist	False	
+8IWM	R	taar9_mouse	Electron microscopy	3.17	agonist	False	

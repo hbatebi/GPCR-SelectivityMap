@@ -1,0 +1,18 @@
+{
+  "bound_pca3": 0.9147435897435897,
+  "delta_auc": 0.24294871794871797,
+  "feature_set": "PCA3",
+  "k": 3,
+  "mean_ci_high": 0.64853599953734,
+  "mean_ci_low": 0.1522188386356457,
+  "mean_margin_gain": 0.3878504870663129,
+  "median_margin_gain": 0.28296441888855683,
+  "n_negative": 4,
+  "n_positive": 11,
+  "n_receptors": 15,
+  "n_zero": 0,
+  "population": "P1_terminal_strict",
+  "receptor_only_pca3": 0.6717948717948717,
+  "signflip_p_two_sided": 0.006103515625,
+  "status": "ok"
+}

@@ -1,0 +1,18 @@
+{
+  "bound_pca5": 0.7818967452300786,
+  "delta_auc": 0.07367003367003366,
+  "feature_set": "PCA5",
+  "k": 5,
+  "mean_ci_high": 0.4546732930993959,
+  "mean_ci_low": -0.10029789490045402,
+  "mean_margin_gain": 0.16971922390393193,
+  "median_margin_gain": 0.09272726866988285,
+  "n_negative": 3,
+  "n_positive": 9,
+  "n_receptors": 12,
+  "n_zero": 0,
+  "population": "P0_strict",
+  "receptor_only_pca5": 0.7082267115600449,
+  "signflip_p_two_sided": 0.27978515625,
+  "status": "ok"
+}

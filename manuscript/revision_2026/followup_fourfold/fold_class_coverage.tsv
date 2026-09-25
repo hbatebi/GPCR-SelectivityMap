@@ -1,0 +1,5 @@
+outer_fold	test_units	test_receptors	test_Gs	test_Gi/o	test_Gq/11	all_three_classes_in_test
+0	5	5	2	2	1	True
+1	4	3	1	2	1	True
+2	5	4	1	2	2	True
+3	4	3	1	2	1	True

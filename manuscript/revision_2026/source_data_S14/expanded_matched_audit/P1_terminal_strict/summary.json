@@ -1,0 +1,35 @@
+{
+  "bound_geometry": 0.8541666666666666,
+  "delta_auc": 0.12339743589743579,
+  "mean_ci_high": 0.3203117148424111,
+  "mean_ci_low": -0.05935680405145941,
+  "mean_margin_gain": 0.12034959997098861,
+  "median_margin_gain": 0.07197870518960064,
+  "n_common_features": 92,
+  "n_features_complete_all_units": 37,
+  "n_free_structures": 56,
+  "n_negative": 7,
+  "n_new_receptors": 3,
+  "n_positive": 8,
+  "n_receptors": 15,
+  "n_units": 18,
+  "n_zero": 0,
+  "new_receptors_only_independent": {
+    "n_receptors": 3,
+    "n_units": 3,
+    "reason": "RuntimeError: insufficient receptor/class coverage for independent three-class CV",
+    "status": "not_estimable"
+  },
+  "new_receptors_subset_of_expanded_fit": {
+    "ci_high": -0.04903370725153661,
+    "ci_low": -0.1595979502421353,
+    "mean": -0.11332961255742689,
+    "n": 3,
+    "positive": 0,
+    "signflip_p": 0.25
+  },
+  "population": "P1_terminal_strict",
+  "receptor_only_geometry": 0.7307692307692308,
+  "signflip_p_two_sided": 0.244873046875,
+  "status": "ok"
+}

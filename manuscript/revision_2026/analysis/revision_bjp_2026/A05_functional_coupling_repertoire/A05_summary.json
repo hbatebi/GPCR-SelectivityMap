@@ -1,0 +1,57 @@
+{
+  "P0_strict": {
+    "complete_receptors_promiscuous_2plus": 4,
+    "n_receptors": 12,
+    "receptors_complete_for_three_analyzed_classes": 9,
+    "receptors_with_any_analyzed_class_annotation": 9
+  },
+  "P1_terminal_strict": {
+    "complete_receptors_promiscuous_2plus": 4,
+    "n_receptors": 15,
+    "receptors_complete_for_three_analyzed_classes": 11,
+    "receptors_with_any_analyzed_class_annotation": 12
+  },
+  "annotation_completeness_warning": "Promiscuity counts are denominator-qualified. Counts across the three modeled families use only receptors with all three family flags known; four-family counts use only receptors with all four flags known. Unknown values are never converted to non-coupling.",
+  "complete3_units_from_promiscuous_receptors_2plus": 23,
+  "complete3_units_from_receptors_with_1_analyzed_class": 29,
+  "complete3_units_from_receptors_with_2_analyzed_classes": 22,
+  "complete3_units_from_receptors_with_3_analyzed_classes": 1,
+  "complete4_units_from_receptors_with_1_family": 0,
+  "complete4_units_from_receptors_with_2_families": 0,
+  "complete4_units_from_receptors_with_3_families": 0,
+  "complete4_units_from_receptors_with_4_families": 0,
+  "n_bound_receptors": 169,
+  "n_bound_units": 207,
+  "n_receptors_complete_for_three_analyzed_classes": 43,
+  "n_receptors_with_any_functional_annotation": 48,
+  "n_units_complete_for_all_four_families": 0,
+  "n_units_complete_for_three_analyzed_classes": 52,
+  "n_units_with_any_functional_annotation": 60,
+  "sensitivity_models": [
+    {
+      "all_folds_converged": true,
+      "balanced_accuracy": 0.19999999999999998,
+      "balanced_accuracy_ci_high": 0.2807017543859649,
+      "balanced_accuracy_ci_low": 0.12962962962962962,
+      "experiment": "single_family_geometry",
+      "frame_subset": "all",
+      "log_loss": 1.2002909466677287,
+      "log_loss_ci_high": 1.5532132611276261,
+      "log_loss_ci_low": 0.858107416028696,
+      "macro_pr_auc": 0.3652189663290952,
+      "macro_pr_auc_ci_high": 0.5194139766614804,
+      "macro_pr_auc_ci_low": 0.31783050510302063,
+      "macro_roc_auc": 0.46981481481481485,
+      "macro_roc_auc_ci_high": 0.6410999628390933,
+      "macro_roc_auc_ci_low": 0.3068728241699256,
+      "matthews_correlation": -0.2325,
+      "matthews_correlation_ci_high": -0.05071407084561662,
+      "matthews_correlation_ci_low": -0.3840826648723157,
+      "n": 29,
+      "n_predictions": 29,
+      "n_receptors": 27,
+      "valid_folds": 4,
+      "validation": "receptor_grouped_5fold"
+    }
+  ]
+}

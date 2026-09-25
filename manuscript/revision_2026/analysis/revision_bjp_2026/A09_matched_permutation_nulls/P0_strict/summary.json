@@ -1,0 +1,10 @@
+{
+  "bound_geometry": 0.7951627384960719,
+  "delta_auc": 0.17642536475869808,
+  "iterations": 1000,
+  "null_delta_mean": 0.001959427609427606,
+  "paired_delta_permutation_p_two_sided_abs": 0.3046953046953047,
+  "paired_delta_permutation_p_upper": 0.15384615384615385,
+  "population": "P0_strict",
+  "receptor_only_geometry": 0.6187373737373738
+}

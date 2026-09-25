@@ -1,0 +1,6 @@
+{
+  "n_receptors": 5,
+  "n_units": 6,
+  "reason": "RuntimeError: insufficient receptor/class coverage for independent three-class CV",
+  "status": "not_estimable"
+}

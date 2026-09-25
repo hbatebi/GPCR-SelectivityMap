@@ -1,0 +1,23 @@
+{
+  "delta_auc": 0.10374298540965221,
+  "feature_set": "four_feature_activation_code",
+  "features": [
+    "tm6_r350_634_distance",
+    "tm3_tm7_distance",
+    "pif_550_644_distance",
+    "y753_displacement"
+  ],
+  "four_feature_activation_code__bound": 0.7584511784511786,
+  "four_feature_activation_code__free": 0.6547081930415264,
+  "mean_ci_high": 0.39401841201141763,
+  "mean_ci_low": -0.06635528511916389,
+  "mean_margin_gain": 0.14500148266993698,
+  "median_margin_gain": -0.0580959409402252,
+  "n_negative": 6,
+  "n_positive": 6,
+  "n_receptors": 12,
+  "n_zero": 0,
+  "population": "P0_strict",
+  "signflip_p_two_sided": 0.26025390625,
+  "status": "ok"
+}

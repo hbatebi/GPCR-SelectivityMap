@@ -1,0 +1,4 @@
+comparison	n_receptors	receptors
+Gi/o vs Gq/11	22	c3ar_human;cckar_human;ednrb_human;ffar1_human;ffar2_human;ffar4_human;gasr_human;ghsr_human;hrh4_human;kissr_human;lpar1_human;mrgrd_human;mrgx1_human;mrgx2_human;nmur2_human;ntr1_human;ntr1_rat;ox2r_human;par1_human;prlhr_human;ssr2_human;us28_hcmva
+Gi/o vs Gs	10	5ht4r_human;adrb1_melga;cckar_human;cnr1_human;ednrb_human;ffar4_human;gp139_human;ox2r_human;pe2r4_human;sucr1_human
+Gq/11 vs Gs	10	cckar_human;ednra_human;ednrb_human;ffar4_human;hrh2_human;nk1r_human;ox2r_human;p2ry1_human;pf2r_human;taar1_mouse

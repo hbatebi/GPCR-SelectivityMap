@@ -1,0 +1,16 @@
+population	receptor_name	captured_class	outer_fold	partner_free_margin	partner_free_correct	nearest_any_identity	nearest_any_receptor	nearest_any_class	nearest_same_class_identity	nearest_same_class_receptor
+P0_strict	aa2ar_human	Gs	3	-0.6960926632613542	False	0.6612903225806451	taar9_mouse	Gs	0.6612903225806451	taar9_mouse
+P0_strict	acm3_human	Gq/11	2	-0.0826940594849731	False	0.5967741935483871	aa2ar_human	Gs	0.5645161290322581	taar1_mouse
+P0_strict	adrb2_human	Gs	0	-0.01703557984161641	False	0.65	aa2ar_human	Gs	0.65	aa2ar_human
+P0_strict	gp101_human	Gs	2	0.21172216146334877	True	0.36507936507936506	taar9_mouse	Gs	0.36507936507936506	taar9_mouse
+P0_strict	gpr34_human	Gi/o	0	0.22298878147827578	True	0.5	hcar2_human	Gi/o	0.5	hcar2_human
+P0_strict	hcar2_human	Gi/o	3	0.7824533062665437	True	0.5	gpr34_human	Gi/o	0.5	gpr34_human
+P0_strict	lpar1_human	Gi/o	3	-0.06241757618081201	False	0.4262295081967213	acm3_human	Gq/11	0.40384615384615385	gpr34_human
+P0_strict	lpar1_human	Gq/11	3	-0.07868088494637221	False	0.4262295081967213	acm3_human	Gq/11	0.4262295081967213	acm3_human
+P0_strict	mrgx2_human	Gi/o	0	0.09450251486908973	True	0.39655172413793105	taar9_mouse	Gs	0.3684210526315789	lpar1_human
+P0_strict	mrgx2_human	Gq/11	0	-0.14939422997263901	False	0.39655172413793105	taar9_mouse	Gs	0.3684210526315789	lpar1_human
+P0_strict	oprd_human	Gi/o	2	-0.9524789714444982	False	0.5166666666666667	adrb2_human	Gs	0.45901639344262296	hcar2_human
+P0_strict	opsd_bovin	Gi/o	1	-0.3011720917620338	False	0.4426229508196721	oprd_human	Gi/o	0.4426229508196721	oprd_human
+P0_strict	taar1_mouse	Gq/11	1	-0.40242067191684594	False	0.5901639344262295	aa2ar_human	Gs	0.5645161290322581	acm3_human
+P0_strict	taar1_mouse	Gs	1	0.40242067191684594	True	0.5901639344262295	aa2ar_human	Gs	0.5901639344262295	aa2ar_human
+P0_strict	taar9_mouse	Gs	1	-0.07323306630611909	False	0.6612903225806451	aa2ar_human	Gs	0.6612903225806451	aa2ar_human

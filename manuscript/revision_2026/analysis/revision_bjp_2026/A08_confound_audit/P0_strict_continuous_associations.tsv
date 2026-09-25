@@ -1,0 +1,3 @@
+population	variable	n	spearman_rho	nominal_p
+P0_strict	resolution_difference_bound_minus_free	12	0.07692307692307693	0.8121826980280591
+P0_strict	absolute_resolution_difference	12	0.3636363636363637	0.24526500073077723

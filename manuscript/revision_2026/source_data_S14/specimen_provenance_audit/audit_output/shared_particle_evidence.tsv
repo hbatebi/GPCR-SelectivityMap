@@ -1,0 +1,12 @@
+focused_or_local_pdb	full_complex_pdb	focused_particles	full_complex_particles	exact_particle_count_match	focused_title	full_title	note
+8W8S	8W8R	3646024	3646024	True	Cryo-EM structure of the AA14-bound GPR101 complex	Cryo-EM structure of the AA-14-bound GPR101-Gs complex	GPR101 receptor-focused vs Gs complex
+8WCC	8WCB	296951	296951	True	Cryo-EM structure of the CHA-bound mTAAR1 complex	Cryo-EM structure of the CHA-bound mTAAR1-Gq complex	TAAR1 receptor-focused vs Gq complex
+8IWE	8IW4	193217	193217	True	Cryo-EM structure of the SPE-mTAAR9 complex	Cryo-EM structure of the SPE-bound mTAAR9-Gs complex	TAAR9 receptor-focused vs Gs complex
+8IWM	8IW7	463012	463012	True	Cryo-EM structure of the PEA-bound mTAAR9 complex	Cryo-EM structure of the PEA-bound mTAAR9-Gs complex	TAAR9 receptor-focused vs Gs complex
+8K5C	8I7V	228127	228127	True	Cryo-EM structure of Acipimox bound human hydroxy-carboxylic acid receptor 2 (Local refinement)	Cryo-EM structure of Acipimox bound human hydroxy-carboxylic acid receptor 2 in complex with Gi heterotrimer	HCAR2 local vs Gi complex
+8K5D	8I7W	153633	153633	True	Cryo-EM structure of GSK256073 bound human hydroxy-carboxylic acid receptor 2 (Local refinement)	Cryo-EM structure of GSK256073 bound human hydroxy-carboxylic acid receptor 2 in complex with Gi heterotrimer	HCAR2 local vs Gi complex
+8XBG	8XBE	79925	79925	True	Human GPR34 -Gi complex bound to S3E-LysoPS, receptor focused	Human GPR34 -Gi complex bound to S3E-LysoPS	GPR34 receptor-focused vs Gi complex
+8XBI	8XBH	236096	236096	True	Human GPR34 -Gi complex bound to M1, receptor focused	Human GPR34 -Gi complex bound to M1	GPR34 receptor-focused vs Gi complex
+8IHK	8IHJ	95567	95567	True	Cryo-EM structure of HCA3-Gi complex with acifran (local)	Cryo-EM structure of HCA3-Gi complex with acifran	HCAR3 local vs Gi complex
+8KEX	8K4S	451859	451859	True	CryoEM structure of Gq coupled MRGPRX4 with agonist DCA-3P, local	CryoEM structure of Gq coupled MRGPRX4 with agonist DCA-3P	MRGPRX4 local vs Gq complex
+7VV4	7VV3	303343	303343	True	Cryo-EM structure of pseudoallergen receptor MRGPRX2 complex with linear cortistatin-14, local	Cryo-EM structure of pseudoallergen receptor MRGPRX2 complex with linear cortistatin-14	MRGPRX2 local vs Gi complex

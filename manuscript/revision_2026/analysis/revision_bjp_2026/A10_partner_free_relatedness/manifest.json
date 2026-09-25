@@ -1,0 +1,17 @@
+{
+  "analysis": "A10_partner_free_relatedness",
+  "inputs": {
+    "bound_frame": {
+      "path": "results/microswitches/publication_controls_v9.2_final/publication_control_analysis_frame.csv",
+      "sha256": "6d21d0a3270dfabef942f22fb878c97299a6e1e6f1ef8866f8b426de0e99acaf",
+      "size": 744712
+    },
+    "p0_predictions": {
+      "path": "results/microswitches/manuscript_claims_nhr/v081_full_3941857_20260803_195636/transducer_imprint/transducer_imprint_model_predictions.csv",
+      "sha256": "7d1a68b4d287816940ad735e66167af5be60dc5dcd33add4865aa1afd31123c0",
+      "size": 8058
+    }
+  },
+  "prespec_sha256": "06bd2c1a9f278b1603719bebe990c5dae4783910be11d5b4349bb95cf8d8115b",
+  "project_root": "/home/atuin/c108cb/c108cb11/gpcr-icl2-microswitches-complete"
+}

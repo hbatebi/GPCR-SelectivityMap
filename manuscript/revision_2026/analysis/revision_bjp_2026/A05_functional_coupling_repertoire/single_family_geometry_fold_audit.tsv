@@ -1,0 +1,5 @@
+experiment	validation	fold	status	train_n	test_n	train_groups	test_groups	group_overlap	n_numeric_features	n_categorical_features	n_iter	max_iter	converged	best_parameters
+single_family_geometry	receptor_grouped_5fold	0	ok	22	7	20	7	0	92	0	1294	50000	True	"{""inner_macro_auc"": 0.5833333333333333, ""model__C"": 5.0, ""model__l1_ratio"": 0.25}"
+single_family_geometry	receptor_grouped_5fold	1	ok	22	7	20	7	0	92	0	1096	50000	True	"{""inner_macro_auc"": 0.7222222222222222, ""model__C"": 5.0, ""model__l1_ratio"": 0.25}"
+single_family_geometry	receptor_grouped_5fold	2	ok	21	8	21	6	0	92	0	104	50000	True	"{""inner_macro_auc"": 0.5162367724867726, ""model__C"": 0.1, ""model__l1_ratio"": 0.5}"
+single_family_geometry	receptor_grouped_5fold	3	ok	22	7	20	7	0	92	0	93	50000	True	"{""inner_macro_auc"": 0.6693121693121693, ""model__C"": 0.1, ""model__l1_ratio"": 0.5}"

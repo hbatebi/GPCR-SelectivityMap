@@ -1,0 +1,50 @@
+[
+  {
+    "scenario": "corrected_strict_P0",
+    "eligible_partner_free_structures": 18,
+    "eligible_receptors": 3,
+    "matched_receptor_class_units": 3,
+    "Gs_unique_receptors": 1,
+    "Gi_o_unique_receptors": 2,
+    "Gq_11_unique_receptors": 0,
+    "all_three_classes_present": false,
+    "minimum_grouped_train_test_class_coverage_possible": false,
+    "model_status": "NOT ESTIMABLE as original receptor-grouped 3-class analysis"
+  },
+  {
+    "scenario": "corrected_terminal_P1",
+    "eligible_partner_free_structures": 20,
+    "eligible_receptors": 4,
+    "matched_receptor_class_units": 4,
+    "Gs_unique_receptors": 1,
+    "Gi_o_unique_receptors": 3,
+    "Gq_11_unique_receptors": 0,
+    "all_three_classes_present": false,
+    "minimum_grouped_train_test_class_coverage_possible": false,
+    "model_status": "NOT ESTIMABLE as original receptor-grouped 3-class analysis"
+  },
+  {
+    "scenario": "corrected_terminal_ligand_permissive_P1",
+    "eligible_partner_free_structures": 23,
+    "eligible_receptors": 6,
+    "matched_receptor_class_units": 7,
+    "Gs_unique_receptors": 1,
+    "Gi_o_unique_receptors": 5,
+    "Gq_11_unique_receptors": 1,
+    "all_three_classes_present": true,
+    "minimum_grouped_train_test_class_coverage_possible": false,
+    "model_status": "NOT ESTIMABLE as original receptor-grouped 3-class analysis"
+  },
+  {
+    "scenario": "corrected_ligand_permissive",
+    "eligible_partner_free_structures": 20,
+    "eligible_receptors": 4,
+    "matched_receptor_class_units": 5,
+    "Gs_unique_receptors": 1,
+    "Gi_o_unique_receptors": 3,
+    "Gq_11_unique_receptors": 1,
+    "all_three_classes_present": true,
+    "minimum_grouped_train_test_class_coverage_possible": false,
+    "model_status": "NOT ESTIMABLE as original receptor-grouped 3-class analysis"
+  }
+]

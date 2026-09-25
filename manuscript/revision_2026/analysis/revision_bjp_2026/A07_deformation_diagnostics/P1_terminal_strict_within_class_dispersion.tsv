@@ -1,0 +1,7 @@
+population	endpoint	captured_class	n_units	mean_pairwise_distance
+P1_terminal_strict	bound	Gi/o	8	13.942562674270826
+P1_terminal_strict	bound	Gq/11	5	12.141477551027643
+P1_terminal_strict	bound	Gs	5	10.690892623399268
+P1_terminal_strict	partner_free	Gi/o	8	13.587873302541428
+P1_terminal_strict	partner_free	Gq/11	5	9.962998685369612
+P1_terminal_strict	partner_free	Gs	5	12.173052637898948

@@ -1,0 +1,3 @@
+population	variable	n	spearman_rho	nominal_p
+P1_terminal_strict	resolution_difference_bound_minus_free	15	-0.1000894054715909	0.7226585968223204
+P1_terminal_strict	absolute_resolution_difference	15	0.39356055817933416	0.14667854857075655

@@ -1,0 +1,17 @@
+{
+  "analysis": "A06_g12_g13_census",
+  "inputs": {
+    "active_transducers": {
+      "path": "results/microswitches/coupling_specificity/data/active_transducer_structures_all.csv",
+      "sha256": "678c394e9bcc3e2c6073f9dbb9729043bd37ce6ee70211939129f8fa99c9f89e",
+      "size": 2295737
+    },
+    "strict_frame": {
+      "path": "data/manual/strict_polymer_only_structures.csv",
+      "sha256": "9309ec285b76d48a843ef21290ceefc3214071eee592e33d64a95b5900120149",
+      "size": 185837
+    }
+  },
+  "prespec_sha256": "06bd2c1a9f278b1603719bebe990c5dae4783910be11d5b4349bb95cf8d8115b",
+  "project_root": "/home/atuin/c108cb/c108cb11/gpcr-icl2-microswitches-complete"
+}

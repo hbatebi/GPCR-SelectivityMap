@@ -1,0 +1,13 @@
+{
+  "n_matchable_P1_terminal_strict": 1,
+  "n_receptors": 5,
+  "n_structures": 7,
+  "n_with_strict_partner_free": 1,
+  "receptors": [
+    "gpr35_human",
+    "gpr55_human",
+    "lpar1_human",
+    "p2y10_human",
+    "s1pr2_human"
+  ]
+}

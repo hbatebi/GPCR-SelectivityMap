@@ -1,0 +1,8 @@
+Item	Count	Interpretation
+Bound structural archive	207 units / 169 receptors	Gs, Gi/o and Gq/11 structural labels
+Direct Hauser et al. (2022) human UniProt matches	190 units / 156 receptors	Non-human and viral entries left unannotated
+Units from receptors supporting at least two modelled families	101 / 207 (48.8%)	Gs, Gi/o and Gq/11 support in the common coupling map
+Mapped units from receptors supporting at least two modelled families	101 / 190 (53.2%)	Denominator restricted to directly mapped human units
+Unmapped functional repertoire	17 units / 13 receptors	Non-human or viral; no orthologue substitution
+G12/13 structural census	7 structures / 5 receptors	GPR35, GPR55, LPA1, P2Y10, S1P2
+G12/13 receptors with a genuinely receptor-only reference active reference	0	The only entity-eligible reference (LPA1, 7YU4) is a receptor-focused reconstruction from an LPA1-Gi specimen

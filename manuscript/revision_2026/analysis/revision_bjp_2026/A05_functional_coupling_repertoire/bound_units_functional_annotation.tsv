@@ -1,0 +1,208 @@
+pdb_id	chain_id	receptor_name	transducer_family	n_documented_positive_families	n_known_families	captured_family_documented	functional_promiscuous_2plus	primary_family	annotation_source	annotation_notes	notes
+8PJK	R	5ht1a_human	Gi/o			False	False				
+7E32	R	5ht1d_human	Gi/o			False	False				
+8UGY	R	5ht1e_human	Gi/o			False	False				
+7EXD	R	5ht1f_human	Gi/o			False	False				
+8UWL	A	5ht2a_human	Gq/11			False	False				
+7SRR	R	5ht2b_human	Gq/11	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Gq/11-supported; Gi/o has isolated/insufficient support and is treated as negative under the two-dataset consensus rule. Direct labels are used; blank means unknown, not non-coupling.	
+8DPF	A	5ht2c_human	Gq/11	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Quantitative consensus supports Gi/o and Gq/11. Direct labels are used; blank means unknown, not non-coupling.	
+7XTA	R	5ht4r_human	Gi/o			False	False				
+7XT8	R	5ht4r_human	Gs			False	False				
+7X5H	R	5ht5a_human	Gi/o	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Established Gi/o-coupled serotonin receptor. Direct labels are used; blank means unknown, not non-coupling.	
+7XTB	R	5ht6r_human	Gs			False	False				
+7XTC	R	5ht7r_human	Gs			False	False				
+7LD3	R	aa1r_human	Gi/o			False	False				
+5G53	B	aa2ar_human	Gs	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Canonical and quantitative Gs-family coupling. Direct labels are used; blank means unknown, not non-coupling.	Canonical and quantitative Gs-family coupling. Direct labels are used; blank means unknown, not non-coupling.
+8HDO	R	aa2br_human	Gs			False	False				
+8X17	R	aa3r_human	Gi/o			False	False				
+6OIJ	R	acm1_human	Gq/11			False	False				
+8E9W	A	acm3_human	Gq/11	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Quantitative merged consensus supports Gi/o and Gq/11; Gs support is below consensus threshold. Direct labels are used; blank means unknown, not non-coupling.	Quantitative merged consensus supports Gi/o and Gq/11; Gs support is below consensus threshold. Direct labels are used; blank means unknown, not non-coupling.
+7TRP	R	acm4_human	Gi/o	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Quantitative merged consensus supports Gi/o and Gq/11; Gs support is below consensus threshold. Direct labels are used; blank means unknown, not non-coupling.	
+8GY7	R	acthr_human	Gs			False	False				
+7YM8	A	ada1a_human	Gq/11			False	False				
+9CBL	R	ada2a_human	Gi/o	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Current merged quantitative consensus supports Gs and Gi/o; Gq/11 support is below threshold. Direct labels are used; blank means unknown, not non-coupling.	
+6K42	R	ada2b_human	Gi/o	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Current merged consensus supports Gi/o; Gs and Gq/11 are below threshold. Direct labels are used; blank means unknown, not non-coupling.	
+7S0F	R	adrb1_melga	Gi/o		0.0	False	False				
+7JJO	R	adrb1_melga	Gs		0.0	False	False				
+8GG0	R	adrb2_human	Gs	3.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Current broad quantitative profiling supports all three families. Direct labels are used; blank means unknown, not non-coupling.	Current broad quantitative profiling supports all three families. Direct labels are used; blank means unknown, not non-coupling.
+7DH5	R	adrb3_canlf	Gs			False	False				
+9IJE	R	adrb3_human	Gs			False	False				
+7F6G	A	agtr1_human	Gq/11	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	AT1 receptor has established Gi/o and Gq/11 coupling; Gs not supported as a consensus family. Direct labels are used; blank means unknown, not non-coupling.	
+8XZH	R	apj_human	Gi/o			False	False				
+9EPP	R	b1b1u5_9arac	Gi/o			False	False				
+7EIB	A	bkrb1_human	Gq/11			False	False				
+7F6I	A	bkrb2_human	Gq/11			False	False				
+8Y52	R	brs3_human	Gq/11			False	False				
+8IA8	A	c3ar_human	Gi/o	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Established Gi/o and Gq/11 coupling. Direct labels are used; blank means unknown, not non-coupling.	
+8I9A	C	c3ar_human	Gq/11	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Established Gi/o and Gq/11 coupling. Direct labels are used; blank means unknown, not non-coupling.	
+7Y67	D	c5ar1_human	Gi/o	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Established Gi/o-dominant coupling; direct Gq/11 consensus not assigned. Direct labels are used; blank means unknown, not non-coupling.	
+7EZH	D	cckar_human	Gi/o			False	False				
+7EZM	D	cckar_human	Gq/11			False	False				
+7MBX	R	cckar_human	Gs			False	False				
+7VL9	R	ccr1_human	Gi/o			False	False				
+7XA3	R	ccr2_human	Gi/o			False	False				
+7X9Y	R	ccr3_human	Gi/o			False	False				
+7F1S	R	ccr5_human	Gi/o			False	False				
+8KFX	R	ccr8_human	Gi/o			False	False				
+7YKD	A	cml1_human	Gi/o			False	False				
+8JJP	A	cml2_human	Gi/o			False	False				
+8GHV	D	cnr1_human	Gi/o	1.0	1.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	CB1 has established Gi/o coupling; alternative Gs/Gq coupling is ligand- and context-dependent and left unknown. Direct labels are used; blank means unknown, not non-coupling.	
+8K8J	R	cnr1_human	Gs	1.0	1.0	False	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	CB1 has established Gi/o coupling; alternative Gs/Gq coupling is ligand- and context-dependent and left unknown. Direct labels are used; blank means unknown, not non-coupling.	
+8GUR	R	cnr2_human	Gi/o			False	False				
+7XBW	R	cx3c1_human	Gi/o			False	False				
+8IC0	A	cxcr1_human	Gi/o			False	False				
+6LFO	R	cxcr2_human	Gi/o			False	False				
+8HNM	R	cxcr3_human	Gi/o	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Chemokine receptor with established Gi/o coupling. Direct labels are used; blank means unknown, not non-coupling.	
+8U4N	R	cxcr4_human	Gi/o	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Chemokine receptor with established Gi/o coupling. Direct labels are used; blank means unknown, not non-coupling.	
+7JVP	R	drd1_human	Gs	1.0	2.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Established Gs-family coupling; Gq/11 evidence is context-dependent and left unknown. Direct labels are used; blank means unknown, not non-coupling.	
+7JVR	R	drd2_human	Gi/o	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Current merged quantitative consensus supports Gi/o and Gq/11; Gs support is below threshold. Direct labels are used; blank means unknown, not non-coupling.	
+7CMV	R	drd3_human	Gi/o	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Established Gi/o-selective dopamine receptor. Direct labels are used; blank means unknown, not non-coupling.	
+8IRU	R	drd4_human	Gi/o			False	False				
+8IRV	R	drd5_human	Gs			False	False				
+8ZFJ	R	e7fel0_danre	Gs			False	False				
+8HCQ	R	ednra_human	Gq/11			False	False				
+8XVI	R	ednra_human	Gs			False	False				
+8IY5	R	ednrb_human	Gi/o	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Current merged consensus supports Gi/o and Gq/11; Gs support is below threshold. Direct labels are used; blank means unknown, not non-coupling.	Current merged consensus supports Gi/o and Gq/11; Gs support is below threshold. Direct labels are used; blank means unknown, not non-coupling.
+8HCX	C	ednrb_human	Gq/11	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Current merged consensus supports Gi/o and Gq/11; Gs support is below threshold. Direct labels are used; blank means unknown, not non-coupling.	Current merged consensus supports Gi/o and Gq/11; Gs support is below threshold. Direct labels are used; blank means unknown, not non-coupling.
+8XVE	R	ednrb_human	Gs	2.0	3.0	False	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Current merged consensus supports Gi/o and Gq/11; Gs support is below threshold. Direct labels are used; blank means unknown, not non-coupling.	Current merged consensus supports Gi/o and Gq/11; Gs support is below threshold. Direct labels are used; blank means unknown, not non-coupling.
+9K1C	R	ffar1_human	Gi/o	1.0	1.0	False	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Established Gq/11 coupling; Gs and Gi/o retained as unknown because quantitative profiles are ligand/context dependent. Direct labels are used; blank means unknown, not non-coupling.	
+8EJK	R	ffar1_human	Gq/11	1.0	1.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Established Gq/11 coupling; Gs and Gi/o retained as unknown because quantitative profiles are ligand/context dependent. Direct labels are used; blank means unknown, not non-coupling.	
+8J22	C	ffar2_human	Gi/o			False	False				
+8T3S	R	ffar2_human	Gq/11			False	False				
+8J20	D	ffar3_human	Gi/o			False	False				
+8ID6	R	ffar4_human	Gi/o			False	False				
+8T3O	R	ffar4_human	Gq/11			False	False				
+8H4I	R	ffar4_human	Gs			False	False				
+7VFX	R	fpr1_human	Gi/o			False	False				
+7T6U	R	fpr2_human	Gi/o	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Current merged consensus supports Gi/o; Gq/11 support is below threshold. Direct labels are used; blank means unknown, not non-coupling.	
+8I2G	R	fshr_human	Gs			False	False				
+7WQ3	R	galr1_human	Gi/o	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Established Gi/o coupling. Direct labels are used; blank means unknown, not non-coupling.	
+7WQ4	R	galr2_human	Gq/11			False	False				
+7F8V	R	gasr_human	Gi/o			False	False				
+7F8W	R	gasr_human	Gq/11			False	False				
+7NA7	R	ghsr_human	Gi/o	2.0	2.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Ghrelin receptor has established Gi/o and Gq/11 coupling; Gs retained as unknown. Direct labels are used; blank means unknown, not non-coupling.	
+7F9Z	R	ghsr_human	Gq/11	2.0	2.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Ghrelin receptor has established Gi/o and Gq/11 coupling; Gs retained as unknown. Direct labels are used; blank means unknown, not non-coupling.	
+8W8Q	C	gp101_human	Gs	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	GPR101 is constitutively Gs-coupled. Direct labels are used; blank means unknown, not non-coupling.	GPR101 is constitutively Gs-coupled. Direct labels are used; blank means unknown, not non-coupling.
+7WCM	R	gp119_human	Gs			False	False				
+8HQM	R	gp132_human	Gi/o			False	False				
+7VUG	R	gp139_human	Gi/o			False	False				
+7VUH	R	gp139_human	Gs			False	False				
+8SMV	R	gp161_human	Gs			False	False				
+7XV3	R	gp174_human	Gs			False	False				
+7TUZ	R	gp183_human	Gi/o	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	GPR183/EBI2 has established Gi/o coupling. Direct labels are used; blank means unknown, not non-coupling.	
+7CFM	R	gpbar_human	Gs			False	False				
+8XOF	R	gper1_human	Gq/11			False	False				
+7Y3G	R	gpr12_human	Gs			False	False				
+8ZQE	R	gpr15_human	Gi/o			False	False				
+7Y89	A	gpr17_human	Gi/o			False	False				
+8HS3	R	gpr20_human	Gi/o	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	GPR20 is constitutively Gi/o-coupled. Direct labels are used; blank means unknown, not non-coupling.	
+8HMV	A	gpr21_human	Gs			False	False				
+8XBH	R	gpr34_human	Gi/o	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	GPR34 has established Gi/o coupling. Direct labels are used; blank means unknown, not non-coupling.	GPR34 has established Gi/o coupling. Direct labels are used; blank means unknown, not non-coupling.
+8WW2	R	gpr3_human	Gs			False	False				
+8HMP	R	gpr52_human	Gs			False	False				
+8KGK	A	gpr61_human	Gs	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	GPR61 is constitutively Gs-coupled. Direct labels are used; blank means unknown, not non-coupling.	
+8TYW	A	gpr6_human	Gs	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	GPR6 is constitutively Gs-coupled. Direct labels are used; blank means unknown, not non-coupling.	
+8G05	R	gpr84_human	Gi/o			False	False				
+7EJX	R	gpr88_human	Gi/o			False	False				
+7W3Z	A	grpr_human	Gq/11			False	False				
+8J6J	R	hcar2_human	Gi/o	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	HCA2 has established Gi/o coupling. Direct labels are used; blank means unknown, not non-coupling.	HCA2 has established Gi/o coupling. Direct labels are used; blank means unknown, not non-coupling.
+8JEI	A	hcar3_human	Gi/o	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	HCA3 has established Gi/o coupling. Direct labels are used; blank means unknown, not non-coupling.	
+8YN2	R	hrh1_human	Gq/11			False	False				
+8YN4	R	hrh2_human	Gq/11			False	False				
+8YN3	R	hrh2_human	Gs			False	False				
+8YN5	R	hrh3_human	Gi/o	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Histamine H3 receptor has established Gi/o coupling. Direct labels are used; blank means unknown, not non-coupling.	
+8JXW	R	hrh4_human	Gi/o			False	False				
+7YFC	R	hrh4_human	Gq/11			False	False				
+8XGU	A	kissr_human	Gi/o			False	False				
+8XGO	A	kissr_human	Gq/11			False	False				
+7TD0	R	lpar1_human	Gi/o	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	LPA1 has established Gi/o and Gq/11 coupling; G12/13 is outside this validation. Direct labels are used; blank means unknown, not non-coupling.	LPA1 has established Gi/o and Gq/11 coupling; G12/13 is outside this validation. Direct labels are used; blank means unknown, not non-coupling.
+9IZG	R	lpar1_human	Gq/11	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	LPA1 has established Gi/o and Gq/11 coupling; G12/13 is outside this validation. Direct labels are used; blank means unknown, not non-coupling.	LPA1 has established Gi/o and Gq/11 coupling; G12/13 is outside this validation. Direct labels are used; blank means unknown, not non-coupling.
+7FIH	R	lshr_human	Gs			False	False				
+7VKT	A	lt4r1_human	Gi/o			False	False				
+8IOC	R	mc3r_human	Gs			False	False				
+7PIU	R	mc4r_human	Gs			False	False				
+8IOD	R	mc5r_human	Gs			False	False				
+8WWK	R	mchr1_human	Gi/o			False	False				
+8WST	R	mchr2_human	Gq/11			False	False				
+7Y15	R	mrgrd_human	Gi/o			False	False				
+9DQJ	A	mrgrd_human	Gq/11			False	False				
+8JGB	R	mrgx1_human	Gi/o			False	False				
+8JGF	R	mrgx1_human	Gq/11			False	False				
+7VV5	R	mrgx2_human	Gi/o	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	MRGPRX2 supports Gi/o and Gq/11 signaling. Direct labels are used; blank means unknown, not non-coupling.	MRGPRX2 supports Gi/o and Gq/11 signaling. Direct labels are used; blank means unknown, not non-coupling.
+7S8L	R	mrgx2_human	Gq/11	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	MRGPRX2 supports Gi/o and Gq/11 signaling. Direct labels are used; blank means unknown, not non-coupling.	MRGPRX2 supports Gi/o and Gq/11 signaling. Direct labels are used; blank means unknown, not non-coupling.
+7S8P	R	mrgx4_human	Gq/11	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	MRGPRX4 has established Gq/11 coupling. Direct labels are used; blank means unknown, not non-coupling.	
+7F4H	R	mshr_human	Gs			False	False				
+8IBV	R	mtlr_human	Gq/11			False	False				
+7DB6	D	mtr1a_human	Gi/o			False	False				
+7VH0	A	mtr1b_human	Gi/o			False	False				
+7P00	R	nk1r_human	Gq/11			False	False				
+8U26	R	nk1r_human	Gs			False	False				
+7XWO	B	nk2r_human	Gq/11			False	False				
+8JBG	B	nk3r_human	Gq/11			False	False				
+8H0P	R	nmbr_human	Gq/11			False	False				
+7W56	R	nmur1_human	Gq/11			False	False				
+7XK8	R	nmur2_human	Gi/o			False	False				
+7W55	R	nmur2_human	Gq/11			False	False				
+7X9A	R	npy1r_human	Gi/o			False	False				
+7YON	R	npy2r_human	Gi/o	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Y2 receptor has established Gi/o coupling. Direct labels are used; blank means unknown, not non-coupling.	
+7X9C	R	npy4r_human	Gi/o			False	False				
+6OS9	R	ntr1_human	Gi/o	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	NTS1 supports Gi/o and Gq/11 coupling. Direct labels are used; blank means unknown, not non-coupling.	NTS1 supports Gi/o and Gq/11 coupling. Direct labels are used; blank means unknown, not non-coupling.
+8JPB	R	ntr1_human	Gq/11	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	NTS1 supports Gi/o and Gq/11 coupling. Direct labels are used; blank means unknown, not non-coupling.	NTS1 supports Gi/o and Gq/11 coupling. Direct labels are used; blank means unknown, not non-coupling.
+7L0P	C	ntr1_rat	Gi/o		0.0	False	False				
+8FMZ	A	ntr1_rat	Gq/11		0.0	False	False				
+8F7S	R	oprd_human	Gi/o	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Delta opioid receptor has established Gi/o coupling. Direct labels are used; blank means unknown, not non-coupling.	Delta opioid receptor has established Gi/o coupling. Direct labels are used; blank means unknown, not non-coupling.
+8F7W	R	oprk_human	Gi/o	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Kappa opioid receptor has established Gi/o coupling. Direct labels are used; blank means unknown, not non-coupling.	
+8EFO	R	oprm_human	Gi/o	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Mu opioid receptor has established Gi/o coupling. Direct labels are used; blank means unknown, not non-coupling.	
+7SCG	D	oprm_mouse	Gi/o		0.0	False	False				
+8F7X	R	oprx_human	Gi/o			False	False				
+4X1H	A	opsd_bovin	Gi/o		0.0	False	False				
+6CMO	R	opsd_human	Gi/o			False	False				
+8IU2	R	opsr_human	Gi/o			False	False				
+7SQO	R	ox2r_human	Gi/o			False	False				
+7SR8	R	ox2r_human	Gq/11			False	False				
+7L1V	R	ox2r_human	Gs			False	False				
+7RYC	O	oxyr_human	Gq/11	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	Oxytocin receptor supports Gi/o and Gq/11 coupling. Direct labels are used; blank means unknown, not non-coupling.	
+7XXH	R	p2ry1_human	Gq/11	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	P2Y1 receptor has established Gq/11 coupling. Direct labels are used; blank means unknown, not non-coupling.	
+8WJX	R	p2ry1_human	Gs	1.0	3.0	False	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	P2Y1 receptor has established Gq/11 coupling. Direct labels are used; blank means unknown, not non-coupling.	
+7XXI	A	p2y12_human	Gi/o	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	P2Y12 receptor has established Gi/o coupling. Direct labels are used; blank means unknown, not non-coupling.	
+8XOS	R	par1_human	Gi/o	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	PAR1 supports Gi/o and Gq/11; G12/13 is outside this validation. Direct labels are used; blank means unknown, not non-coupling.	
+8XOR	R	par1_human	Gq/11	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	PAR1 supports Gi/o and Gq/11; G12/13 is outside this validation. Direct labels are used; blank means unknown, not non-coupling.	
+8XXV	A	pd2r2_human	Gi/o			False	False				
+7CX2	R	pe2r2_human	Gs			False	False				
+7WU9	R	pe2r3_human	Gi/o	1.0	1.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	EP3 is Gi/o-coupled, but splice-isoform-dependent Gs/Gq coupling is retained as unknown. Direct labels are used; blank means unknown, not non-coupling.	
+8GCP	R	pe2r4_human	Gi/o			False	False				
+8GDB	R	pe2r4_human	Gs			False	False				
+8XJK	R	pf2r_human	Gq/11			False	False				
+8IQ4	R	pf2r_human	Gs			False	False				
+8X79	R	pi2r_human	Gs			False	False				
+8ZPS	R	prlhr_human	Gi/o			False	False				
+8ZPT	R	prlhr_human	Gq/11			False	False				
+8XYD	A	ptafr_human	Gi/o	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	PAF receptor supports Gi/o and Gq/11 coupling. Direct labels are used; blank means unknown, not non-coupling.	
+7JHJ	R	q3ksp2_ebvg	Gi/o			False	False				
+8K4P	A	q76sf8_hhv8	Gi/o			False	False				
+8WZ2	R	qrfpr_human	Gq/11			False	False				
+7YK7	R	rl3r2_human	Gi/o			False	False				
+7TMW	R	rxfp1_human	Gs			False	False				
+7TD4	R	s1pr1_human	Gi/o			False	False				
+7EW2	R	s1pr3_human	Gi/o	2.0	3.0	True	True		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	S1P3 supports Gi/o and Gq/11; G12/13 is outside this validation. Direct labels are used; blank means unknown, not non-coupling.	
+7EW1	A	s1pr5_human	Gi/o			False	False				
+8XIO	A	ssr1_human	Gi/o			False	False				
+7T10	R	ssr2_human	Gi/o	1.0	3.0	True	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	SST2 receptor has established Gi/o coupling. Direct labels are used; blank means unknown, not non-coupling.	
+7Y26	E	ssr2_human	Gq/11	1.0	3.0	False	False		GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31	SST2 receptor has established Gi/o coupling. Direct labels are used; blank means unknown, not non-coupling.	
+8XIR	A	ssr3_human	Gi/o			False	False				
+7XMS	R	ssr4_human	Gi/o			False	False				
+8X8L	R	ssr5_human	Gi/o			False	False				
+8YKV	R	sucr1_human	Gi/o			False	False				
+8JPP	R	sucr1_human	Gs			False	False				
+8XJN	R	ta2r_human	Gq/11			False	False				
+8PM2	R	taa7f_mouse	Gs			False	False				
+8W87	R	taar1_human	Gs			False	False				
+8WCB	R	taar1_mouse	Gq/11		0.0	False	False				
+8ZSV	R	taar1_mouse	Gs		0.0	False	False				
+8IW9	R	taar9_mouse	Gs		0.0	False	False				
+7WKD	R	trfr_human	Gq/11			False	False				
+7UTZ	R	tshr_human	Gs			False	False				
+7RKM	R	us28_hcmva	Gi/o		0.0	False	False				
+7RKF	R	us28_hcmva	Gq/11		0.0	False	False				
+7DW9	R	v2r_human	Gs			False	False				
+9AST	R	xcr1_human	Gi/o			False	False				

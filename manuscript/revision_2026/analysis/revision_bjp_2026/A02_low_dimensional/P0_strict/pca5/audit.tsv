@@ -1,0 +1,9 @@
+experiment	fold	train_n	test_n	train_receptors	test_receptors
+bound_pca5	0	11	4	8	4
+bound_pca5	1	11	4	9	3
+bound_pca5	2	12	3	10	2
+bound_pca5	3	11	4	9	3
+receptor_only_pca5	0	11	4	8	4
+receptor_only_pca5	1	11	4	9	3
+receptor_only_pca5	2	12	3	10	2
+receptor_only_pca5	3	11	4	9	3

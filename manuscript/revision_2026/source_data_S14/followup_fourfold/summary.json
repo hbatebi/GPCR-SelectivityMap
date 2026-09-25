@@ -1,0 +1,22 @@
+{
+  "all_test_folds_have_all_three_classes": true,
+  "analysis": "F01_p1_fourfold_coverage",
+  "bound_geometry": 0.7583333333333333,
+  "delta_auc": 0.14358974358974352,
+  "mean_ci_high": 0.5900910874677506,
+  "mean_ci_low": 0.09087818029193565,
+  "mean_margin_gain": 0.33673921243285904,
+  "median_margin_gain": 0.12553331717238964,
+  "n_negative": 5,
+  "n_positive": 10,
+  "n_receptors": 15,
+  "n_units": 18,
+  "n_zero": 0,
+  "outer_folds_forced": 4,
+  "population": "P1_terminal_strict",
+  "receptor_only_geometry": 0.6147435897435898,
+  "seed": 20291729,
+  "signflip_p_two_sided": 0.0296630859375,
+  "status": "ok",
+  "status_note": "Post-full-run technical sensitivity only. Prespecified 5-fold P1 remains reported and is not replaced."
+}

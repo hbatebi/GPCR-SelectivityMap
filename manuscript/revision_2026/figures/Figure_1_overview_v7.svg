@@ -1,0 +1,2259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1600"
+   height="800"
+   viewBox="0 0 1600 800"
+   version="1.1"
+   font-family="Arial, Helvetica, sans-serif"
+   id="svg3121"
+   sodipodi:docname="Batebi_BJP_Figure1_overview_v7.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3123"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="0.81875"
+     inkscape:cx="800.61069"
+     inkscape:cy="385.34351"
+     inkscape:window-width="1920"
+     inkscape:window-height="990"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3119" />
+  <defs
+     id="defs2697">
+    <marker
+       id="arrow"
+       markerWidth="12"
+       markerHeight="12"
+       refX="10"
+       refY="4"
+       orient="auto"
+       markerUnits="strokeWidth">
+      <path
+         d="M0,0 L0,8 L11,4 z"
+         fill="#246D68"
+         id="path2690" />
+    </marker>
+    <filter
+       id="shadow"
+       x="-20%"
+       y="-20%"
+       width="140%"
+       height="140%">
+      <feDropShadow
+         dx="0"
+         dy="2"
+         stdDeviation="2"
+         flood-color="#000000"
+         flood-opacity="0.10" />
+    </filter>
+    <marker
+       id="arrowGray"
+       markerWidth="12"
+       markerHeight="12"
+       refX="10"
+       refY="4"
+       orient="auto"
+       markerUnits="strokeWidth">
+      <path
+         d="M 0,0 V 8 L 11,4 Z"
+         fill="#aeb8be"
+         id="path2694" />
+    </marker>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="1600"
+     height="800"
+     fill="#FFFFFF"
+     id="rect2699" />
+  <g
+     transform="translate(0 -92)"
+     id="g3119">
+    <text
+       x="72"
+       y="165"
+       fill="#252B30"
+       font-size="36"
+       font-weight="700"
+       text-anchor="start"
+       id="text2701">A</text>
+    <text
+       x="115"
+       y="165"
+       fill="#252B30"
+       font-size="29"
+       font-weight="700"
+       text-anchor="start"
+       id="text2703">Structural endpoint</text>
+    <text
+       x="660"
+       y="165"
+       fill="#252B30"
+       font-size="36"
+       font-weight="700"
+       text-anchor="start"
+       id="text2705">B</text>
+    <text
+       x="703"
+       y="165"
+       fill="#252B30"
+       font-size="29"
+       font-weight="700"
+       text-anchor="start"
+       id="text2707">Archive-wide class dataset</text>
+    <text
+       x="1100"
+       y="165"
+       fill="#252B30"
+       font-size="36"
+       font-weight="700"
+       text-anchor="start"
+       id="text2709">C</text>
+    <text
+       x="1143"
+       y="165"
+       fill="#252B30"
+       font-size="29"
+       font-weight="700"
+       text-anchor="start"
+       id="text2711">What the model sees</text>
+    <path
+       d="M625 150 V625"
+       fill="none"
+       stroke="#E3E7EA"
+       stroke-width="2"
+       id="path2713" />
+    <path
+       d="M1065 150 V625"
+       fill="none"
+       stroke="#E3E7EA"
+       stroke-width="2"
+       id="path2715" />
+    <g
+       transform="matrix(0.95,0,0,0.95,-937.64355,-62.885393)"
+       id="g2922">
+      <g
+         id="bound_art">
+        <g
+           id="bound_membrane">
+          <g
+             id="bound_lipid_outer_1">
+            <path
+               id="bound_tail_outer_0_0"
+               d="m 1075,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_outer_0_1"
+               d="m 1083,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_outer_0"
+               cx="1079"
+               cy="308"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_inner_1">
+            <path
+               id="bound_tail_inner_0_0"
+               d="m 1075,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_inner_0_1"
+               d="m 1083,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_inner_0"
+               cx="1079"
+               cy="416"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_outer_2">
+            <path
+               id="bound_tail_outer_1_0"
+               d="m 1097,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_outer_1_1"
+               d="m 1105,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_outer_1"
+               cx="1101"
+               cy="308"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_inner_2">
+            <path
+               id="bound_tail_inner_1_0"
+               d="m 1097,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_inner_1_1"
+               d="m 1105,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_inner_1"
+               cx="1101"
+               cy="416"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_outer_3">
+            <path
+               id="bound_tail_outer_2_0"
+               d="m 1119,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_outer_2_1"
+               d="m 1127,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_outer_2"
+               cx="1123"
+               cy="308"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_inner_3">
+            <path
+               id="bound_tail_inner_2_0"
+               d="m 1119,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_inner_2_1"
+               d="m 1127,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_inner_2"
+               cx="1123"
+               cy="416"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_outer_4">
+            <path
+               id="bound_tail_outer_3_0"
+               d="m 1141,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_outer_3_1"
+               d="m 1149,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_outer_3"
+               cx="1145"
+               cy="308"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_inner_4">
+            <path
+               id="bound_tail_inner_3_0"
+               d="m 1141,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_inner_3_1"
+               d="m 1149,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_inner_3"
+               cx="1145"
+               cy="416"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_outer_5">
+            <path
+               id="bound_tail_outer_4_0"
+               d="m 1163,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_outer_4_1"
+               d="m 1171,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_outer_4"
+               cx="1167"
+               cy="308"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_inner_5">
+            <path
+               id="bound_tail_inner_4_0"
+               d="m 1163,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_inner_4_1"
+               d="m 1171,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_inner_4"
+               cx="1167"
+               cy="416"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_outer_6">
+            <path
+               id="bound_tail_outer_5_0"
+               d="m 1185,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_outer_5_1"
+               d="m 1193,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_outer_5"
+               cx="1189"
+               cy="308"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_inner_6">
+            <path
+               id="bound_tail_inner_5_0"
+               d="m 1185,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_inner_5_1"
+               d="m 1193,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_inner_5"
+               cx="1189"
+               cy="416"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_outer_7">
+            <path
+               id="bound_tail_outer_6_0"
+               d="m 1207,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_outer_6_1"
+               d="m 1215,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_outer_6"
+               cx="1211"
+               cy="308"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_inner_7">
+            <path
+               id="bound_tail_inner_6_0"
+               d="m 1207,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_inner_6_1"
+               d="m 1215,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_inner_6"
+               cx="1211"
+               cy="416"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_outer_8">
+            <path
+               id="bound_tail_outer_7_0"
+               d="m 1229,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_outer_7_1"
+               d="m 1237,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_outer_7"
+               cx="1233"
+               cy="308"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_inner_8">
+            <path
+               id="bound_tail_inner_7_0"
+               d="m 1229,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_inner_7_1"
+               d="m 1237,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_inner_7"
+               cx="1233"
+               cy="416"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_outer_9">
+            <path
+               id="bound_tail_outer_8_0"
+               d="m 1251,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_outer_8_1"
+               d="m 1259,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_outer_8"
+               cx="1255"
+               cy="308"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_inner_9">
+            <path
+               id="bound_tail_inner_8_0"
+               d="m 1251,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_inner_8_1"
+               d="m 1259,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_inner_8"
+               cx="1255"
+               cy="416"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_outer_10">
+            <path
+               id="bound_tail_outer_9_0"
+               d="m 1273,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_outer_9_1"
+               d="m 1281,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_outer_9"
+               cx="1277"
+               cy="308"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_inner_10">
+            <path
+               id="bound_tail_inner_9_0"
+               d="m 1273,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_inner_9_1"
+               d="m 1281,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_inner_9"
+               cx="1277"
+               cy="416"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_outer_11">
+            <path
+               id="bound_tail_outer_10_0"
+               d="m 1295,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_outer_10_1"
+               d="m 1303,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_outer_10"
+               cx="1299"
+               cy="308"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_inner_11">
+            <path
+               id="bound_tail_inner_10_0"
+               d="m 1295,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_inner_10_1"
+               d="m 1303,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_inner_10"
+               cx="1299"
+               cy="416"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_outer_12">
+            <path
+               id="bound_tail_outer_11_0"
+               d="m 1317,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_outer_11_1"
+               d="m 1325,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_outer_11"
+               cx="1321"
+               cy="308"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_inner_12">
+            <path
+               id="bound_tail_inner_11_0"
+               d="m 1317,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_inner_11_1"
+               d="m 1325,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_inner_11"
+               cx="1321"
+               cy="416"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_outer_13">
+            <path
+               id="bound_tail_outer_12_0"
+               d="m 1339,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_outer_12_1"
+               d="m 1347,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_outer_12"
+               cx="1343"
+               cy="308"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_inner_13">
+            <path
+               id="bound_tail_inner_12_0"
+               d="m 1339,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_inner_12_1"
+               d="m 1347,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_inner_12"
+               cx="1343"
+               cy="416"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_outer_14">
+            <path
+               id="bound_tail_outer_13_0"
+               d="m 1361,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_outer_13_1"
+               d="m 1369,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_outer_13"
+               cx="1365"
+               cy="308"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_inner_14">
+            <path
+               id="bound_tail_inner_13_0"
+               d="m 1361,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_inner_13_1"
+               d="m 1369,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_inner_13"
+               cx="1365"
+               cy="416"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_outer_15">
+            <path
+               id="bound_tail_outer_14_0"
+               d="m 1383,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_outer_14_1"
+               d="m 1391,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_outer_14"
+               cx="1387"
+               cy="308"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_inner_15">
+            <path
+               id="bound_tail_inner_14_0"
+               d="m 1383,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_inner_14_1"
+               d="m 1391,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_inner_14"
+               cx="1387"
+               cy="416"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_outer_16">
+            <path
+               id="bound_tail_outer_15_0"
+               d="m 1405,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_outer_15_1"
+               d="m 1413,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_outer_15"
+               cx="1409"
+               cy="308"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_inner_16">
+            <path
+               id="bound_tail_inner_15_0"
+               d="m 1405,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_inner_15_1"
+               d="m 1413,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_inner_15"
+               cx="1409"
+               cy="416"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_outer_17">
+            <path
+               id="bound_tail_outer_16_0"
+               d="m 1427,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_outer_16_1"
+               d="m 1435,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_outer_16"
+               cx="1431"
+               cy="308"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_inner_17">
+            <path
+               id="bound_tail_inner_16_0"
+               d="m 1427,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_inner_16_1"
+               d="m 1435,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_inner_16"
+               cx="1431"
+               cy="416"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_outer_18">
+            <path
+               id="bound_tail_outer_17_0"
+               d="m 1449,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_outer_17_1"
+               d="m 1457,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_outer_17"
+               cx="1453"
+               cy="308"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_inner_18">
+            <path
+               id="bound_tail_inner_17_0"
+               d="m 1449,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_inner_17_1"
+               d="m 1457,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_inner_17"
+               cx="1453"
+               cy="416"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_outer_19">
+            <path
+               id="bound_tail_outer_18_0"
+               d="m 1471,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_outer_18_1"
+               d="m 1479,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_outer_18"
+               cx="1475"
+               cy="308"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_inner_19">
+            <path
+               id="bound_tail_inner_18_0"
+               d="m 1471,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_inner_18_1"
+               d="m 1479,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_inner_18"
+               cx="1475"
+               cy="416"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_outer_20">
+            <path
+               id="bound_tail_outer_19_0"
+               d="m 1493,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_outer_19_1"
+               d="m 1501,315 c -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10 -3,3 3,7 0,10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_outer_19"
+               cx="1497"
+               cy="308"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+          <g
+             id="bound_lipid_inner_20">
+            <path
+               id="bound_tail_inner_19_0"
+               d="m 1493,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_tail_inner_19_1"
+               d="m 1501,409 c -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10 -3,-3 3,-7 0,-10"
+               fill="none"
+               stroke="#d5c9b7"
+               stroke-width="1.5"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_head_inner_19"
+               cx="1497"
+               cy="416"
+               rx="10"
+               ry="7"
+               fill="#c3b9a9"
+               stroke="#a69c8c"
+               stroke-width="1.1" />
+          </g>
+        </g>
+        <g
+           id="bound_seven_tm_helices">
+          <g
+             id="bound_TM1"
+             transform="rotate(4,1246,297)">
+            <path
+               id="bound_TM1_body"
+               d="m 1234,297 c 0,-6 24,-6 24,0 v 122 c 0,9 -24,9 -24,0 z"
+               fill="#8099a3"
+               stroke="#526e7a"
+               stroke-width="2"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_TM1_cap"
+               cx="1246"
+               cy="297"
+               rx="12"
+               ry="5"
+               fill="#c4d2d7"
+               stroke="#526e7a"
+               stroke-width="1.6" />
+          </g>
+          <g
+             id="bound_TM2">
+            <path
+               id="bound_TM2_body"
+               d="m 1270,287 c 0,-6 24,-6 24,0 v 138 c 0,9 -24,9 -24,0 z"
+               fill="#8099a3"
+               stroke="#526e7a"
+               stroke-width="2"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_TM2_cap"
+               cx="1282"
+               cy="287"
+               rx="12"
+               ry="5"
+               fill="#c4d2d7"
+               stroke="#526e7a"
+               stroke-width="1.6" />
+          </g>
+          <g
+             id="bound_TM3"
+             transform="rotate(6,1321,296)">
+            <path
+               id="bound_TM3_body"
+               d="m 1309,296 c 0,-6 24,-6 24,0 v 126 c 0,9 -24,9 -24,0 z"
+               fill="#8099a3"
+               stroke="#526e7a"
+               stroke-width="2"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_TM3_cap"
+               cx="1321"
+               cy="296"
+               rx="12"
+               ry="5"
+               fill="#c4d2d7"
+               stroke="#526e7a"
+               stroke-width="1.6" />
+          </g>
+          <g
+             id="bound_TM4"
+             transform="rotate(10,1237,307)">
+            <path
+               id="bound_TM4_body"
+               d="m 1225,307 c 0,-6 24,-6 24,0 v 131 c 0,9 -24,9 -24,0 z"
+               fill="#8099a3"
+               stroke="#526e7a"
+               stroke-width="2"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_TM4_cap"
+               cx="1237"
+               cy="307"
+               rx="12"
+               ry="5"
+               fill="#c4d2d7"
+               stroke="#526e7a"
+               stroke-width="1.6" />
+          </g>
+          <g
+             id="bound_TM5"
+             transform="rotate(13,1272,311)">
+            <path
+               id="bound_TM5_body"
+               d="m 1260,311 c 0,-6 24,-6 24,0 v 137 c 0,9 -24,9 -24,0 z"
+               fill="#8099a3"
+               stroke="#526e7a"
+               stroke-width="2"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_TM5_cap"
+               cx="1272"
+               cy="311"
+               rx="12"
+               ry="5"
+               fill="#c4d2d7"
+               stroke="#526e7a"
+               stroke-width="1.6" />
+          </g>
+          <g
+             id="bound_TM6"
+             transform="rotate(-5,1313,305)">
+            <path
+               id="bound_TM6_body"
+               d="m 1301,305 c 0,-6 24,-6 24,0 v 134 c 0,9 -24,9 -24,0 z"
+               fill="#8099a3"
+               stroke="#526e7a"
+               stroke-width="2"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_TM6_cap"
+               cx="1313"
+               cy="305"
+               rx="12"
+               ry="5"
+               fill="#c4d2d7"
+               stroke="#526e7a"
+               stroke-width="1.6" />
+          </g>
+          <g
+             id="bound_TM7"
+             transform="rotate(-9,1344,303)">
+            <path
+               id="bound_TM7_body"
+               d="m 1332,303 c 0,-6 24,-6 24,0 v 132 c 0,9 -24,9 -24,0 z"
+               fill="#8099a3"
+               stroke="#526e7a"
+               stroke-width="2"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <ellipse
+               id="bound_TM7_cap"
+               cx="1344"
+               cy="303"
+               rx="12"
+               ry="5"
+               fill="#c4d2d7"
+               stroke="#526e7a"
+               stroke-width="1.6" />
+          </g>
+          <g
+             id="bound_receptor_loops">
+            <path
+               id="bound_extracellular_loop_1"
+               d="m 1246,296 c -4,-21 32,-21 36,-9"
+               fill="none"
+               stroke="#647585"
+               stroke-width="2"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_extracellular_loop_2"
+               d="m 1321,295 c 4,-29 -57,-22 -49,15"
+               fill="none"
+               stroke="#647585"
+               stroke-width="2"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_extracellular_loop_3"
+               d="m 1313,304 c -6,-22 36,-21 31,-2"
+               fill="none"
+               stroke="#647585"
+               stroke-width="2"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_amino_terminus"
+               d="m 1282,287 c -6,-15 20,-8 16,-23 -4,-13 18,2 18,-14"
+               fill="none"
+               stroke="#647585"
+               stroke-width="2"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_intracellular_loop_1"
+               d="m 1225,437 c -5,20 34,29 36,1"
+               fill="none"
+               stroke="#647585"
+               stroke-width="2"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_intracellular_loop_2"
+               d="m 1324,437 c 6,14 -28,21 -33,6"
+               fill="none"
+               stroke="#647585"
+               stroke-width="2"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+            <path
+               id="bound_carboxyl_terminus"
+               d="m 1365,434 c 15,-4 12,22 32,11 15,-10 20,8 31,1"
+               fill="none"
+               stroke="#647585"
+               stroke-width="2"
+               stroke-linecap="round"
+               stroke-linejoin="round" />
+          </g>
+          <g
+             id="bound_ligand">
+            <title
+               id="title2907">Schematic ligand in the receptor binding pocket</title>
+            <path
+               id="bound_ligand_shape"
+               d="m 1281,320 19,4 q 4,1 2,6 l -8,17 q -2,4 -6,2 l -12,-8 q -3,-2 -1,-6 l 3,-12 q 1,-3 3,-3 z"
+               fill="#cc7965"
+               stroke="#934d3d"
+               stroke-width="1.8"
+               stroke-linejoin="round" />
+          </g>
+        </g>
+        <g
+           id="heterotrimeric_g_protein">
+          <path
+             id="g_alpha"
+             d="m 1268,429 c -1,-10 11,-11 14,-1 l 3,24 c 21,-5 37,2 37,15 1,13 -11,21 -24,18 -17,-3 -23,5 -32,3 -9,-3 -15,-11 -25,-6 -13,5 -28,-2 -29,-15 -2,-16 14,-25 30,-22 l 23,2 z"
+             fill="#d6a462"
+             stroke="#9b713b"
+             stroke-width="2"
+             stroke-linecap="round"
+             stroke-linejoin="round" />
+          <path
+             id="g_alpha_domain_connector"
+             d="m 1226,481 c -20,10 -11,26 4,24"
+             fill="none"
+             stroke="#9b713b"
+             stroke-width="2.2"
+             stroke-linecap="round"
+             stroke-linejoin="round" />
+          <path
+             id="g_alpha_helical_domain"
+             d="m 1231,495 c 10,-5 19,1 22,10 l 25,23 c 9,8 3,22 -7,24 -10,1 -17,-7 -25,-15 l -21,-21 c -8,-7 -4,-18 6,-21 z"
+             fill="#d6a462"
+             stroke="#9b713b"
+             stroke-width="2"
+             stroke-linecap="round"
+             stroke-linejoin="round" />
+          <path
+             id="g_gamma"
+             d="m 1325,439 c 10,9 30,24 33,47 7,31 -11,62 -41,64 -13,2 -21,-2 -9,-8 20,-13 25,-29 20,-49 l -8,-29 c -4,-12 -2,-22 5,-25 z"
+             fill="#afa497"
+             stroke="#7d7469"
+             stroke-width="2"
+             stroke-linecap="round"
+             stroke-linejoin="round" />
+          <path
+             id="g_beta"
+             d="m 1305,462 c 15,-7 28,3 29,17 2,12 7,22 2,35 -4,14 -10,27 -23,28 -13,2 -27,-6 -20,-17 5,-8 -13,-8 -11,-19 0,-11 11,-13 7,-24 -4,-10 5,-19 16,-20 z"
+             fill="#bea5b5"
+             stroke="#886d7f"
+             stroke-width="2"
+             stroke-linecap="round"
+             stroke-linejoin="round" />
+          <text
+             id="alpha_label"
+             x="1246"
+             y="469"
+             font-size="21px"
+             font-weight="500"
+             fill="#252b30"
+             text-anchor="middle">α</text>
+          <text
+             id="beta_label"
+             x="1312"
+             y="504"
+             font-size="21px"
+             font-weight="500"
+             fill="#252b30"
+             text-anchor="middle">β</text>
+          <text
+             id="gamma_label"
+             x="1345"
+             y="500"
+             font-size="18px"
+             font-weight="500"
+             fill="#252b30"
+             text-anchor="middle">γ</text>
+        </g>
+      </g>
+    </g>
+    <rect
+       x="50.77655"
+       y="468.20926"
+       width="500"
+       height="76"
+       rx="14"
+       fill="#f8fbfb"
+       stroke="#b9cecc"
+       stroke-width="1.5"
+       id="rect2924" />
+    <g
+       transform="matrix(0.72,0,0,0.72,74.085269,216.88581)"
+       id="g2969">
+      <g
+         id="ghost_partners">
+        <g
+           transform="matrix(0.7,0,0,0.7,-706,169)"
+           fill="#233cb3"
+           fill-opacity="0.1"
+           stroke="#233cb3"
+           stroke-width="3.5"
+           stroke-dasharray="7, 6"
+           stroke-linejoin="round"
+           id="g2936">
+          <path
+             d="m 1268,429 c -1,-10 11,-11 14,-1 l 3,24 c 21,-5 37,2 37,15 1,13 -11,21 -24,18 -17,-3 -23,5 -32,3 -9,-3 -15,-11 -25,-6 -13,5 -28,-2 -29,-15 -2,-16 14,-25 30,-22 l 23,2 z"
+             id="path2926" />
+          <path
+             d="m 1226,481 c -20,10 -11,26 4,24"
+             id="path2928" />
+          <path
+             d="m 1231,495 c 10,-5 19,1 22,10 l 25,23 c 9,8 3,22 -7,24 -10,1 -17,-7 -25,-15 l -21,-21 c -8,-7 -4,-18 6,-21 z"
+             id="path2930" />
+          <path
+             d="m 1325,439 c 10,9 30,24 33,47 7,31 -11,62 -41,64 -13,2 -21,-2 -9,-8 20,-13 25,-29 20,-49 l -8,-29 c -4,-12 -2,-22 5,-25 z"
+             id="path2932" />
+          <path
+             d="m 1305,462 c 15,-7 28,3 29,17 2,12 7,22 2,35 -4,14 -10,27 -23,28 -13,2 -27,-6 -20,-17 5,-8 -13,-8 -11,-19 0,-11 11,-13 7,-24 -4,-10 5,-19 16,-20 z"
+             id="path2934" />
+        </g>
+        <text
+           x="190"
+           y="600"
+           font-size="28px"
+           font-weight="700"
+           fill="#233cb3"
+           text-anchor="middle"
+           id="text2938">Gs</text>
+        <g
+           transform="matrix(0.7,0,0,0.7,-591,169)"
+           fill="#00834b"
+           fill-opacity="0.1"
+           stroke="#00834b"
+           stroke-width="3.5"
+           stroke-dasharray="7, 6"
+           stroke-linejoin="round"
+           id="g2950">
+          <path
+             d="m 1268,429 c -1,-10 11,-11 14,-1 l 3,24 c 21,-5 37,2 37,15 1,13 -11,21 -24,18 -17,-3 -23,5 -32,3 -9,-3 -15,-11 -25,-6 -13,5 -28,-2 -29,-15 -2,-16 14,-25 30,-22 l 23,2 z"
+             id="path2940" />
+          <path
+             d="m 1226,481 c -20,10 -11,26 4,24"
+             id="path2942" />
+          <path
+             d="m 1231,495 c 10,-5 19,1 22,10 l 25,23 c 9,8 3,22 -7,24 -10,1 -17,-7 -25,-15 l -21,-21 c -8,-7 -4,-18 6,-21 z"
+             id="path2944" />
+          <path
+             d="m 1325,439 c 10,9 30,24 33,47 7,31 -11,62 -41,64 -13,2 -21,-2 -9,-8 20,-13 25,-29 20,-49 l -8,-29 c -4,-12 -2,-22 5,-25 z"
+             id="path2946" />
+          <path
+             d="m 1305,462 c 15,-7 28,3 29,17 2,12 7,22 2,35 -4,14 -10,27 -23,28 -13,2 -27,-6 -20,-17 5,-8 -13,-8 -11,-19 0,-11 11,-13 7,-24 -4,-10 5,-19 16,-20 z"
+             id="path2948" />
+        </g>
+        <text
+           x="305"
+           y="600"
+           font-size="28px"
+           font-weight="700"
+           fill="#00834b"
+           text-anchor="middle"
+           id="text2952">Gi/o</text>
+        <g
+           transform="matrix(0.7,0,0,0.7,-476,169)"
+           fill="#c02670"
+           fill-opacity="0.1"
+           stroke="#c02670"
+           stroke-width="3.5"
+           stroke-dasharray="7, 6"
+           stroke-linejoin="round"
+           id="g2964">
+          <path
+             d="m 1268,429 c -1,-10 11,-11 14,-1 l 3,24 c 21,-5 37,2 37,15 1,13 -11,21 -24,18 -17,-3 -23,5 -32,3 -9,-3 -15,-11 -25,-6 -13,5 -28,-2 -29,-15 -2,-16 14,-25 30,-22 l 23,2 z"
+             id="path2954" />
+          <path
+             d="m 1226,481 c -20,10 -11,26 4,24"
+             id="path2956" />
+          <path
+             d="m 1231,495 c 10,-5 19,1 22,10 l 25,23 c 9,8 3,22 -7,24 -10,1 -17,-7 -25,-15 l -21,-21 c -8,-7 -4,-18 6,-21 z"
+             id="path2958" />
+          <path
+             d="m 1325,439 c 10,9 30,24 33,47 7,31 -11,62 -41,64 -13,2 -21,-2 -9,-8 20,-13 25,-29 20,-49 l -8,-29 c -4,-12 -2,-22 5,-25 z"
+             id="path2960" />
+          <path
+             d="m 1305,462 c 15,-7 28,3 29,17 2,12 7,22 2,35 -4,14 -10,27 -23,28 -13,2 -27,-6 -20,-17 5,-8 -13,-8 -11,-19 0,-11 11,-13 7,-24 -4,-10 5,-19 16,-20 z"
+             id="path2962" />
+        </g>
+        <text
+           x="420"
+           y="600"
+           font-size="28px"
+           font-weight="700"
+           fill="#c02670"
+           text-anchor="middle"
+           id="text2966">Gq/11</text>
+      </g>
+    </g>
+    <rect
+       x="675"
+       y="200"
+       width="360"
+       height="402"
+       rx="20"
+       fill="#F6F8F9"
+       stroke="#D7DEE3"
+       stroke-width="1.5"
+       id="rect2971" />
+    <text
+       x="855"
+       y="248"
+       fill="#246D68"
+       font-size="56"
+       font-weight="700"
+       text-anchor="middle"
+       id="text2973">207</text>
+    <text
+       x="855"
+       y="282"
+       fill="#252B30"
+       font-size="22"
+       font-weight="700"
+       text-anchor="middle"
+       id="text2975">receptor–transducer units</text>
+    <text
+       x="855"
+       y="317"
+       fill="#68747B"
+       font-size="21"
+       font-weight="400"
+       text-anchor="middle"
+       id="text2977">from 169 receptors</text>
+    <path
+       d="M715 345 H995"
+       stroke="#DDE3E7"
+       stroke-width="2"
+       id="path2979" />
+    <circle
+       cx="735"
+       cy="387"
+       r="10"
+       fill="#233CB3"
+       id="circle2981" />
+    <text
+       x="760"
+       y="395"
+       fill="#252B30"
+       font-size="25"
+       font-weight="700"
+       text-anchor="start"
+       id="text2983">Gs</text>
+    <text
+       x="975"
+       y="395"
+       fill="#233CB3"
+       font-size="30"
+       font-weight="700"
+       text-anchor="end"
+       id="text2985">52</text>
+    <rect
+       x="760"
+       y="407"
+       width="205"
+       height="9"
+       rx="4.5"
+       fill="#E4E8EB"
+       id="rect2987" />
+    <rect
+       x="760"
+       y="407"
+       width="104.50980392156863"
+       height="9"
+       rx="4.5"
+       fill="#233CB3"
+       opacity="0.85"
+       id="rect2989" />
+    <circle
+       cx="735"
+       cy="450"
+       r="10"
+       fill="#00834B"
+       id="circle2991" />
+    <text
+       x="760"
+       y="458"
+       fill="#252B30"
+       font-size="25"
+       font-weight="700"
+       text-anchor="start"
+       id="text2993">Gi/o</text>
+    <text
+       x="975"
+       y="458"
+       fill="#00834B"
+       font-size="30"
+       font-weight="700"
+       text-anchor="end"
+       id="text2995">102</text>
+    <rect
+       x="760"
+       y="470"
+       width="205"
+       height="9"
+       rx="4.5"
+       fill="#E4E8EB"
+       id="rect2997" />
+    <rect
+       x="760"
+       y="470"
+       width="205.0"
+       height="9"
+       rx="4.5"
+       fill="#00834B"
+       opacity="0.85"
+       id="rect2999" />
+    <circle
+       cx="735"
+       cy="513"
+       r="10"
+       fill="#C02670"
+       id="circle3001" />
+    <text
+       x="760"
+       y="521"
+       fill="#252B30"
+       font-size="25"
+       font-weight="700"
+       text-anchor="start"
+       id="text3003">Gq/11</text>
+    <text
+       x="975"
+       y="521"
+       fill="#C02670"
+       font-size="30"
+       font-weight="700"
+       text-anchor="end"
+       id="text3005">53</text>
+    <rect
+       x="760"
+       y="533"
+       width="205"
+       height="9"
+       rx="4.5"
+       fill="#E4E8EB"
+       id="rect3007" />
+    <rect
+       x="760"
+       y="533"
+       width="106.51960784313725"
+       height="9"
+       rx="4.5"
+       fill="#C02670"
+       opacity="0.85"
+       id="rect3009" />
+    <rect
+       x="1110"
+       y="200"
+       width="410"
+       height="402"
+       rx="20"
+       fill="#FFFFFF"
+       stroke="#D7DEE3"
+       stroke-width="1.5"
+       id="rect3011" />
+    <rect
+       x="1142"
+       y="238"
+       width="145"
+       height="100"
+       rx="14"
+       fill="#F6F8F9"
+       stroke="#C9D3D9"
+       stroke-width="1.3"
+       id="rect3013" />
+    <text
+       x="1214"
+       y="274"
+       fill="#68747B"
+       font-size="18"
+       font-weight="400"
+       text-anchor="middle"
+       id="text3015">Receptor</text>
+    <text
+       x="1214"
+       y="306"
+       fill="#252B30"
+       font-size="25"
+       font-weight="700"
+       text-anchor="middle"
+       id="text3017">sequence</text>
+    <rect
+       x="1142"
+       y="366"
+       width="145"
+       height="100"
+       rx="14"
+       fill="#F6F8F9"
+       stroke="#C9D3D9"
+       stroke-width="1.3"
+       id="rect3019" />
+    <text
+       x="1214"
+       y="402"
+       fill="#68747B"
+       font-size="18"
+       font-weight="400"
+       text-anchor="middle"
+       id="text3021">Receptor</text>
+    <text
+       x="1214"
+       y="434"
+       fill="#252B30"
+       font-size="25"
+       font-weight="700"
+       text-anchor="middle"
+       id="text3023">geometry</text>
+    <line
+       x1="1168"
+       y1="451"
+       x2="1260"
+       y2="451"
+       stroke="#7A8992"
+       stroke-width="2"
+       id="line3025" />
+    <circle
+       cx="1172"
+       cy="451"
+       r="5"
+       fill="#246D68"
+       id="circle3027" />
+    <circle
+       cx="1202"
+       cy="451"
+       r="5"
+       fill="#246D68"
+       id="circle3029" />
+    <circle
+       cx="1232"
+       cy="451"
+       r="5"
+       fill="#246D68"
+       id="circle3031" />
+    <circle
+       cx="1258"
+       cy="451"
+       r="5"
+       fill="#246D68"
+       id="circle3033" />
+    <path
+       d="M1300 352 H1360"
+       fill="none"
+       stroke="#246D68"
+       stroke-width="3"
+       marker-end="url(#arrow)"
+       id="path3035" />
+    <path
+       d="M1288 288 C1320 288 1322 350 1360 350"
+       fill="none"
+       stroke="#A9B8BE"
+       stroke-width="2"
+       id="path3037" />
+    <path
+       d="M1288 416 C1320 416 1322 354 1360 354"
+       fill="none"
+       stroke="#A9B8BE"
+       stroke-width="2"
+       id="path3039" />
+    <rect
+       x="1380"
+       y="270"
+       width="110"
+       height="164"
+       rx="16"
+       fill="#F8FBFB"
+       stroke="#9DBDB9"
+       stroke-width="1.5"
+       id="rect3041" />
+    <text
+       x="1435"
+       y="301"
+       fill="#68747B"
+       font-size="18"
+       font-weight="400"
+       text-anchor="middle"
+       id="text3043">Captured</text>
+    <text
+       x="1435"
+       y="328"
+       fill="#252B30"
+       font-size="25"
+       font-weight="700"
+       text-anchor="middle"
+       id="text3045">class</text>
+    <circle
+       cx="1408"
+       cy="348"
+       r="5.5"
+       fill="#233CB3"
+       id="circle3047" />
+    <text
+       x="1422"
+       y="353"
+       fill="#233CB3"
+       font-size="18"
+       font-weight="700"
+       text-anchor="start"
+       id="text3049">Gs</text>
+    <circle
+       cx="1408"
+       cy="377"
+       r="5.5"
+       fill="#00834B"
+       id="circle3051" />
+    <text
+       x="1422"
+       y="382"
+       fill="#00834B"
+       font-size="18"
+       font-weight="700"
+       text-anchor="start"
+       id="text3053">Gi/o</text>
+    <circle
+       cx="1408"
+       cy="406"
+       r="5.5"
+       fill="#C02670"
+       id="circle3055" />
+    <text
+       x="1422"
+       y="411"
+       fill="#C02670"
+       font-size="18"
+       font-weight="700"
+       text-anchor="start"
+       id="text3057">Gq/11</text>
+    <rect
+       x="1142"
+       y="510"
+       width="346"
+       height="52"
+       rx="14"
+       fill="#FFF8EA"
+       stroke="#E1C989"
+       stroke-width="1.3"
+       id="rect3059" />
+    <path
+       d="M 64,661 H 1536"
+       fill="none"
+       stroke="#d9dee2"
+       stroke-width="2"
+       id="path3061" />
+    <text
+       x="72"
+       y="700"
+       fill="#252B30"
+       font-size="36"
+       font-weight="700"
+       text-anchor="start"
+       id="text3063">D</text>
+    <text
+       x="115"
+       y="700"
+       fill="#252B30"
+       font-size="29"
+       font-weight="700"
+       text-anchor="start"
+       id="text3065">Three analyses</text>
+    <rect
+       x="82"
+       y="735"
+       width="430"
+       height="122"
+       rx="17"
+       fill="#F6F8F9"
+       stroke="#D7DEE3"
+       stroke-width="1.4"
+       id="rect3067" />
+    <rect
+       x="82"
+       y="735"
+       width="9"
+       height="122"
+       rx="4.5"
+       fill="#8099A3"
+       id="rect3069" />
+    <text
+       x="145"
+       y="772"
+       fill="#252B30"
+       font-size="24"
+       font-weight="700"
+       text-anchor="start"
+       id="text3071">Activation benchmark</text>
+    <text
+       x="112"
+       y="800"
+       fill="#68747B"
+       font-size="17"
+       font-weight="700"
+       text-anchor="start"
+       id="text3073">1,336 active/inactive structures</text>
+    <text
+       x="112"
+       y="829"
+       fill="#252b30"
+       font-size="18"
+       font-weight="400"
+       text-anchor="start"
+       id="text3075"
+       style="font-size:17.3333px">Can receptor geometry recover a conserved state?</text>
+    <rect
+       x="585"
+       y="735"
+       width="430"
+       height="122"
+       rx="17"
+       fill="#F6F8F9"
+       stroke="#D7DEE3"
+       stroke-width="1.4"
+       id="rect3077" />
+    <rect
+       x="585"
+       y="735"
+       width="9"
+       height="122"
+       rx="4.5"
+       fill="#246D68"
+       id="rect3079" />
+    <text
+       x="648"
+       y="772"
+       fill="#252B30"
+       font-size="24"
+       font-weight="700"
+       text-anchor="start"
+       id="text3081">Evolutionary transfer</text>
+    <text
+       x="615"
+       y="800"
+       fill="#68747B"
+       font-size="17"
+       font-weight="700"
+       text-anchor="start"
+       id="text3083">207 receptor–transducer units</text>
+    <text
+       x="615"
+       y="829"
+       fill="#252b30"
+       font-size="18"
+       font-weight="400"
+       text-anchor="start"
+       id="text3085"
+       style="font-size:17.3333px">How far do sequence and geometry generalise?</text>
+    <rect
+       x="1088"
+       y="735"
+       width="430"
+       height="122"
+       rx="17"
+       fill="#F6F8F9"
+       stroke="#D7DEE3"
+       stroke-width="1.4"
+       id="rect3087" />
+    <rect
+       x="1088"
+       y="735"
+       width="9"
+       height="122"
+       rx="4.5"
+       fill="#D6A462"
+       id="rect3089" />
+    <text
+       x="1151"
+       y="772"
+       fill="#252B30"
+       font-size="24"
+       font-weight="700"
+       text-anchor="start"
+       id="text3091">Provenance audit</text>
+    <text
+       x="1118"
+       y="800"
+       fill="#68747B"
+       font-size="17"
+       font-weight="700"
+       text-anchor="start"
+       id="text3093">candidate receptor-only references</text>
+    <text
+       x="1118"
+       y="829"
+       fill="#252B30"
+       font-size="18"
+       font-weight="400"
+       text-anchor="start"
+       id="text3095"
+       style="font-size:17.33333333px">Which structures are genuinely partner free?</text>
+    <text
+       x="1315"
+       y="543"
+       fill="#725917"
+       font-size="17"
+       font-weight="700"
+       text-anchor="middle"
+       id="text3097">Captured class ≠ full coupling repertoire</text>
+    <circle
+       cx="112"
+       cy="764"
+       r="17"
+       fill="#8099A3"
+       id="circle3099" />
+    <text
+       x="112"
+       y="771"
+       fill="#FFFFFF"
+       font-size="19"
+       font-weight="700"
+       text-anchor="middle"
+       id="text3101">1</text>
+    <circle
+       cx="615"
+       cy="764"
+       r="17"
+       fill="#246D68"
+       id="circle3103" />
+    <text
+       x="615"
+       y="771"
+       fill="#FFFFFF"
+       font-size="19"
+       font-weight="700"
+       text-anchor="middle"
+       id="text3105">2</text>
+    <circle
+       cx="1118"
+       cy="764"
+       r="17"
+       fill="#D6A462"
+       id="circle3107" />
+    <text
+       x="1118"
+       y="771"
+       fill="#FFFFFF"
+       font-size="19"
+       font-weight="700"
+       text-anchor="middle"
+       id="text3109">3</text>
+    <path
+       d="M525 796 H570"
+       fill="none"
+       stroke="#AEB8BE"
+       stroke-width="2.2"
+       marker-end="url(#arrowGray)"
+       id="path3111" />
+    <path
+       d="M1028 796 H1073"
+       fill="none"
+       stroke="#AEB8BE"
+       stroke-width="2.2"
+       marker-end="url(#arrowGray)"
+       id="path3113" />
+    <text
+       x="300.77655"
+       y="498.20929"
+       fill="#246d68"
+       font-size="21px"
+       font-weight="700"
+       text-anchor="middle"
+       id="text3115">receptor coordinates analysed</text>
+    <text
+       x="300.77655"
+       y="528.20929"
+       fill="#252b30"
+       font-size="20px"
+       font-weight="400"
+       text-anchor="middle"
+       id="text3117">captured G protein → class label</text>
+  </g>
+</svg>

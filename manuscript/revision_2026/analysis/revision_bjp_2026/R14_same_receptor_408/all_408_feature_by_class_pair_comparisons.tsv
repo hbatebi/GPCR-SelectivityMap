@@ -1,0 +1,409 @@
+feature	class_a	class_b	n_paired_receptors	median_paired_difference_a_minus_b	paired_difference_ci_low	paired_difference_ci_high	wilcoxon_statistic	p_value	p_fdr	comparison
+activation_consensus_feature_count	Gs	Gi/o	10	0.0	0.0	0.0	0.0	1.0	1.0	Gs vs Gi/o
+activation_consensus_feature_count	Gs	Gq/11	10	0.0	0.0	0.0	0.0	1.0	1.0	Gs vs Gq/11
+activation_consensus_feature_count	Gi/o	Gq/11	22	0.0	0.0	0.0				Gi/o vs Gq/11
+activation_consensus_score	Gs	Gi/o	10	0.0174494569770582	-0.0097549687032661	0.0508164152324121	19.0	0.431640625	1.0	Gs vs Gi/o
+activation_consensus_score	Gs	Gq/11	10	0.0166649081715295	-0.0291887976569195	0.0880748796394226	17.0	0.322265625	1.0	Gs vs Gq/11
+activation_consensus_score	Gi/o	Gq/11	22	-0.0024208668363238	-0.033561765759101	0.0190799582981435	119.0	0.8237285614013672	1.0	Gi/o vs Gq/11
+cwxp_647_650_distance	Gs	Gi/o	10	0.2329499999999997	-0.1422712500000004	0.3850999999999995	18.0	0.375	1.0	Gs vs Gi/o
+cwxp_647_650_distance	Gs	Gq/11	10	0.3619499999999997	-0.0012999999999996	0.5918999999999999	6.0	0.02734375	0.8306587837837838	Gs vs Gq/11
+cwxp_647_650_distance	Gi/o	Gq/11	22	0.1155499999999998	-0.0954499999999995	0.4412000000000002	74.0	0.0917325019836425	0.8306587837837838	Gi/o vs Gq/11
+dry_d349_r350_min_distance	Gs	Gi/o	10	-0.0012499999999999	-0.00535	0.0009000000000001	18.0	0.361328125	1.0	Gs vs Gi/o
+dry_d349_r350_min_distance	Gs	Gq/11	10	0.0	-0.00156	0.0055499999999999	23.0	0.67578125	1.0	Gs vs Gq/11
+dry_d349_r350_min_distance	Gi/o	Gq/11	22	0.00145	-0.0012	0.00345	74.0	0.0882557553516803	0.8306587837837838	Gi/o vs Gq/11
+dry_r350_630_ca_distance	Gs	Gi/o	9	0.2235999999999993	-0.7676999999999996	1.4377999999999993	16.0	0.49609375	1.0	Gs vs Gi/o
+dry_r350_630_ca_distance	Gs	Gq/11	9	-0.0153999999999996	-0.2995000000000001	0.6564999999999976	17.0	0.5703125	1.0	Gs vs Gq/11
+dry_r350_630_ca_distance	Gi/o	Gq/11	21	-0.3340999999999994	-0.5289000000000001	0.3607000000000013	87.0	0.3376598358154297	1.0	Gi/o vs Gq/11
+dry_r350_630_charged_distance	Gs	Gi/o	5	-0.532	-2.815100000000001	2.3610000000000007	6.0	0.8125	1.0	Gs vs Gi/o
+dry_r350_630_charged_distance	Gs	Gq/11	7	0.3567	-0.1783999999999999	0.6164000000000005	9.0	0.46875	1.0	Gs vs Gq/11
+dry_r350_630_charged_distance	Gi/o	Gq/11	12	-0.03655	-1.3758499999999998	0.6678499999999987	33.0	0.67724609375	1.0	Gi/o vs Gq/11
+dry_r350_630_min_distance	Gs	Gi/o	9	0.0961999999999996	-0.4626999999999999	0.3306999999999984	22.0	1.0	1.0	Gs vs Gi/o
+dry_r350_630_min_distance	Gs	Gq/11	9	0.1587999999999993	-0.2092999999999989	0.7625999999999991	14.0	0.359375	1.0	Gs vs Gq/11
+dry_r350_630_min_distance	Gi/o	Gq/11	21	0.0150000000000005	-0.2620000000000004	0.4253	106.0	0.7592878341674805	1.0	Gi/o vs Gq/11
+h8_end_to_end_distance	Gs	Gi/o	8	0.3458499999999995	-0.4345999999999996	0.9888000000000012	13.0	0.546875	1.0	Gs vs Gi/o
+h8_end_to_end_distance	Gs	Gq/11	6	0.2204499999999996	0.0112500000000013	1.07695	1.0	0.0625	0.8306587837837838	Gs vs Gq/11
+h8_end_to_end_distance	Gi/o	Gq/11	13	-0.1282999999999994	-0.4588000000000001	0.1488999999999993	36.0	0.541748046875	1.0	Gi/o vs Gq/11
+h8_r350_distance	Gs	Gi/o	10	0.4440999999999988	-0.8346500000000017	1.230599999999999	20.0	0.4921875	1.0	Gs vs Gi/o
+h8_r350_distance	Gs	Gq/11	10	-0.3596499999999984	-1.752200000000002	0.8788	19.0	0.431640625	1.0	Gs vs Gq/11
+h8_r350_distance	Gi/o	Gq/11	18	0.0850999999999988	-0.7663499999999992	0.5587999999999997	81.0	0.8650436401367188	1.0	Gi/o vs Gq/11
+h8_tm6_distance	Gs	Gi/o	10	1.0413000000000014	0.1175999999999994	1.6004000000000005	11.0	0.10546875	0.8306587837837838	Gs vs Gi/o
+h8_tm6_distance	Gs	Gq/11	10	0.3956999999999997	-0.5607999999999986	2.3206999999999987	16.0	0.275390625	1.0	Gs vs Gq/11
+h8_tm6_distance	Gi/o	Gq/11	18	-0.0369499999999973	-0.5030500000000018	0.4116499999999998	82.0	0.8985748291015625	1.0	Gi/o vs Gq/11
+icl2_active_reference_displacement	Gs	Gi/o	10	-0.1338999999999998	-0.5628	0.3032500000000001	21.0	0.556640625	1.0	Gs vs Gi/o
+icl2_active_reference_displacement	Gs	Gq/11	9	0.0457	-0.3893999999999999	0.7711999999999999	18.0	0.65234375	1.0	Gs vs Gq/11
+icl2_active_reference_displacement	Gi/o	Gq/11	21	0.0971999999999999	-0.5202	0.2947999999999999	98.0	0.5620746612548828	1.0	Gi/o vs Gq/11
+icl2_axis_tm3_angle	Gs	Gi/o	10	2.442999999999998	-6.536699999999996	4.185400000000001	27.0	1.0	1.0	Gs vs Gi/o
+icl2_axis_tm3_angle	Gs	Gq/11	9	0.5052000000000021	-1.4744000000000028	2.3355000000000032	22.0	1.0	1.0	Gs vs Gq/11
+icl2_axis_tm3_angle	Gi/o	Gq/11	21	-0.8305000000000007	-1.604300000000002	1.033299999999997	115.0	1.0	1.0	Gi/o vs Gq/11
+icl2_axis_tm5_angle	Gs	Gi/o	9	-2.7150000000000034	-3.5634400000000013	1.4065000000000012	7.0	0.07421875	0.8306587837837838	Gs vs Gi/o
+icl2_axis_tm5_angle	Gs	Gq/11	5	1.066799999999997	-18.7801	3.157	7.0	1.0	1.0	Gs vs Gq/11
+icl2_axis_tm5_angle	Gi/o	Gq/11	12	1.3355999999999997	-0.3376999999999981	19.592600000000004	14.0	0.05224609375	0.8306587837837838	Gi/o vs Gq/11
+icl2_centroid_to_r350	Gs	Gi/o	10	0.2269000000000005	-0.2385000000000001	0.4800000000000004	16.0	0.275390625	1.0	Gs vs Gi/o
+icl2_centroid_to_r350	Gs	Gq/11	9	0.2574000000000005	0.1821000000000001	1.1654	5.0	0.0390625	0.8306587837837838	Gs vs Gq/11
+icl2_centroid_to_r350	Gi/o	Gq/11	21	0.0131999999999994	-0.1143999999999998	0.4147999999999996	74.0	0.1571340560913086	0.9783457880434784	Gi/o vs Gq/11
+icl2_centroid_to_tm5_561	Gs	Gi/o	10	0.2090000000000005	-0.0073500000000006	1.03505	8.0	0.048828125	0.8306587837837838	Gs vs Gi/o
+icl2_centroid_to_tm5_561	Gs	Gq/11	9	0.1294000000000004	-0.1381999999999976	0.4048224999999706	13.0	0.30078125	1.0	Gs vs Gq/11
+icl2_centroid_to_tm5_561	Gi/o	Gq/11	21	-0.0144000000000001	-0.2589000000000006	0.1903999999999968	115.0	1.0	1.0	Gi/o vs Gq/11
+icl2_centroid_to_tm6_634	Gs	Gi/o	10	-0.0463500000000003	-0.8355499999999978	0.8367500000000003	27.0	1.0	1.0	Gs vs Gi/o
+icl2_centroid_to_tm6_634	Gs	Gq/11	9	0.4638999999999988	-0.0127999999999985	1.7835	8.0	0.09765625	0.8306587837837838	Gs vs Gq/11
+icl2_centroid_to_tm6_634	Gi/o	Gq/11	21	0.3658999999999999	0.0737999999999985	0.8746000000000009	75.0	0.1678066253662109	0.9823679526646932	Gi/o vs Gq/11
+icl2_centroid_to_tm7_753	Gs	Gi/o	10	-0.0312999999999998	-0.437899999999999	0.5023462499999969	27.0	1.0	1.0	Gs vs Gi/o
+icl2_centroid_to_tm7_753	Gs	Gq/11	9	0.2285000000000003	-0.7499000000000002	0.747600000000002	18.0	0.65234375	1.0	Gs vs Gq/11
+icl2_centroid_to_tm7_753	Gi/o	Gq/11	21	0.2376000000000004	-0.3031000000000006	1.000899999999998	71.0	0.1280784606933593	0.8755115327380952	Gi/o vs Gq/11
+icl2_end_to_end_distance	Gs	Gi/o	10	0.1937000000000006	-0.228299999999999	1.693950000000001	17.0	0.322265625	1.0	Gs vs Gi/o
+icl2_end_to_end_distance	Gs	Gq/11	9	0.3170000000000001	0.2772000000000005	1.3033	0.0	0.00390625	0.548828125	Gs vs Gq/11
+icl2_end_to_end_distance	Gi/o	Gq/11	21	-0.1440999999999999	-0.5196999999999985	0.1351999999999993	97.0	0.539189338684082	1.0	Gi/o vs Gq/11
+icl2_generic_ca_count	Gs	Gi/o	10	0.0	0.0	0.0	0.0	1.0	1.0	Gs vs Gi/o
+icl2_generic_ca_count	Gs	Gq/11	10	0.0	0.0	1.5	0.0	0.5	1.0	Gs vs Gq/11
+icl2_generic_ca_count	Gi/o	Gq/11	22	0.0	0.0	0.0	1.0	0.6547208460185769	1.0	Gi/o vs Gq/11
+icl2_helix_fraction	Gs	Gi/o	10	0.0	-0.125	0.0	4.0	0.75	1.0	Gs vs Gi/o
+icl2_helix_fraction	Gs	Gq/11	10	0.0	-0.125	0.08335	7.0	1.0	1.0	Gs vs Gq/11
+icl2_helix_fraction	Gi/o	Gq/11	22	0.0	0.0	0.0	12.5	0.2273769693895434	1.0	Gi/o vs Gq/11
+icl2_longest_helix	Gs	Gi/o	10	-0.5	-1.0	0.0	5.5	0.40625	1.0	Gs vs Gi/o
+icl2_longest_helix	Gs	Gq/11	10	-0.5	-1.0	0.0	5.0	0.375	1.0	Gs vs Gq/11
+icl2_longest_helix	Gi/o	Gq/11	22	0.0	-0.5	0.0	22.0	0.2850494074026127	1.0	Gi/o vs Gq/11
+icl2_mean_phi	Gs	Gi/o	10	-12.609250000000005	-30.3202	-5.091400000000007	3.0	0.009765625	0.768359375	Gs vs Gi/o
+icl2_mean_phi	Gs	Gq/11	10	-13.334350000000004	-39.1934	1.2860000000000014	13.0	0.16015625	0.9783457880434784	Gs vs Gq/11
+icl2_mean_phi	Gi/o	Gq/11	22	0.3969000000000022	-2.709044999999996	6.667500000000004	107.0	0.5445904731750488	1.0	Gi/o vs Gq/11
+icl2_mean_psi	Gs	Gi/o	10	9.02925	1.4808999999999988	20.1692	4.0	0.013671875	0.768359375	Gs vs Gi/o
+icl2_mean_psi	Gs	Gq/11	10	-2.407050000000001	-7.1258	20.8895	23.0	0.6953125	1.0	Gs vs Gq/11
+icl2_mean_psi	Gi/o	Gq/11	22	-0.6836499999999983	-5.891299999999999	2.699299999999999	123.0	0.9239659309387208	1.0	Gi/o vs Gq/11
+icl2_n_modeled	Gs	Gi/o	10	0.0	0.0	0.0	0.0	1.0	1.0	Gs vs Gi/o
+icl2_n_modeled	Gs	Gq/11	10	0.0	0.0	1.5	0.0	0.5	1.0	Gs vs Gq/11
+icl2_n_modeled	Gi/o	Gq/11	22	0.0	0.0	0.0	1.0	0.6547208460185769	1.0	Gi/o vs Gq/11
+intracellular_cavity_asymmetry_proxy	Gs	Gi/o	10	0.1653500000000001	-0.6936	0.8570999999999991	25.0	0.845703125	1.0	Gs vs Gi/o
+intracellular_cavity_asymmetry_proxy	Gs	Gq/11	10	0.1803999999999996	-0.0579500000000003	0.8808499999999997	12.0	0.130859375	0.8755115327380952	Gs vs Gq/11
+intracellular_cavity_asymmetry_proxy	Gi/o	Gq/11	22	0.1377999999999994	-0.2466500000000002	0.3381000000000007	102.0	0.4434065818786621	1.0	Gi/o vs Gq/11
+intracellular_cavity_complete_asymmetry	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_asymmetry	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_asymmetry	Gi/o	Gq/11	2	0.0672	0.0515	0.0829				Gi/o vs Gq/11
+intracellular_cavity_complete_average_cross_section	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_average_cross_section	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_average_cross_section	Gi/o	Gq/11	2	7.750399999999999	-0.0576000000000007	15.5584				Gi/o vs Gq/11
+intracellular_cavity_complete_bottleneck_area	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_bottleneck_area	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_bottleneck_area	Gi/o	Gq/11	2	4.2250000000000005	-2.535	10.985				Gi/o vs Gq/11
+intracellular_cavity_complete_bottleneck_radius	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_bottleneck_radius	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_bottleneck_radius	Gi/o	Gq/11	2	0.47755	-0.3200999999999998	1.2752				Gi/o vs Gq/11
+intracellular_cavity_complete_centroid_x	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_centroid_x	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_centroid_x	Gi/o	Gq/11	2	-0.2997999999999999	-0.4031	-0.1964999999999999				Gi/o vs Gq/11
+intracellular_cavity_complete_centroid_y	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_centroid_y	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_centroid_y	Gi/o	Gq/11	2	0.1823000000000001	-0.1391999999999997	0.5038				Gi/o vs Gq/11
+intracellular_cavity_complete_centroid_z	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_centroid_z	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_centroid_z	Gi/o	Gq/11	2	0.2620499999999999	0.2134999999999998	0.3106				Gi/o vs Gq/11
+intracellular_cavity_complete_depth	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_depth	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_depth	Gi/o	Gq/11	2	-0.3249999999999993	-0.6499999999999986	0.0				Gi/o vs Gq/11
+intracellular_cavity_complete_eccentricity	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_eccentricity	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_eccentricity	Gi/o	Gq/11	2	-0.0173499999999999	-0.0313999999999999	-0.0032999999999999				Gi/o vs Gq/11
+intracellular_cavity_complete_max_inscribed_radius	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_max_inscribed_radius	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_max_inscribed_radius	Gi/o	Gq/11	2	0.7729999999999997	0.1032999999999999	1.4426999999999994				Gi/o vs Gq/11
+intracellular_cavity_complete_maximum_width	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_maximum_width	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_maximum_width	Gi/o	Gq/11	2	0.6689500000000006	0.5990000000000002	0.738900000000001				Gi/o vs Gq/11
+intracellular_cavity_complete_mouth_area	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_mouth_area	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_mouth_area	Gi/o	Gq/11	2	13.097499999999997	11.829999999999998	14.364999999999997				Gi/o vs Gq/11
+intracellular_cavity_complete_principal_axis_1_z_alignment	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_principal_axis_1_z_alignment	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_principal_axis_1_z_alignment	Gi/o	Gq/11	2	0.0235499999999999	-0.0249999999999999	0.0720999999999999				Gi/o vs Gq/11
+intracellular_cavity_complete_principal_length_1	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_principal_length_1	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_principal_length_1	Gi/o	Gq/11	2	0.1468999999999996	-0.7584000000000017	1.052200000000001				Gi/o vs Gq/11
+intracellular_cavity_complete_principal_length_2	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_principal_length_2	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_principal_length_2	Gi/o	Gq/11	2	-0.1793499999999994	-0.8699999999999992	0.5113000000000003				Gi/o vs Gq/11
+intracellular_cavity_complete_principal_length_3	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_principal_length_3	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_principal_length_3	Gi/o	Gq/11	2	0.7260000000000004	0.6277000000000008	0.8243				Gi/o vs Gq/11
+intracellular_cavity_complete_sphericity	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_sphericity	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_sphericity	Gi/o	Gq/11	2	0.0183	0.0104	0.0262				Gi/o vs Gq/11
+intracellular_cavity_complete_surface_area	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_surface_area	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_surface_area	Gi/o	Gq/11	2	33.37749999999994	-24.504999999999995	91.25999999999988				Gi/o vs Gq/11
+intracellular_cavity_complete_tm3_side_fraction	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_tm3_side_fraction	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_tm3_side_fraction	Gi/o	Gq/11	2	0.04875	0.0060999999999999	0.0914				Gi/o vs Gq/11
+intracellular_cavity_complete_tm5_side_fraction	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_tm5_side_fraction	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_tm5_side_fraction	Gi/o	Gq/11	2	0.02425	0.0039	0.0446				Gi/o vs Gq/11
+intracellular_cavity_complete_tm6_side_fraction	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_tm6_side_fraction	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_tm6_side_fraction	Gi/o	Gq/11	2	-0.04875	-0.0913999999999999	-0.0061				Gi/o vs Gq/11
+intracellular_cavity_complete_tm7_side_fraction	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_tm7_side_fraction	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_tm7_side_fraction	Gi/o	Gq/11	2	-0.02425	-0.0446	-0.0039				Gi/o vs Gq/11
+intracellular_cavity_complete_volume	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_volume	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_volume	Gi/o	Gq/11	2	108.47690000000006	-0.8238000000000056	217.7776000000001				Gi/o vs Gq/11
+intracellular_cavity_complete_wall_fraction_h8	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_wall_fraction_h8	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_wall_fraction_h8	Gi/o	Gq/11	2	0.0082999999999999	0.0032999999999999	0.0132999999999999				Gi/o vs Gq/11
+intracellular_cavity_complete_wall_fraction_icl1	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_wall_fraction_icl1	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_wall_fraction_icl1	Gi/o	Gq/11	0							Gi/o vs Gq/11
+intracellular_cavity_complete_wall_fraction_icl2	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_wall_fraction_icl2	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_wall_fraction_icl2	Gi/o	Gq/11	2	-0.0033	-0.0122999999999999	0.0056999999999999				Gi/o vs Gq/11
+intracellular_cavity_complete_wall_fraction_icl3	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_wall_fraction_icl3	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_wall_fraction_icl3	Gi/o	Gq/11	0							Gi/o vs Gq/11
+intracellular_cavity_complete_wall_fraction_tm2	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_wall_fraction_tm2	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_wall_fraction_tm2	Gi/o	Gq/11	0							Gi/o vs Gq/11
+intracellular_cavity_complete_wall_fraction_tm3	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_wall_fraction_tm3	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_wall_fraction_tm3	Gi/o	Gq/11	2	0.02015	0.0101999999999999	0.0301				Gi/o vs Gq/11
+intracellular_cavity_complete_wall_fraction_tm5	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_wall_fraction_tm5	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_wall_fraction_tm5	Gi/o	Gq/11	2	0.0138	0.0023999999999999	0.0252				Gi/o vs Gq/11
+intracellular_cavity_complete_wall_fraction_tm6	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_wall_fraction_tm6	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_wall_fraction_tm6	Gi/o	Gq/11	2	-0.0401499999999999	-0.0481999999999999	-0.0321				Gi/o vs Gq/11
+intracellular_cavity_complete_wall_fraction_tm7	Gs	Gi/o	0							Gs vs Gi/o
+intracellular_cavity_complete_wall_fraction_tm7	Gs	Gq/11	0							Gs vs Gq/11
+intracellular_cavity_complete_wall_fraction_tm7	Gi/o	Gq/11	2	0.00695	-0.0049999999999999	0.0189				Gi/o vs Gq/11
+intracellular_cavity_core_asymmetry	Gs	Gi/o	8	0.0148999999999999	-0.0405	0.0714	16.0	0.84375	1.0	Gs vs Gi/o
+intracellular_cavity_core_asymmetry	Gs	Gq/11	4	-0.0078	-0.0228999999999999	0.0374				Gs vs Gq/11
+intracellular_cavity_core_asymmetry	Gi/o	Gq/11	13	0.0112999999999999	-0.0461999999999999	0.0356	42.0	0.83935546875	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_average_cross_section	Gs	Gi/o	8	4.002949999999999	-3.7102	9.688299999999998	9.0	0.25	1.0	Gs vs Gi/o
+intracellular_cavity_core_average_cross_section	Gs	Gq/11	4	-4.891900000000003	-13.300300000000007	20.2755				Gs vs Gq/11
+intracellular_cavity_core_average_cross_section	Gi/o	Gq/11	13	-5.745999999999995	-11.759599999999992	-0.0576000000000007	25.0	0.167724609375	0.9823679526646932	Gi/o vs Gq/11
+intracellular_cavity_core_bottleneck_area	Gs	Gi/o	8	-0.8450000000000002	-3.802499999999995	3.38	18.0	1.0	1.0	Gs vs Gi/o
+intracellular_cavity_core_bottleneck_area	Gs	Gq/11	4	-3.5912499999999983	-5.07	-2.1125000000000007				Gs vs Gq/11
+intracellular_cavity_core_bottleneck_area	Gi/o	Gq/11	13	-2.1125000000000003	-4.6475	-0.4224999999999994	20.5	0.08349609375	0.8306587837837838	Gi/o vs Gq/11
+intracellular_cavity_core_bottleneck_radius	Gs	Gi/o	8	-0.0726	-0.4650000000000001	0.2330999999999998	15.0	0.7421875	1.0	Gs vs Gi/o
+intracellular_cavity_core_bottleneck_radius	Gs	Gq/11	4	-0.37335	-0.7850999999999999	-0.1160000000000001				Gs vs Gq/11
+intracellular_cavity_core_bottleneck_radius	Gi/o	Gq/11	13	-0.2857	-0.3395999999999999	-0.0425999999999999	17.0	0.0478515625	0.8306587837837838	Gi/o vs Gq/11
+intracellular_cavity_core_centroid_x	Gs	Gi/o	8	-0.0551	-0.3221	0.134	12.0	0.4609375	1.0	Gs vs Gi/o
+intracellular_cavity_core_centroid_x	Gs	Gq/11	4	-0.1809	-0.556	0.3824999999999999				Gs vs Gq/11
+intracellular_cavity_core_centroid_x	Gi/o	Gq/11	13	0.0446999999999999	-0.1964999999999999	0.1830999999999999	44.0	0.946044921875	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_centroid_y	Gs	Gi/o	8	-0.1035	-0.3269999999999999	0.1181000000000001	13.0	0.546875	1.0	Gs vs Gi/o
+intracellular_cavity_core_centroid_y	Gs	Gq/11	4	0.0957000000000001	-1.1241	0.2044000000000001				Gs vs Gq/11
+intracellular_cavity_core_centroid_y	Gi/o	Gq/11	13	0.0244999999999999	-0.1391999999999997	0.4596	43.0	0.892578125	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_centroid_z	Gs	Gi/o	8	0.0885500000000005	-0.7152000000000003	0.1366000000000005	16.0	0.84375	1.0	Gs vs Gi/o
+intracellular_cavity_core_centroid_z	Gs	Gq/11	4	-0.1181000000000001	-0.6486000000000001	0.3501000000000003				Gs vs Gq/11
+intracellular_cavity_core_centroid_z	Gi/o	Gq/11	13	-0.1477000000000004	-0.4287999999999998	0.1886000000000001	31.0	0.339599609375	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_depth	Gs	Gi/o	8	-0.6499999999999986	-0.6499999999999986	0.0	6.0	0.40625	1.0	Gs vs Gi/o
+intracellular_cavity_core_depth	Gs	Gq/11	4	-0.3249999999999993	-0.6500000000000004	0.6499999999999986				Gs vs Gq/11
+intracellular_cavity_core_depth	Gi/o	Gq/11	13	0.0	-0.6499999999999986	0.0	12.5	0.8125	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_eccentricity	Gs	Gi/o	8	-0.0192999999999999	-0.0831	0.0008999999999999	5.0	0.078125	0.8306587837837838	Gs vs Gi/o
+intracellular_cavity_core_eccentricity	Gs	Gq/11	4	-0.0136999999999999	-0.1596999999999999	0.0057				Gs vs Gq/11
+intracellular_cavity_core_eccentricity	Gi/o	Gq/11	13	0.0029	-0.0179	0.0055999999999999	45.0	1.0	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_max_inscribed_radius	Gs	Gi/o	8	-0.0155499999999997	-1.5243000000000002	2.042300000000001	17.0	0.9453125	1.0	Gs vs Gi/o
+intracellular_cavity_core_max_inscribed_radius	Gs	Gq/11	4	-0.2938499999999999	-1.2230000000000008	3.0623000000000005				Gs vs Gq/11
+intracellular_cavity_core_max_inscribed_radius	Gi/o	Gq/11	13	-0.1290000000000004	-0.6633000000000013	0.8147000000000002	45.0	1.0	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_maximum_width	Gs	Gi/o	8	0.2730000000000006	-0.5852000000000004	0.8820000000000014	11.0	0.3828125	1.0	Gs vs Gi/o
+intracellular_cavity_core_maximum_width	Gs	Gq/11	4	0.0671500000000007	-1.080499999999999	2.319500000000001				Gs vs Gq/11
+intracellular_cavity_core_maximum_width	Gi/o	Gq/11	13	-0.1975999999999995	-0.8169000000000004	0.5990000000000002	34.0	0.454833984375	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_mouth_area	Gs	Gi/o	8	5.703749999999999	-11.4075	16.900000000000006	10.0	0.3125	1.0	Gs vs Gi/o
+intracellular_cavity_core_mouth_area	Gs	Gq/11	4	1.9012500000000043	-21.970000000000013	41.8275				Gs vs Gq/11
+intracellular_cavity_core_mouth_area	Gi/o	Gq/11	13	-4.64749999999998	-19.857500000000016	11.829999999999998	33.0	0.414306640625	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_principal_axis_1_z_alignment	Gs	Gi/o	8	-0.00625	-0.0574999999999999	0.0133999999999999	13.0	0.546875	1.0	Gs vs Gi/o
+intracellular_cavity_core_principal_axis_1_z_alignment	Gs	Gq/11	4	-0.0053	-0.183	0.131				Gs vs Gq/11
+intracellular_cavity_core_principal_axis_1_z_alignment	Gi/o	Gq/11	13	-0.0080999999999999	-0.0322999999999999	0.0720999999999999	40.0	0.7353515625	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_principal_length_1	Gs	Gi/o	8	-0.3317499999999977	-0.9676999999999972	0.1834999999999986	6.0	0.109375	0.8306587837837838	Gs vs Gi/o
+intracellular_cavity_core_principal_length_1	Gs	Gq/11	4	-0.9954499999999982	-1.9739000000000004	-0.3358999999999987				Gs vs Gq/11
+intracellular_cavity_core_principal_length_1	Gi/o	Gq/11	13	-0.4617000000000004	-0.8091000000000008	0.2886000000000024	26.0	0.19091796875	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_principal_length_2	Gs	Gi/o	8	-0.1088999999999993	-1.1731999999999996	0.8706499999999995	15.0	0.7421875	1.0	Gs vs Gi/o
+intracellular_cavity_core_principal_length_2	Gs	Gq/11	4	-0.1229499999999994	-1.3170000000000002	0.0472999999999999				Gs vs Gq/11
+intracellular_cavity_core_principal_length_2	Gi/o	Gq/11	13	0.2461999999999999	-0.8699999999999992	0.7645999999999997	45.0	1.0	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_principal_length_3	Gs	Gi/o	8	0.2886000000000006	-0.1513000000000008	1.077449999999999	6.0	0.109375	0.8306587837837838	Gs vs Gi/o
+intracellular_cavity_core_principal_length_3	Gs	Gq/11	4	0.0367499999999991	-0.323599999999999	3.1956999999999995				Gs vs Gq/11
+intracellular_cavity_core_principal_length_3	Gi/o	Gq/11	13	-0.2448000000000005	-0.5684000000000005	0.5714000000000006	40.0	0.7353515625	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_sphericity	Gs	Gi/o	8	-0.0027	-0.0070999999999999	0.0096999999999999	16.0	0.84375	1.0	Gs vs Gi/o
+intracellular_cavity_core_sphericity	Gs	Gq/11	4	-0.00065	-0.0383	0.0791999999999999				Gs vs Gq/11
+intracellular_cavity_core_sphericity	Gi/o	Gq/11	13	-0.0021999999999999	-0.0115	0.0115	43.5	0.90673828125	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_surface_area	Gs	Gi/o	8	17.745000000000005	-65.06500000000005	130.9749999999999	12.0	0.4609375	1.0	Gs vs Gi/o
+intracellular_cavity_core_surface_area	Gs	Gq/11	4	-48.16499999999997	-89.57000000000005	95.4849999999999				Gs vs Gq/11
+intracellular_cavity_core_surface_area	Gi/o	Gq/11	13	-35.49000000000001	-109.84999999999992	-1.6900000000000546	18.0	0.057373046875	0.8306587837837838	Gi/o vs Gq/11
+intracellular_cavity_core_tm3_side_fraction	Gs	Gi/o	8	0.0037499999999999	-0.0054999999999999	0.078	11.0	0.3828125	1.0	Gs vs Gi/o
+intracellular_cavity_core_tm3_side_fraction	Gs	Gq/11	4	0.0125499999999999	-0.008	0.0859				Gs vs Gq/11
+intracellular_cavity_core_tm3_side_fraction	Gi/o	Gq/11	13	0.0060999999999999	-0.0234	0.028	42.0	0.83935546875	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_tm5_side_fraction	Gs	Gi/o	8	-0.0099499999999999	-0.0408	0.0171874999999995	11.0	0.3828125	1.0	Gs vs Gi/o
+intracellular_cavity_core_tm5_side_fraction	Gs	Gq/11	4	-0.0071999999999999	-0.1316	0.0037999999999999				Gs vs Gq/11
+intracellular_cavity_core_tm5_side_fraction	Gi/o	Gq/11	13	-0.0186	-0.0349999999999999	0.0039	32.0	0.375732421875	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_tm6_side_fraction	Gs	Gi/o	8	-0.00375	-0.06205	0.0055	11.0	0.3828125	1.0	Gs vs Gi/o
+intracellular_cavity_core_tm6_side_fraction	Gs	Gq/11	4	-0.01255	-0.0858999999999999	0.0079999999999999				Gs vs Gq/11
+intracellular_cavity_core_tm6_side_fraction	Gi/o	Gq/11	13	-0.0061	-0.028	0.0233999999999999	42.0	0.83935546875	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_tm7_side_fraction	Gs	Gi/o	8	0.00995	-0.01645	0.0408	11.0	0.3828125	1.0	Gs vs Gi/o
+intracellular_cavity_core_tm7_side_fraction	Gs	Gq/11	4	0.0072	-0.0038	0.1315999999999999				Gs vs Gq/11
+intracellular_cavity_core_tm7_side_fraction	Gi/o	Gq/11	13	0.0186	-0.0039	0.035	32.0	0.375732421875	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_volume	Gs	Gi/o	8	64.9488	-91.17550000000006	182.62569999999985	10.0	0.3125	1.0	Gs vs Gi/o
+intracellular_cavity_core_volume	Gs	Gq/11	4	-135.8020500000001	-216.1298999999999	397.9315999999999				Gs vs Gq/11
+intracellular_cavity_core_volume	Gi/o	Gq/11	13	-102.70969999999988	-203.7718000000002	-0.8238000000000056	23.0	0.127197265625	0.8755115327380952	Gi/o vs Gq/11
+intracellular_cavity_core_wall_fraction_h8	Gs	Gi/o	7	0.0265999999999999	-0.0079999999999999	0.0566	6.0	0.21875	1.0	Gs vs Gi/o
+intracellular_cavity_core_wall_fraction_h8	Gs	Gq/11	3	0.0491	0.0345999999999999	0.0811999999999999				Gs vs Gq/11
+intracellular_cavity_core_wall_fraction_h8	Gi/o	Gq/11	9	0.0116	0.001	0.0506	15.0	0.42578125	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_wall_fraction_icl2	Gs	Gi/o	8	0.0113499999999999	0.001	0.0236	7.0	0.1484375	0.9479758522727272	Gs vs Gi/o
+intracellular_cavity_core_wall_fraction_icl2	Gs	Gq/11	4	0.007	-0.0056	0.078				Gs vs Gq/11
+intracellular_cavity_core_wall_fraction_icl2	Gi/o	Gq/11	13	-0.0122999999999999	-0.0228	-0.0022	11.0	0.0126953125	0.768359375	Gi/o vs Gq/11
+intracellular_cavity_core_wall_fraction_tm3	Gs	Gi/o	8	-0.00845	-0.0484	0.0338999999999999	14.0	0.640625	1.0	Gs vs Gi/o
+intracellular_cavity_core_wall_fraction_tm3	Gs	Gq/11	4	0.0128999999999999	-0.0373999999999999	0.0353				Gs vs Gq/11
+intracellular_cavity_core_wall_fraction_tm3	Gi/o	Gq/11	13	0.011	-0.0061	0.0318	21.0	0.09423828125	0.8306587837837838	Gi/o vs Gq/11
+intracellular_cavity_core_wall_fraction_tm5	Gs	Gi/o	7	-0.0123999999999999	-0.0706999999999999	0.0428999999999999	9.0	0.46875	1.0	Gs vs Gi/o
+intracellular_cavity_core_wall_fraction_tm5	Gs	Gq/11	3	-0.026	-0.0446999999999999	0.0363				Gs vs Gq/11
+intracellular_cavity_core_wall_fraction_tm5	Gi/o	Gq/11	9	-0.0086999999999999	-0.06	0.0418	16.0	0.49609375	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_wall_fraction_tm6	Gs	Gi/o	3	-0.0103	-0.1498	0.0328999999999999				Gs vs Gi/o
+intracellular_cavity_core_wall_fraction_tm6	Gs	Gq/11	3	-0.1122999999999999	-0.1233	0.0007999999999999				Gs vs Gq/11
+intracellular_cavity_core_wall_fraction_tm6	Gi/o	Gq/11	7	-0.0264	-0.0418	0.0263	6.0	0.21875	1.0	Gi/o vs Gq/11
+intracellular_cavity_core_wall_fraction_tm7	Gs	Gi/o	7	-0.0074999999999999	-0.0377	0.0077	10.0	0.578125	1.0	Gs vs Gi/o
+intracellular_cavity_core_wall_fraction_tm7	Gs	Gq/11	4	-0.0010499999999999	-0.0582	0.0547999999999999				Gs vs Gq/11
+intracellular_cavity_core_wall_fraction_tm7	Gi/o	Gq/11	13	0.0107999999999999	-0.0076	0.0576	27.0	0.21630859375	1.0	Gi/o vs Gq/11
+intracellular_cavity_feature_count	Gs	Gi/o	10	0.0	-14.0	14.0	6.5	0.875	1.0	Gs vs Gi/o
+intracellular_cavity_feature_count	Gs	Gq/11	10	0.0	-13.5	28.0	5.5	0.6875	1.0	Gs vs Gq/11
+intracellular_cavity_feature_count	Gi/o	Gq/11	22	0.0	0.0	0.0	24.0	0.7175615245939908	1.0	Gi/o vs Gq/11
+intracellular_cavity_spread	Gs	Gi/o	10	0.0337499999999999	-0.1645849999999995	0.1893699999999988	24.0	0.76953125	1.0	Gs vs Gi/o
+intracellular_cavity_spread	Gs	Gq/11	10	0.0575000000000009	-0.0345000000000004	0.2421999999999995	17.0	0.322265625	1.0	Gs vs Gq/11
+intracellular_cavity_spread	Gi/o	Gq/11	22	0.0711999999999997	-0.0949000000000004	0.2229000000000001	101.0	0.4244885444641113	1.0	Gi/o vs Gq/11
+intracellular_tetrahedron_volume	Gs	Gi/o	10	-0.5756000000000014	-11.363600000000002	5.691500000000001	21.0	0.556640625	1.0	Gs vs Gi/o
+intracellular_tetrahedron_volume	Gs	Gq/11	10	0.3264000000000004	-5.122099999999996	3.204150000000004	27.0	1.0	1.0	Gs vs Gq/11
+intracellular_tetrahedron_volume	Gi/o	Gq/11	22	0.3028500000000003	-5.446650000000002	4.0775	121.0	0.8736042976379395	1.0	Gi/o vs Gq/11
+n749_y753_distance	Gs	Gi/o	10	-0.08495	-0.34985	0.02	15.0	0.232421875	1.0	Gs vs Gi/o
+n749_y753_distance	Gs	Gq/11	10	-0.1517000000000004	-0.5494500000000002	0.1453000000000006	18.0	0.375	1.0	Gs vs Gq/11
+n749_y753_distance	Gi/o	Gq/11	22	0.1476499999999996	-0.1591	0.3789000000000007	92.0	0.2756266593933105	1.0	Gi/o vs Gq/11
+npxxy_local_spread	Gs	Gi/o	10	0.0100999999999999	-0.0336999999999996	0.0578000000000002	25.0	0.845703125	1.0	Gs vs Gi/o
+npxxy_local_spread	Gs	Gq/11	10	0.0045999999999999	-0.0304999999999999	0.0152999999999998	25.0	0.845703125	1.0	Gs vs Gq/11
+npxxy_local_spread	Gi/o	Gq/11	22	-0.0199	-0.0353999999999998	0.0299	110.0	0.6101517677307129	1.0	Gi/o vs Gq/11
+pif_340_644_distance	Gs	Gi/o	10	-0.0208999999999996	-0.3818499999999996	0.2656999999999998	23.0	0.6953125	1.0	Gs vs Gi/o
+pif_340_644_distance	Gs	Gq/11	10	-0.2172999999999998	-0.3926500000000001	0.2112999999999996	23.0	0.6953125	1.0	Gs vs Gq/11
+pif_340_644_distance	Gi/o	Gq/11	22	0.0968500000000003	-0.2159999999999993	0.3357000000000001	112.0	0.6556386947631836	1.0	Gi/o vs Gq/11
+pif_340_644_min_distance	Gs	Gi/o	10	0.1792500000000001	-0.2496	0.4069500000000001	20.0	0.4921875	1.0	Gs vs Gi/o
+pif_340_644_min_distance	Gs	Gq/11	10	-0.2053000000000002	-0.4261999999999997	0.3925887499999987	22.0	0.625	1.0	Gs vs Gq/11
+pif_340_644_min_distance	Gi/o	Gq/11	22	0.1064000000000002	-0.1487999999999996	0.2204999999999999	108.0	0.5660676956176758	1.0	Gi/o vs Gq/11
+pif_550_340_distance	Gs	Gi/o	10	0.12595	-0.1535000000000002	0.3523499999999995	18.0	0.375	1.0	Gs vs Gi/o
+pif_550_340_distance	Gs	Gq/11	10	-0.1174500000000002	-0.5051999999999999	0.1571999999999995	16.0	0.275390625	1.0	Gs vs Gq/11
+pif_550_340_distance	Gi/o	Gq/11	22	0.0279999999999995	-0.1269999999999997	0.2057000000000002	108.0	0.5660676956176758	1.0	Gi/o vs Gq/11
+pif_550_340_min_distance	Gs	Gi/o	10	-0.06295	-0.223235	0.294	25.0	0.845703125	1.0	Gs vs Gi/o
+pif_550_340_min_distance	Gs	Gq/11	10	0.10955	-0.1682999999999994	0.26895	22.0	0.625	1.0	Gs vs Gq/11
+pif_550_340_min_distance	Gi/o	Gq/11	22	0.0335499999999999	-0.13015	0.2513500000000002	94.0	0.3053088188171386	1.0	Gi/o vs Gq/11
+pif_550_644_distance	Gs	Gi/o	10	0.0936000000000003	-0.1821000000000001	0.4083999999999999	19.0	0.431640625	1.0	Gs vs Gi/o
+pif_550_644_distance	Gs	Gq/11	10	-0.2784999999999997	-0.9837999999999996	0.5145999999999997	16.0	0.275390625	1.0	Gs vs Gq/11
+pif_550_644_distance	Gi/o	Gq/11	22	0.0254000000000003	-0.3507999999999995	0.1950000000000002	113.0	0.6788630485534668	1.0	Gi/o vs Gq/11
+pif_550_644_min_distance	Gs	Gi/o	10	0.0463500000000003	-0.1160000000000001	0.3402499999999997	18.0	0.375	1.0	Gs vs Gi/o
+pif_550_644_min_distance	Gs	Gq/11	10	-0.1377000000000001	-0.6159000000000008	0.4171	22.0	0.625	1.0	Gs vs Gq/11
+pif_550_644_min_distance	Gi/o	Gq/11	22	-0.1661999999999999	-0.4647999999999994	0.12345	96.0	0.3369474411010742	1.0	Gi/o vs Gq/11
+pif_triangle_perimeter	Gs	Gi/o	10	0.1216499999999989	-0.3485000000000013	0.8263499999999997	21.0	0.556640625	1.0	Gs vs Gi/o
+pif_triangle_perimeter	Gs	Gq/11	10	-0.2850500000000018	-1.6879000000000026	0.3420999999999985	16.0	0.275390625	1.0	Gs vs Gq/11
+pif_triangle_perimeter	Gi/o	Gq/11	22	0.2841499999999985	-0.6962399999999989	0.5771562499999986	124.0	0.9492697715759276	1.0	Gi/o vs Gq/11
+position_644_chi1	Gs	Gi/o	10	-0.330299999999994	-183.2294	3.452200000000005	20.0	0.4921875	1.0	Gs vs Gi/o
+position_644_chi1	Gs	Gq/11	10	1.0192499999999995	-168.14382874999998	8.611099999999993	24.0	0.76953125	1.0	Gs vs Gq/11
+position_644_chi1	Gi/o	Gq/11	22	1.376899999999992	-4.717799999999983	10.854799999999983	124.0	0.9492697715759276	1.0	Gi/o vs Gq/11
+position_644_chi2	Gs	Gi/o	9	0.8483000000000089	-15.492099999999994	14.485	21.0	0.91015625	1.0	Gs vs Gi/o
+position_644_chi2	Gs	Gq/11	9	-10.617999999999997	-167.4112	-2.1869999999999976	0.0	0.00390625	0.548828125	Gs vs Gq/11
+position_644_chi2	Gi/o	Gq/11	22	-1.5905500000000004	-6.400300000000001	6.502051249999995	116.0	0.7502379417419434	1.0	Gi/o vs Gq/11
+r350_chi1	Gs	Gi/o	10	-0.2866499999999945	-13.095661249999994	6.035399999999996	27.0	1.0	1.0	Gs vs Gi/o
+r350_chi1	Gs	Gq/11	10	-0.7749499999999969	-2.252200000000002	7.69455	25.0	0.845703125	1.0	Gs vs Gq/11
+r350_chi1	Gi/o	Gq/11	22	2.981350000000006	-1.7759000000000071	8.246700000000004	89.0	0.2347621917724609	1.0	Gi/o vs Gq/11
+r350_chi2	Gs	Gi/o	10	-0.4702999999999946	-8.219454999999988	3.7432000000000016	23.0	0.6953125	1.0	Gs vs Gi/o
+r350_chi2	Gs	Gq/11	10	0.2537499999999966	-8.691100000000006	17.910499999999985	27.0	1.0	1.0	Gs vs Gq/11
+r350_chi2	Gi/o	Gq/11	22	6.316100000000006	-1.6122000000000014	291.4864	71.0	0.0737757682800293	0.8306587837837838	Gi/o vs Gq/11
+resolution	Gs	Gi/o	10	0.01	-0.2299999999999999	0.2000000000000001	22.0	1.0	1.0	Gs vs Gi/o
+resolution	Gs	Gq/11	10	-0.175	-0.4100000000000001	0.1500000000000001	12.0	0.25	1.0	Gs vs Gq/11
+resolution	Gi/o	Gq/11	22	0.0049999999999998	-0.2099999999999999	0.1999999999999997	106.5	0.7543285150217871	1.0	Gi/o vs Gq/11
+sodium_d250_n745_distance	Gs	Gi/o	10	-0.1824499999999997	-0.6757999999999997	0.3003999999999998	18.0	0.375	1.0	Gs vs Gi/o
+sodium_d250_n745_distance	Gs	Gq/11	10	-0.3981000000000003	-1.5399499999999993	0.3952	17.0	0.322265625	1.0	Gs vs Gq/11
+sodium_d250_n745_distance	Gi/o	Gq/11	22	0.1520000000000001	-0.3582000000000001	0.5582000000000003	117.0	0.774528980255127	1.0	Gi/o vs Gq/11
+sodium_d250_n749_distance	Gs	Gi/o	10	-0.1673500000000003	-0.6230725000000004	0.1866000000000003	16.0	0.275390625	1.0	Gs vs Gi/o
+sodium_d250_n749_distance	Gs	Gq/11	10	-0.2601	-1.2445000000000004	0.8929999999999998	18.0	0.375	1.0	Gs vs Gq/11
+sodium_d250_n749_distance	Gi/o	Gq/11	22	0.1785000000000001	-0.3366499999999996	0.3207000000000004	119.0	0.8237285614013672	1.0	Gi/o vs Gq/11
+sodium_d250_s339_distance	Gs	Gi/o	10	0.0339499999999999	-0.4624499999999996	0.4782999999999999	26.0	0.921875	1.0	Gs vs Gi/o
+sodium_d250_s339_distance	Gs	Gq/11	10	-0.3061000000000002	-0.4538262499999999	0.18445	10.0	0.083984375	0.8306587837837838	Gs vs Gq/11
+sodium_d250_s339_distance	Gi/o	Gq/11	22	0.0354000000000001	-0.4922000000000004	0.31305	115.0	0.7261838912963867	1.0	Gi/o vs Gq/11
+sodium_d250_s746_distance	Gs	Gi/o	10	0.1447000000000002	-0.0429999999999999	0.3118999999999996	15.0	0.232421875	1.0	Gs vs Gi/o
+sodium_d250_s746_distance	Gs	Gq/11	10	0.2542999999999999	0.1072425000000003	0.5288000000000002	9.0	0.064453125	0.8306587837837838	Gs vs Gq/11
+sodium_d250_s746_distance	Gi/o	Gq/11	22	0.1473499999999998	-0.1985000000000001	0.4140500000000002	88.0	0.2221074104309082	1.0	Gi/o vs Gq/11
+sodium_pocket_spread	Gs	Gi/o	10	0.0001000000000002	-0.3225000000000002	0.2242999999999999	25.0	0.845703125	1.0	Gs vs Gi/o
+sodium_pocket_spread	Gs	Gq/11	10	0.0450999999999999	-0.4466999999999999	0.2754999999999992	27.0	1.0	1.0	Gs vs Gq/11
+sodium_pocket_spread	Gi/o	Gq/11	22	0.0236	-0.2862	0.1744000000000001	120.0	0.8485937118530273	1.0	Gi/o vs Gq/11
+sodium_pocket_volume	Gs	Gi/o	10	1.4857000000000014	-9.447069999999998	10.85725	25.0	0.845703125	1.0	Gs vs Gi/o
+sodium_pocket_volume	Gs	Gq/11	10	-0.1930500000000012	-9.3662	12.329299999999996	24.0	0.76953125	1.0	Gs vs Gq/11
+sodium_pocket_volume	Gi/o	Gq/11	22	-0.047550000000001	-4.628700000000002	4.742450000000002	124.0	0.9492697715759276	1.0	Gi/o vs Gq/11
+specificity_geometry_feature_count	Gs	Gi/o	10	0.0	0.0	1.0	3.0	1.0	1.0	Gs vs Gi/o
+specificity_geometry_feature_count	Gs	Gq/11	10	0.0	0.0	2.0	4.0	0.875	1.0	Gs vs Gq/11
+specificity_geometry_feature_count	Gi/o	Gq/11	22	0.0	0.0	1.0	10.5	0.0741369131037388	0.8306587837837838	Gi/o vs Gq/11
+tm3_tm7_distance	Gs	Gi/o	10	-0.0124000000000004	-0.3734999999999999	0.4879499999999996	27.0	1.0	1.0	Gs vs Gi/o
+tm3_tm7_distance	Gs	Gq/11	10	0.1068999999999995	-0.1507000000000005	0.5321999999999996	17.0	0.322265625	1.0	Gs vs Gq/11
+tm3_tm7_distance	Gi/o	Gq/11	22	0.0944500000000001	-0.3963000000000001	0.3524999999999991	126.0	1.0	1.0	Gi/o vs Gq/11
+tm5_axis_tm3_angle	Gs	Gi/o	9	-0.7477000000000018	-1.4559999999999995	8.468699999999998	16.0	0.49609375	1.0	Gs vs Gi/o
+tm5_axis_tm3_angle	Gs	Gq/11	5	-0.6387	-8.5332	3.1387	5.0	0.625	1.0	Gs vs Gq/11
+tm5_axis_tm3_angle	Gi/o	Gq/11	13	-2.312800000000003	-3.1007	0.2428000000000025	33.0	0.414306640625	1.0	Gi/o vs Gq/11
+tm5_cytoplasmic_extension	Gs	Gi/o	9	-0.1273999999999979	-0.6034999999999968	0.230599999999999	18.0	0.65234375	1.0	Gs vs Gi/o
+tm5_cytoplasmic_extension	Gs	Gq/11	5	-0.1108000000000011	-1.2910000000000004	0.2118000000000002	3.0	0.3125	1.0	Gs vs Gq/11
+tm5_cytoplasmic_extension	Gi/o	Gq/11	13	-0.2300000000000004	-1.1022999999999996	0.1355000000000004	19.0	0.068115234375	0.8306587837837838	Gi/o vs Gq/11
+tm5_cytoplasmic_kink	Gs	Gi/o	10	0.9449500000000016	-0.077300000000001	3.221	11.0	0.10546875	0.8306587837837838	Gs vs Gi/o
+tm5_cytoplasmic_kink	Gs	Gq/11	10	0.8801500000000022	-2.6093	4.259700000000002	22.0	0.625	1.0	Gs vs Gq/11
+tm5_cytoplasmic_kink	Gi/o	Gq/11	22	-0.0929999999999998	-1.1320999999999994	1.0387000000000022	105.0	0.5028400421142578	1.0	Gi/o vs Gq/11
+tm5_r350_561_distance	Gs	Gi/o	10	0.1611000000000007	-0.0053499999999999	0.5356999999999994	9.0	0.064453125	0.8306587837837838	Gs vs Gi/o
+tm5_r350_561_distance	Gs	Gq/11	10	0.0152999999999998	-0.3947000000000003	0.1713524999999993	27.0	1.0	1.0	Gs vs Gq/11
+tm5_r350_561_distance	Gi/o	Gq/11	22	-0.0265499999999998	-0.2215999999999995	0.2285000000000003	120.0	0.8328555674660325	1.0	Gi/o vs Gq/11
+tm5_r350_564_distance	Gs	Gi/o	10	0.0867000000000004	0.0169000000000014	0.3229000000000006	7.0	0.037109375	0.8306587837837838	Gs vs Gi/o
+tm5_r350_564_distance	Gs	Gq/11	10	-0.1546500000000001	-0.3698999999999994	0.2572999999999998	23.0	0.6953125	1.0	Gs vs Gq/11
+tm5_r350_564_distance	Gi/o	Gq/11	22	0.0872000000000001	-0.2279949999999991	0.3167	122.0	0.898735523223877	1.0	Gi/o vs Gq/11
+tm5_tm6_cavity_distance	Gs	Gi/o	10	-0.0312499999999991	-0.4274999999999984	0.6012000000000004	27.0	1.0	1.0	Gs vs Gi/o
+tm5_tm6_cavity_distance	Gs	Gq/11	10	-0.0155000000000002	-0.3310000000000013	0.7068000000000003	24.0	0.76953125	1.0	Gs vs Gq/11
+tm5_tm6_cavity_distance	Gi/o	Gq/11	22	-0.0360999999999993	-0.2736999999999998	0.1979149999999994	122.0	0.898735523223877	1.0	Gi/o vs Gq/11
+tm6_aligned_displacement	Gs	Gi/o	10	0.4937499999999999	-0.4859000000000009	0.8742999999999999	20.0	0.4921875	1.0	Gs vs Gi/o
+tm6_aligned_displacement	Gs	Gq/11	10	0.1955999999999997	-0.2057999999999999	0.5336999999999996	20.0	0.4921875	1.0	Gs vs Gq/11
+tm6_aligned_displacement	Gi/o	Gq/11	22	-0.0467499999999998	-0.5842000000000009	0.4452000000000007	118.0	0.7990336418151855	1.0	Gi/o vs Gq/11
+tm6_axis_tm3_angle	Gs	Gi/o	9	2.338500000000004	-3.2896	10.755299999999998	15.0	0.42578125	1.0	Gs vs Gi/o
+tm6_axis_tm3_angle	Gs	Gq/11	9	-0.7105999999999995	-4.169999999999995	1.862700000000002	16.0	0.49609375	1.0	Gs vs Gq/11
+tm6_axis_tm3_angle	Gi/o	Gq/11	21	-1.0762	-4.9483	0.1966999999999998	68.0	0.1032142639160156	0.8306587837837838	Gi/o vs Gq/11
+tm6_lower_upper_kink	Gs	Gi/o	9	-0.6186000000000007	-4.023200000000003	3.544600000000002	19.0	0.734375	1.0	Gs vs Gi/o
+tm6_lower_upper_kink	Gs	Gq/11	9	-0.647199999999998	-1.4192999999999998	2.5659000000000027	21.0	0.91015625	1.0	Gs vs Gq/11
+tm6_lower_upper_kink	Gi/o	Gq/11	21	-0.4626999999999981	-3.7881	1.8056000000000016	102.0	0.6578273773193359	1.0	Gi/o vs Gq/11
+tm6_r350_630_distance	Gs	Gi/o	9	0.2235999999999993	-0.5960000000000001	1.4377999999999993	16.0	0.49609375	1.0	Gs vs Gi/o
+tm6_r350_630_distance	Gs	Gq/11	9	-0.0153999999999996	-0.2995000000000001	0.6564999999999976	17.0	0.5703125	1.0	Gs vs Gq/11
+tm6_r350_630_distance	Gi/o	Gq/11	21	-0.3340999999999994	-0.5289000000000001	0.3607000000000013	87.0	0.3376598358154297	1.0	Gi/o vs Gq/11
+tm6_r350_634_distance	Gs	Gi/o	10	-0.0775000000000005	-0.6494999999999997	0.535400000000001	26.0	0.921875	1.0	Gs vs Gi/o
+tm6_r350_634_distance	Gs	Gq/11	10	-0.1171499999999996	-0.1972999999999984	0.2555949999999989	24.0	0.76953125	1.0	Gs vs Gq/11
+tm6_r350_634_distance	Gi/o	Gq/11	22	0.1571999999999995	-0.2189999999999994	0.46579875	103.0	0.4627776145935058	1.0	Gi/o vs Gq/11
+tm6_tm7_cavity_distance	Gs	Gi/o	10	0.5554500000000004	-0.2801999999999989	1.01065	10.0	0.083984375	0.8306587837837838	Gs vs Gi/o
+tm6_tm7_cavity_distance	Gs	Gq/11	10	0.2496000000000009	0.06475	1.0005500000000025	6.0	0.02734375	0.8306587837837838	Gs vs Gq/11
+tm6_tm7_cavity_distance	Gi/o	Gq/11	22	0.2140000000000004	-0.0865999999999989	0.4128000000000007	103.0	0.4627776145935058	1.0	Gi/o vs Gq/11
+tm7_displacement	Gs	Gi/o	10	-0.2348499999999997	-0.4796500000000003	0.5423112499999959	25.0	0.845703125	1.0	Gs vs Gi/o
+tm7_displacement	Gs	Gq/11	10	-0.0161499999999997	-0.3635	0.36605	27.0	1.0	1.0	Gs vs Gq/11
+tm7_displacement	Gi/o	Gq/11	22	-0.02245	-0.3975537500000001	0.3442499999999999	124.0	0.9492697715759276	1.0	Gi/o vs Gq/11
+tm7_h8_angle	Gs	Gi/o	8	0.3031000000000006	-3.1376999999999957	10.507400000000004	14.0	0.640625	1.0	Gs vs Gi/o
+tm7_h8_angle	Gs	Gq/11	6	-0.6966500000000053	-8.050650000000005	7.528649999999999	7.0	0.5625	1.0	Gs vs Gq/11
+tm7_h8_angle	Gi/o	Gq/11	13	-0.6607999999999947	-2.2338000000000022	3.947899999999997	38.0	0.635498046875	1.0	Gi/o vs Gq/11
+tm7_rotation	Gs	Gi/o	10	1.6105499999999964	-3.4479999999999933	10.33863124999997	20.0	0.4921875	1.0	Gs vs Gi/o
+tm7_rotation	Gs	Gq/11	10	0.3293999999999979	-4.709549999999997	2.8867999999999974	22.0	0.625	1.0	Gs vs Gq/11
+tm7_rotation	Gi/o	Gq/11	22	-0.2457999999999955	-5.666499999999999	3.6644999999999968	116.0	0.7502379417419434	1.0	Gi/o vs Gq/11
+w648_chi1	Gs	Gi/o	10	-0.3688999999999964	-7.134650000000001	4.791550000000001	27.0	1.0	1.0	Gs vs Gi/o
+w648_chi1	Gs	Gq/11	10	-0.90925	-11.183300000000004	1.4677000000000078	20.0	0.4921875	1.0	Gs vs Gq/11
+w648_chi1	Gi/o	Gq/11	20	3.348399999999998	-1.3370999999999995	5.477550000000008	71.0	0.2161674499511718	1.0	Gi/o vs Gq/11
+w648_chi2	Gs	Gi/o	9	-8.423600000000008	-23.562600000000003	5.231200000000001	9.0	0.12890625	0.8755115327380952	Gs vs Gi/o
+w648_chi2	Gs	Gq/11	10	4.377100000000006	-4.858000000000004	7.970516249999966	22.0	0.625	1.0	Gs vs Gq/11
+w648_chi2	Gi/o	Gq/11	18	7.28595	-3.7253624999999935	8.889600000000002	48.0	0.1083831787109375	0.8306587837837838	Gi/o vs Gq/11
+w648_displacement	Gs	Gi/o	10	-0.0804499999999999	-0.3273000000000001	0.1301999999999998	19.0	0.431640625	1.0	Gs vs Gi/o
+w648_displacement	Gs	Gq/11	10	-0.10755	-0.2482999999999997	-0.0265500000000002	10.0	0.083984375	0.8306587837837838	Gs vs Gq/11
+w648_displacement	Gi/o	Gq/11	22	-0.0538499999999999	-0.2559	0.1945999999999998	117.0	0.774528980255127	1.0	Gi/o vs Gq/11
+w648_to_644_distance	Gs	Gi/o	10	-0.0276500000000003	-0.1966000000000001	0.1584499999999997	24.0	0.76953125	1.0	Gs vs Gi/o
+w648_to_644_distance	Gs	Gq/11	10	-0.0663000000000004	-0.4476	0.1035999999999992	19.0	0.431640625	1.0	Gs vs Gq/11
+w648_to_644_distance	Gi/o	Gq/11	22	0.0558499999999999	-0.21015	0.1775999999999999	117.0	0.774528980255127	1.0	Gi/o vs Gq/11
+y753_chi1	Gs	Gi/o	10	-1.651050000000005	-14.151399999999995	6.980781249999974	26.0	0.921875	1.0	Gs vs Gi/o
+y753_chi1	Gs	Gq/11	10	-0.774799999999999	-13.194909999999991	11.0614	25.0	0.845703125	1.0	Gs vs Gq/11
+y753_chi1	Gi/o	Gq/11	22	2.887100000000004	-3.6293999999999897	9.586100000000002	110.0	0.6101517677307129	1.0	Gi/o vs Gq/11
+y753_chi2	Gs	Gi/o	10	56.1649	-67.87055000000001	142.61701875	20.0	0.4921875	1.0	Gs vs Gi/o
+y753_chi2	Gs	Gq/11	10	15.770049999999998	-86.17645000000002	97.3781	18.0	0.375	1.0	Gs vs Gq/11
+y753_chi2	Gi/o	Gq/11	21	-3.690100000000001	-128.90609999999998	33.53730000000001	105.0	0.7334699630737305	1.0	Gi/o vs Gq/11
+y753_displacement	Gs	Gi/o	10	-0.1947999999999998	-0.3551000000000002	0.0769999999999999	14.0	0.193359375	1.0	Gs vs Gi/o
+y753_displacement	Gs	Gq/11	10	-0.0272000000000001	-0.2260999999999999	0.2244000000000001	27.0	1.0	1.0	Gs vs Gq/11
+y753_displacement	Gi/o	Gq/11	22	0.0392999999999994	-0.1961000000000003	0.1775999999999999	122.0	0.898735523223877	1.0	Gi/o vs Gq/11
+y753_y558_distance	Gs	Gi/o	10	0.2502499999999994	-0.0175	0.6079000000000003	12.0	0.130859375	0.8755115327380952	Gs vs Gi/o
+y753_y558_distance	Gs	Gq/11	10	0.0531000000000001	-0.1389000000000013	0.3498999999999999	19.0	0.431640625	1.0	Gs vs Gq/11
+y753_y558_distance	Gi/o	Gq/11	22	0.0312999999999998	-0.1198000000000001	0.2889924999999996	110.0	0.6101517677307129	1.0	Gi/o vs Gq/11
+y753_y558_min_distance	Gs	Gi/o	10	0.2611999999999996	0.0336137499999997	0.3875999999999999	11.0	0.10546875	0.8306587837837838	Gs vs Gi/o
+y753_y558_min_distance	Gs	Gq/11	10	0.1237499999999995	-0.0116999999999998	0.34785	10.0	0.083984375	0.8306587837837838	Gs vs Gq/11
+y753_y558_min_distance	Gi/o	Gq/11	22	-0.0247499999999998	-0.2248000000000001	0.5956000000000001	105.0	0.5028400421142578	1.0	Gi/o vs Gq/11
+year_of_deposition	Gs	Gi/o	10	0.0	-0.5	0.5	5.0	1.0	1.0	Gs vs Gi/o
+year_of_deposition	Gs	Gq/11	10	0.5	0.0	1.0	7.0	0.359375	1.0	Gs vs Gq/11
+year_of_deposition	Gi/o	Gq/11	22	0.0	0.0	0.0	7.5	0.1360864514005753	0.8893091358967833	Gi/o vs Gq/11

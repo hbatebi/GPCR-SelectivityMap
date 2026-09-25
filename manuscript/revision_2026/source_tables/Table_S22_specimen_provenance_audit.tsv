@@ -1,0 +1,52 @@
+Receptor	PDB:chain	Method	Classification	Evidence
+A2A receptor	2YDO:A	X-ray	Transducer-free specimen	Thermostabilised agonist-bound A2A receptor crystal; no intracellular transducer in specimen/model.
+A2A receptor	2YDV:A	X-ray	Transducer-free specimen	Thermostabilised agonist-bound A2A receptor crystal; no intracellular transducer in specimen/model.
+A2A receptor	4UG2:A	X-ray	Transducer-free specimen	Thermostabilised agonist-bound A2A receptor crystal; no intracellular transducer in specimen/model.
+A2A receptor	4UHR:A	X-ray	Transducer-free specimen	Thermostabilised agonist-bound A2A receptor crystal; no intracellular transducer in specimen/model.
+GPR101	8W8S:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	Locally refined AA14-GPR101 receptor model; particle count matches AA14-GPR101-Gs entry 8W8R.
+GPR34	8IYX:C	Electron microscopy	Inactive in primary publication	Antagonist YL-365-bound GPR34 structure; primary publication explicitly describes it as inactive.
+GPR34	8XBG:A	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly identifies GPR34-Gi complex receptor-focused; particle count matches full complex 8XBE.
+GPR34	8XBI:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly identifies GPR34-Gi complex receptor-focused; particle count matches full complex 8XBH.
+HCA2 receptor	8K5B:A	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title says local refinement; source paper reports three ligand-bound HCAR2-Gi signalling complexes.
+HCA2 receptor	8K5C:A	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	Local HCAR2 refinement; particle count matches full HCAR2-Gi entry 8I7V.
+HCA2 receptor	8K5D:A	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	Local HCAR2 refinement; particle count matches full HCAR2-Gi entry 8I7W.
+LPA1 receptor	7YU4:A	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly identifies LPA1-Gi complex focused on receptor.
+M3 receptor	8EA0:A	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly identifies miniGq-coupled M3 receptor local refinement.
+MRGPRX2	7VV6:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	MRGPRX2 receptor local reconstruction from a receptor-complex cryo-EM study; not an independent partner-free specimen.
+TAAR1	8WCC:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	CHA-mTAAR1 receptor reconstruction has the same 296,951 particles as CHA-mTAAR1-Gq entry 8WCB.
+TAAR9	8IWE:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	Receptor-focused TAAR9 reconstruction; particle count matches SPE-mTAAR9-Gs full-complex entry 8IW4.
+TAAR9	8IWM:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	Receptor-focused TAAR9 reconstruction; particle count matches PEA-mTAAR9-Gs full-complex entry 8IW7.
+rhodopsin	3CAP:A	X-ray	Transducer-free specimen	Native ligand-free opsin crystal; no intracellular transducer.
+rhodopsin	3PXO:A	X-ray	Transducer-free specimen	Metarhodopsin II-alone crystal; related peptide-bound structure is a separate PDB entry.
+rhodopsin	4BEZ:A	X-ray	Transducer-free specimen	G90D rhodopsin active-conformation crystal; no intracellular transducer.
+rhodopsin	5DYS:A	X-ray	Transducer-free specimen	T94I rhodopsin crystal; no intracellular transducer.
+rhodopsin	5TE3:A	X-ray	Transducer-free specimen	Opsin crystal; no intracellular transducer.
+rhodopsin	6FK6:A	X-ray	Transducer-free specimen	Pharmacologically stabilised opsin crystal; small-molecule ligand, no intracellular transducer.
+rhodopsin	6FK7:A	X-ray	Transducer-free specimen	Pharmacologically stabilised opsin crystal; small-molecule ligand, no intracellular transducer.
+rhodopsin	6FK8:A	X-ray	Transducer-free specimen	Pharmacologically stabilised opsin crystal; small-molecule ligand, no intracellular transducer.
+rhodopsin	6FK9:A	X-ray	Transducer-free specimen	Pharmacologically stabilised opsin crystal; small-molecule ligand, no intracellular transducer.
+rhodopsin	6FKA:A	X-ray	Transducer-free specimen	Pharmacologically stabilised opsin crystal; small-molecule ligand, no intracellular transducer.
+rhodopsin	6FKB:A	X-ray	Transducer-free specimen	Pharmacologically stabilised opsin crystal; small-molecule ligand, no intracellular transducer.
+rhodopsin	6FKC:A	X-ray	Transducer-free specimen	Pharmacologically stabilised opsin crystal; small-molecule ligand, no intracellular transducer.
+rhodopsin	6FKD:A	X-ray	Transducer-free specimen	Pharmacologically stabilised opsin crystal; small-molecule ligand, no intracellular transducer.
+β2-adrenoceptor	8GGI:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly states locally refined receptor from beta2AR-Gs complex transition intermediate.
+β2-adrenoceptor	8GGJ:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly states locally refined receptor from beta2AR-Gs complex transition intermediate.
+β2-adrenoceptor	8GGK:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly states locally refined receptor from beta2AR-Gs complex transition intermediate.
+β2-adrenoceptor	8GGL:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly states locally refined receptor from beta2AR-Gs complex transition intermediate.
+β2-adrenoceptor	8GGM:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly states locally refined receptor from beta2AR-Gs complex transition intermediate.
+β2-adrenoceptor	8GGN:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly states locally refined receptor from beta2AR-Gs complex transition intermediate.
+β2-adrenoceptor	8GGO:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly states locally refined receptor from beta2AR-Gs complex transition intermediate.
+β2-adrenoceptor	8GGP:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly states locally refined receptor from beta2AR-Gs complex transition intermediate.
+β2-adrenoceptor	8GGQ:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly states locally refined receptor from beta2AR-Gs complex transition intermediate.
+β2-adrenoceptor	8GGR:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly states locally refined receptor from beta2AR-Gs complex transition intermediate.
+β2-adrenoceptor	8GGS:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly states locally refined receptor from beta2AR-Gs complex transition intermediate.
+β2-adrenoceptor	8GGT:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly states locally refined receptor from beta2AR-Gs complex transition intermediate.
+β2-adrenoceptor	8GGU:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly states locally refined receptor from beta2AR-Gs complex transition intermediate.
+β2-adrenoceptor	8GGV:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly states locally refined receptor from beta2AR-Gs complex transition intermediate.
+β2-adrenoceptor	8GGW:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly states locally refined receptor from beta2AR-Gs complex transition intermediate.
+β2-adrenoceptor	8GGX:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly states locally refined receptor from beta2AR-Gs complex transition intermediate.
+β2-adrenoceptor	8GGY:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly states locally refined receptor from beta2AR-Gs complex transition intermediate.
+β2-adrenoceptor	8GGZ:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly states locally refined receptor from beta2AR-Gs complex transition intermediate.
+β2-adrenoceptor	8GH0:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly states locally refined receptor from beta2AR-Gs complex transition intermediate.
+β2-adrenoceptor	8GH1:R	Electron microscopy	Receptor-focused or local reconstruction, transducer-containing specimen	PDB title explicitly states locally refined receptor from beta2AR-Gs complex transition intermediate.
+δ receptor	6PT3:A	X-ray	Transducer-free specimen	Active DOP crystal with small-molecule agonist DPI-287; no intracellular transducer.

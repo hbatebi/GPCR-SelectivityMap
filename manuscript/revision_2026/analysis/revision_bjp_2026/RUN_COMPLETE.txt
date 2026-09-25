@@ -1,0 +1,5 @@
+mode=full
+completed=2026-09-24T13:44:34+02:00
+project_root=/home/atuin/c108cb/c108cb11/gpcr-icl2-microswitches-complete
+python=Python 3.12.13
+suite=/home/atuin/c108cb/c108cb11/gpcr-icl2-microswitches-complete/bjp_revision_2026_suite

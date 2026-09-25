@@ -1,0 +1,16 @@
+{
+  "bound_geometry": 0.4527777777777778,
+  "delta_auc": -0.0215020576131687,
+  "mean_ci_high": 0.1610280928927796,
+  "mean_ci_low": -0.30336649429224505,
+  "mean_margin_gain": -0.09015897172735274,
+  "median_margin_gain": -0.13000300264196152,
+  "n_negative": 8,
+  "n_positive": 5,
+  "n_receptors": 13,
+  "n_units": 18,
+  "n_zero": 0,
+  "receptor_only_geometry": 0.4742798353909465,
+  "signflip_p_two_sided": 0.48193359375,
+  "status": "ok"
+}

@@ -1,0 +1,10 @@
+Group	Receptors	Positive	Mean difference	Sign-flip P
+Original 12 receptors, receptor-only references versus full complexes	12	11/12	+0.389	0.030
+Transducer-free references	3	3/3	+0.934	0.25
+Receptor-focused references from transducer-containing specimens	8	7/8	+0.148	0.31
+Mixed references (GPR34)	1	1/1	+0.679	n/a
+Receptors whose references include same-particle reconstructions	5	5/5	+0.377	0.063
+Same-particle focused versus full models, archive-trained 92-feature classifier	5	2/5	-0.160	0.75
+As above, excluding training receptors with at least 50% identity	5	2/5	+0.002	0.88
+Same-particle pairs, original two-model framework, 92 features	5	4/5	+0.124	0.69
+Same-particle pairs, original two-model framework, four-feature code	5	4/5	+0.300	0.13

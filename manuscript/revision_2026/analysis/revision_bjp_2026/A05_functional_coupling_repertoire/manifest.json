@@ -1,0 +1,22 @@
+{
+  "analysis": "A05_functional_coupling_repertoire",
+  "inputs": {
+    "bound_frame": {
+      "path": "results/microswitches/publication_controls_v9.2_final/publication_control_analysis_frame.csv",
+      "sha256": "6d21d0a3270dfabef942f22fb878c97299a6e1e6f1ef8866f8b426de0e99acaf",
+      "size": 744712
+    },
+    "entity_audit": {
+      "path": "data/manual/receptor_only_entity_audit_final.csv",
+      "sha256": "0835acf40437d4a360e07aa943a7d6af830b78377ffbae79b380a1f18f62f9a8",
+      "size": 139884
+    },
+    "p0_matched": {
+      "path": "results/microswitches/manuscript_claims_nhr/v081_full_3941857_20260803_195636/transducer_imprint/transducer_imprint_matched_units.csv",
+      "sha256": "36cdb3cdab6eb8b9e81dee81b269668016a7ecbeef3a47fbee7f257a12fcfbe8",
+      "size": 50966
+    }
+  },
+  "prespec_sha256": "06bd2c1a9f278b1603719bebe990c5dae4783910be11d5b4349bb95cf8d8115b",
+  "project_root": "/home/atuin/c108cb/c108cb11/gpcr-icl2-microswitches-complete"
+}

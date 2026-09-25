@@ -1,0 +1,9 @@
+experiment	validation	fold	status	train_n	test_n	train_groups	test_groups	group_overlap	n_numeric_features	n_categorical_features	n_iter	max_iter	converged	best_parameters
+four_feature_activation_code__bound	receptor_grouped_5fold	0	ok	11	4	9	3	0	4	0	9	50000	True	"{""fixed"": true}"
+four_feature_activation_code__bound	receptor_grouped_5fold	1	ok	11	4	9	3	0	4	0	10	50000	True	"{""fixed"": true}"
+four_feature_activation_code__bound	receptor_grouped_5fold	2	ok	12	3	9	3	0	4	0	10	50000	True	"{""fixed"": true}"
+four_feature_activation_code__bound	receptor_grouped_5fold	3	ok	11	4	9	3	0	4	0	10	50000	True	"{""fixed"": true}"
+four_feature_activation_code__free	receptor_grouped_5fold	0	ok	11	4	9	3	0	4	0	9	50000	True	"{""fixed"": true}"
+four_feature_activation_code__free	receptor_grouped_5fold	1	ok	11	4	9	3	0	4	0	9	50000	True	"{""fixed"": true}"
+four_feature_activation_code__free	receptor_grouped_5fold	2	ok	12	3	9	3	0	4	0	10	50000	True	"{""fixed"": true}"
+four_feature_activation_code__free	receptor_grouped_5fold	3	ok	11	4	9	3	0	4	0	8	50000	True	"{""fixed"": true}"

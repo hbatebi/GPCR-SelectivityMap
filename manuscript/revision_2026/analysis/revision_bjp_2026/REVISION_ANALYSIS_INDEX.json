@@ -1,0 +1,16 @@
+{
+  "A05_bound_receptors": 169,
+  "A05_receptors_complete_three_classes": 43,
+  "A09_P0_iterations": 1000,
+  "A09_expected_permutations_passed": true,
+  "P0_mean_margin_gain": 0.3887713288847121,
+  "P0_positive_receptors": 11,
+  "P1_mean_margin_gain": 0.12034959997098861,
+  "P1_n_receptors": 15,
+  "P1_n_units": 18,
+  "P1_positive_receptors": 8,
+  "P1_status": "ok",
+  "frozen_P0_reproduced": true,
+  "manual_fusion_topology_rows": 6,
+  "overall_file_validation_passed": true
+}

@@ -1,0 +1,13 @@
+{
+  "analysis": "F01_p1_fourfold_coverage",
+  "inputs": {
+    "p0_matched": {
+      "path": "results/microswitches/manuscript_claims_nhr/v081_full_3941857_20260803_195636/transducer_imprint/transducer_imprint_matched_units.csv",
+      "sha256": "36cdb3cdab6eb8b9e81dee81b269668016a7ecbeef3a47fbee7f257a12fcfbe8",
+      "size": 50966
+    }
+  },
+  "paired_path": "revision_bjp_2026/A01_expanded_matched_set/P1_terminal_strict/paired_units.tsv",
+  "prespec_sha256": "06bd2c1a9f278b1603719bebe990c5dae4783910be11d5b4349bb95cf8d8115b",
+  "project_root": "/home/atuin/c108cb/c108cb11/gpcr-icl2-microswitches-complete"
+}

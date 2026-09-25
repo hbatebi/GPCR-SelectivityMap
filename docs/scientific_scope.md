@@ -24,3 +24,10 @@ The package does not perform time-dependent helix translations, rotations, hinge
 ## Experimental chemistry modules
 
 The interface-complementarity and receptor-compatibility commands are exploratory. Their scores are not calibrated functional probabilities and are not required for the manuscript's central conclusions.
+
+
+## v0.4.0: coordinate-level versus specimen-level receptor-only references
+
+For revision analyses, a receptor-only coordinate model is not automatically treated as biologically partner free. The specimen-level audit uses deposited entry titles, EM sample descriptions, PDB/EMDB relationships, particle provenance and primary-publication context. Only references meeting the stricter specimen-level definition are described as experimentally partner free.
+
+The current archive is insufficient for a three-class same-receptor matched model under that definition. This is recorded as an archive-coverage limit; the workflow remains available for prospective expansion.

@@ -35,3 +35,10 @@ Full reproduction additionally requires:
 - the complete out-of-fold prediction and bootstrap archives.
 
 These large or provenance-sensitive inputs should be retrieved from the manuscript's versioned Zenodo record.
+
+
+## BJP revision audit (v0.4.0)
+
+`manuscript/revision_2026/analysis/` contains the collected revision outputs and exact run specification supplied with the revised manuscript. `functional_repertoire/` contains the finalized Hauser et al. (2022) mapping by exact human UniProt accession. `followup_fourfold/` contains the post-run class-coverage sensitivity.
+
+The specimen-level provenance table exported from the revised Supporting Information is included under `source_tables/`. Where the manuscript refers to full deposited-entry titles, raw EM sample descriptions or particle-level provenance beyond this compact table, those provenance-sensitive source records should also be included in the Zenodo submission package.

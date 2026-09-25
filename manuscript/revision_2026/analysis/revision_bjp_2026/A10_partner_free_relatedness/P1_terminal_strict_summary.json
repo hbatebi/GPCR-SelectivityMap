@@ -1,0 +1,9 @@
+{
+  "mean_nearest_same_class_identity_correct": 0.607249607200533,
+  "mean_nearest_same_class_identity_incorrect": 0.5010380137821294,
+  "n": 18,
+  "n_for_correlation": 18,
+  "nominal_p": 0.9220072018074038,
+  "population": "P1_terminal_strict",
+  "spearman_margin_vs_nearest_same_class_identity": 0.024857750072176134
+}

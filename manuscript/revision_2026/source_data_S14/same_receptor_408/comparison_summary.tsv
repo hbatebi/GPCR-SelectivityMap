@@ -1,0 +1,2 @@
+n_comparisons	n_features	n_class_pairs	minimum_nominal_p	minimum_fdr_q	n_fdr_below_0_05	paired_receptor_n_min	paired_receptor_n_max
+408	136	3	0.00390625	0.548828125	0	0	22

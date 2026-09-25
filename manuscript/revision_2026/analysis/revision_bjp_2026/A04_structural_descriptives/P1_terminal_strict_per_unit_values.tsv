@@ -1,0 +1,199 @@
+receptor_name	transducer_family	bound__tm6_r350_634_distance	receptor_only__tm6_r350_634_distance	delta__tm6_r350_634_distance	feature	bound__tm6_aligned_displacement	receptor_only__tm6_aligned_displacement	delta__tm6_aligned_displacement	bound__tm5_r350_561_distance	receptor_only__tm5_r350_561_distance	delta__tm5_r350_561_distance	bound__tm7_displacement	receptor_only__tm7_displacement	delta__tm7_displacement	bound__dry_r350_630_min_distance	receptor_only__dry_r350_630_min_distance	delta__dry_r350_630_min_distance	bound__pif_550_644_distance	receptor_only__pif_550_644_distance	delta__pif_550_644_distance	bound__y753_displacement	receptor_only__y753_displacement	delta__y753_displacement	bound__icl2_helix_fraction	receptor_only__icl2_helix_fraction	delta__icl2_helix_fraction	bound__icl2_centroid_to_tm6_634	receptor_only__icl2_centroid_to_tm6_634	delta__icl2_centroid_to_tm6_634	bound__intracellular_cavity_core_volume	receptor_only__intracellular_cavity_core_volume	delta__intracellular_cavity_core_volume	bound__intracellular_cavity_core_mouth_area	receptor_only__intracellular_cavity_core_mouth_area	delta__intracellular_cavity_core_mouth_area
+aa2ar_human	Gs	15.579	9.64	5.939	tm6_r350_634_distance																														
+acm3_human	Gq/11	15.1211	15.6199	-0.4987999999999992	tm6_r350_634_distance																														
+adrb2_human	Gs	15.7085	16.00705	-0.2985499999999987	tm6_r350_634_distance																														
+gp101_human	Gs	15.8313	16.0114	-0.1800999999999977	tm6_r350_634_distance																														
+gpr34_human	Gi/o	12.4137	12.3655	0.0481999999999995	tm6_r350_634_distance																														
+hcar2_human	Gi/o	11.5351	11.1634	0.3717000000000006	tm6_r350_634_distance																														
+hcar3_human	Gi/o	11.1788	11.3218	-0.1429999999999989	tm6_r350_634_distance																														
+lpar1_human	Gi/o	14.417	14.28	0.1370000000000004	tm6_r350_634_distance																														
+lpar1_human	Gq/11	14.5122	14.28	0.2322000000000006	tm6_r350_634_distance																														
+mrgx2_human	Gi/o	12.6956	12.6956	0.0	tm6_r350_634_distance																														
+mrgx2_human	Gq/11	13.7219	12.6956	1.026299999999999	tm6_r350_634_distance																														
+mrgx4_human	Gq/11	14.6728	14.0156	0.6572000000000013	tm6_r350_634_distance																														
+oprd_human	Gi/o	13.3595	8.7608	4.598700000000001	tm6_r350_634_distance																														
+opsd_bovin	Gi/o	13.5994	13.2386	0.3607999999999993	tm6_r350_634_distance																														
+pe2r3_human	Gi/o	13.3033	11.7355	1.5678	tm6_r350_634_distance																														
+taar1_mouse	Gq/11	15.3997	15.4992	-0.0995000000000008	tm6_r350_634_distance																														
+taar1_mouse	Gs	15.2601	15.4992	-0.2391000000000005	tm6_r350_634_distance																														
+taar9_mouse	Gs	15.3098	15.01295	0.2968499999999991	tm6_r350_634_distance																														
+aa2ar_human	Gs				tm6_aligned_displacement	11.969	6.2241	5.7449																											
+acm3_human	Gq/11				tm6_aligned_displacement	11.2797	10.9377	0.3420000000000005																											
+adrb2_human	Gs				tm6_aligned_displacement	12.4586	12.33985	0.1187500000000003																											
+gp101_human	Gs				tm6_aligned_displacement	13.3591	13.2973	0.0617999999999998																											
+gpr34_human	Gi/o				tm6_aligned_displacement	6.6612	6.7181	-0.0568999999999997																											
+hcar2_human	Gi/o				tm6_aligned_displacement	6.0924	5.265750000000001	0.826649999999999																											
+hcar3_human	Gi/o				tm6_aligned_displacement	5.6516	5.0691	0.5825000000000005																											
+lpar1_human	Gi/o				tm6_aligned_displacement	10.1418	10.3884	-0.2466000000000008																											
+lpar1_human	Gq/11				tm6_aligned_displacement	10.2995	10.3884	-0.0889000000000006																											
+mrgx2_human	Gi/o				tm6_aligned_displacement	8.4004	8.4004	0.0																											
+mrgx2_human	Gq/11				tm6_aligned_displacement	8.9846	8.4004	0.5842000000000009																											
+mrgx4_human	Gq/11				tm6_aligned_displacement	9.5919	8.6022	0.9897000000000008																											
+oprd_human	Gi/o				tm6_aligned_displacement	9.3339	6.7057	2.6282																											
+opsd_bovin	Gi/o				tm6_aligned_displacement	8.9259	8.2707	0.6552000000000007																											
+pe2r3_human	Gi/o				tm6_aligned_displacement	7.2325	6.1208	1.1117																											
+taar1_mouse	Gq/11				tm6_aligned_displacement	12.131	12.2671	-0.136099999999999																											
+taar1_mouse	Gs				tm6_aligned_displacement	12.3111	12.2671	0.0440000000000004																											
+taar9_mouse	Gs				tm6_aligned_displacement	12.469	12.1182	0.3507999999999995																											
+aa2ar_human	Gs				tm5_r350_561_distance				7.829	8.8262	-0.9972000000000004																								
+acm3_human	Gq/11				tm5_r350_561_distance				8.1565	8.3203	-0.1638000000000001																								
+adrb2_human	Gs				tm5_r350_561_distance				8.3098	8.4331	-0.1233000000000004																								
+gp101_human	Gs				tm5_r350_561_distance				8.5989	9.3343	-0.7354000000000003																								
+gpr34_human	Gi/o				tm5_r350_561_distance				8.1158	8.1788	-0.0630000000000006																								
+hcar2_human	Gi/o				tm5_r350_561_distance				7.9517	7.76495	0.1867499999999999																								
+hcar3_human	Gi/o				tm5_r350_561_distance				7.8788	7.7981	0.0807000000000002																								
+lpar1_human	Gi/o				tm5_r350_561_distance				8.4706	8.3136	0.157																								
+lpar1_human	Gq/11				tm5_r350_561_distance				8.5026	8.3136	0.189																								
+mrgx2_human	Gi/o				tm5_r350_561_distance				7.2516	7.2516	0.0																								
+mrgx2_human	Gq/11				tm5_r350_561_distance				7.7851	7.2516	0.5335000000000001																								
+mrgx4_human	Gq/11				tm5_r350_561_distance				7.865	7.8499	0.0151000000000003																								
+oprd_human	Gi/o				tm5_r350_561_distance				8.1548	9.1297	-0.9749																								
+opsd_bovin	Gi/o				tm5_r350_561_distance				7.7409	7.7316	0.0092999999999996																								
+pe2r3_human	Gi/o				tm5_r350_561_distance				7.6164	6.9854	0.6309999999999993																								
+taar1_mouse	Gq/11				tm5_r350_561_distance				9.1021	9.0529	0.0492000000000008																								
+taar1_mouse	Gs				tm5_r350_561_distance				8.2337	9.0529	-0.8191999999999986																								
+taar9_mouse	Gs				tm5_r350_561_distance				8.4726	8.45565	0.0169499999999995																								
+aa2ar_human	Gs				tm7_displacement							4.6888	4.3839	0.3048999999999999																					
+acm3_human	Gq/11				tm7_displacement							5.5996	5.1079	0.4916999999999998																					
+adrb2_human	Gs				tm7_displacement							4.0063	4.02515	-0.0188499999999995																					
+gp101_human	Gs				tm7_displacement							5.5858	5.2783	0.3075000000000001																					
+gpr34_human	Gi/o				tm7_displacement							1.5815	1.9421	-0.3606																					
+hcar2_human	Gi/o				tm7_displacement							4.6242	4.7259	-0.1017000000000001																					
+hcar3_human	Gi/o				tm7_displacement							5.0323	4.7636	0.2686999999999999																					
+lpar1_human	Gi/o				tm7_displacement							3.9529	3.7307	0.2221999999999999																					
+lpar1_human	Gq/11				tm7_displacement							3.6627	3.7307	-0.068																					
+mrgx2_human	Gi/o				tm7_displacement							5.1136	5.1136	0.0																					
+mrgx2_human	Gq/11				tm7_displacement							4.463	5.1136	-0.6505999999999998																					
+mrgx4_human	Gq/11				tm7_displacement							3.8738	4.5706	-0.6967999999999996																					
+oprd_human	Gi/o				tm7_displacement							4.3181	4.3801	-0.0619999999999993																					
+opsd_bovin	Gi/o				tm7_displacement							5.0336	4.926	0.1075999999999997																					
+pe2r3_human	Gi/o				tm7_displacement							3.3366	4.0825	-0.7458999999999998																					
+taar1_mouse	Gq/11				tm7_displacement							5.2394	4.9187	0.3206999999999995																					
+taar1_mouse	Gs				tm7_displacement							4.6317	4.9187	-0.2869999999999999																					
+taar9_mouse	Gs				tm7_displacement							3.8928	4.659000000000001	-0.7662000000000009																					
+aa2ar_human	Gs				dry_r350_630_min_distance										16.2416	8.1279	8.113699999999998																		
+acm3_human	Gq/11				dry_r350_630_min_distance										14.6873	14.1894	0.4979000000000013																		
+adrb2_human	Gs				dry_r350_630_min_distance										14.4687	15.03645	-0.5677499999999984																		
+gp101_human	Gs				dry_r350_630_min_distance										14.6138																				
+gpr34_human	Gi/o				dry_r350_630_min_distance										12.6569	12.5881	0.0687999999999995																		
+hcar2_human	Gi/o				dry_r350_630_min_distance										10.906	10.14485	0.7611500000000007																		
+hcar3_human	Gi/o				dry_r350_630_min_distance										10.6252	10.4594	0.165799999999999																		
+lpar1_human	Gi/o				dry_r350_630_min_distance										13.2639																				
+lpar1_human	Gq/11				dry_r350_630_min_distance										13.3943																				
+mrgx2_human	Gi/o				dry_r350_630_min_distance										12.5933	12.5933	0.0																		
+mrgx2_human	Gq/11				dry_r350_630_min_distance										11.617	12.5933	-0.9762999999999984																		
+mrgx4_human	Gq/11				dry_r350_630_min_distance										13.6803	13.1251	0.555200000000001																		
+oprd_human	Gi/o				dry_r350_630_min_distance										12.0852	6.3465	5.738700000000001																		
+opsd_bovin	Gi/o				dry_r350_630_min_distance										13.0249	12.7996	0.2253000000000007																		
+pe2r3_human	Gi/o				dry_r350_630_min_distance										11.2177	10.1996	1.0181000000000004																		
+taar1_mouse	Gq/11				dry_r350_630_min_distance																														
+taar1_mouse	Gs				dry_r350_630_min_distance										16.3205																				
+taar9_mouse	Gs				dry_r350_630_min_distance										15.044	14.68735	0.3566500000000001																		
+aa2ar_human	Gs				pif_550_644_distance													6.9315	6.6033	0.3281999999999998															
+acm3_human	Gq/11				pif_550_644_distance													7.7119	7.5006	0.2112999999999996															
+adrb2_human	Gs				pif_550_644_distance													7.9762	8.092600000000001	-0.1164000000000005															
+gp101_human	Gs				pif_550_644_distance													5.6352	5.9064	-0.2711999999999994															
+gpr34_human	Gi/o				pif_550_644_distance													8.2657	8.2359	0.0297999999999998															
+hcar2_human	Gi/o				pif_550_644_distance													6.8936	6.62515	0.2684500000000005															
+hcar3_human	Gi/o				pif_550_644_distance													6.8867	6.4137	0.4729999999999998															
+lpar1_human	Gi/o				pif_550_644_distance													6.9838	7.0528	-0.0690000000000008															
+lpar1_human	Gq/11				pif_550_644_distance													6.8795	7.0528	-0.1733000000000002															
+mrgx2_human	Gi/o				pif_550_644_distance													7.1683	7.1683	0.0															
+mrgx2_human	Gq/11				pif_550_644_distance													7.3849	7.1683	0.2165999999999996															
+mrgx4_human	Gq/11				pif_550_644_distance													7.478	7.8519	-0.3738999999999999															
+oprd_human	Gi/o				pif_550_644_distance													6.4219	5.9414	0.4805000000000001															
+opsd_bovin	Gi/o				pif_550_644_distance													6.7784	7.0066	-0.2281999999999993															
+pe2r3_human	Gi/o				pif_550_644_distance													7.8441	7.5904	0.2537000000000002															
+taar1_mouse	Gq/11				pif_550_644_distance													7.6981	8.163	-0.4649000000000001															
+taar1_mouse	Gs				pif_550_644_distance													8.4027	8.163	0.2396999999999991															
+taar9_mouse	Gs				pif_550_644_distance													8.2937	8.18165	0.1120499999999999															
+aa2ar_human	Gs				y753_displacement																6.6369	6.2561	0.3807999999999998												
+acm3_human	Gq/11				y753_displacement																7.216	6.6934	0.5226000000000006												
+adrb2_human	Gs				y753_displacement																6.0004	6.04825	-0.0478499999999995												
+gp101_human	Gs				y753_displacement																7.1772	7.3788	-0.2016												
+gpr34_human	Gi/o				y753_displacement																4.4672	4.2207	0.2465000000000001												
+hcar2_human	Gi/o				y753_displacement																6.4155	5.90725	0.5082500000000003												
+hcar3_human	Gi/o				y753_displacement																5.9505	5.9156	0.0348999999999994												
+lpar1_human	Gi/o				y753_displacement																6.2806	5.9372	0.3433999999999999												
+lpar1_human	Gq/11				y753_displacement																5.9372	5.9372	0.0												
+mrgx2_human	Gi/o				y753_displacement																5.4012	5.4012	0.0												
+mrgx2_human	Gq/11				y753_displacement																5.3083	5.4012	-0.0929000000000002												
+mrgx4_human	Gq/11				y753_displacement																5.2798	4.9149	0.3648999999999995												
+oprd_human	Gi/o				y753_displacement																6.4763	5.6912	0.7850999999999999												
+opsd_bovin	Gi/o				y753_displacement																6.8695	6.9227	-0.0531999999999994												
+pe2r3_human	Gi/o				y753_displacement																5.1647	5.5077	-0.3429999999999999												
+taar1_mouse	Gq/11				y753_displacement																7.6954	7.0244	0.6710000000000003												
+taar1_mouse	Gs				y753_displacement																6.7371	7.0244	-0.2873000000000001												
+taar9_mouse	Gs				y753_displacement																5.8674	6.2684	-0.4009999999999998												
+aa2ar_human	Gs				icl2_helix_fraction																			0.875	0.875	0.0									
+acm3_human	Gq/11				icl2_helix_fraction																			0.875	0.875	0.0									
+adrb2_human	Gs				icl2_helix_fraction																			0.875	0.875	0.0									
+gp101_human	Gs				icl2_helix_fraction																			0.875	0.75	0.125									
+gpr34_human	Gi/o				icl2_helix_fraction																			0.5556	0.5556	0.0									
+hcar2_human	Gi/o				icl2_helix_fraction																			1.0	0.625	0.375									
+hcar3_human	Gi/o				icl2_helix_fraction																			0.625	0.625	0.0									
+lpar1_human	Gi/o				icl2_helix_fraction																			0.2857											
+lpar1_human	Gq/11				icl2_helix_fraction																			0.2857											
+mrgx2_human	Gi/o				icl2_helix_fraction																			0.875	0.875	0.0									
+mrgx2_human	Gq/11				icl2_helix_fraction																			0.75	0.875	-0.125									
+mrgx4_human	Gq/11				icl2_helix_fraction																			0.7	0.8	-0.1									
+oprd_human	Gi/o				icl2_helix_fraction																			0.875	0.875	0.0									
+opsd_bovin	Gi/o				icl2_helix_fraction																			0.1429	0.2857	-0.1428									
+pe2r3_human	Gi/o				icl2_helix_fraction																			0.875	0.875	0.0									
+taar1_mouse	Gq/11				icl2_helix_fraction																			0.875	0.875	0.0									
+taar1_mouse	Gs				icl2_helix_fraction																			0.75	0.875	-0.125									
+taar9_mouse	Gs				icl2_helix_fraction																			0.75	0.75	0.0									
+aa2ar_human	Gs				icl2_centroid_to_tm6_634																						25.1973	19.585	5.612299999999998						
+acm3_human	Gq/11				icl2_centroid_to_tm6_634																						24.9825	25.1906	-0.2080999999999981						
+adrb2_human	Gs				icl2_centroid_to_tm6_634																						25.7575	26.1127	-0.3551999999999999						
+gp101_human	Gs				icl2_centroid_to_tm6_634																						25.3915	25.9188	-0.5273000000000003						
+gpr34_human	Gi/o				icl2_centroid_to_tm6_634																														
+hcar2_human	Gi/o				icl2_centroid_to_tm6_634																						20.9374	20.75555	0.1818500000000007						
+hcar3_human	Gi/o				icl2_centroid_to_tm6_634																						20.6733	20.6515	0.0218000000000024						
+lpar1_human	Gi/o				icl2_centroid_to_tm6_634																						24.2579								
+lpar1_human	Gq/11				icl2_centroid_to_tm6_634																						23.3178								
+mrgx2_human	Gi/o				icl2_centroid_to_tm6_634																						23.1852	23.1852	0.0						
+mrgx2_human	Gq/11				icl2_centroid_to_tm6_634																						24.6107	23.1852	1.425500000000003						
+mrgx4_human	Gq/11				icl2_centroid_to_tm6_634																						25.5131	24.2479	1.2652						
+oprd_human	Gi/o				icl2_centroid_to_tm6_634																						22.9977	17.6317	5.366						
+opsd_bovin	Gi/o				icl2_centroid_to_tm6_634																						23.2863	23.142	0.1443000000000012						
+pe2r3_human	Gi/o				icl2_centroid_to_tm6_634																						23.7425	21.5106	2.2319						
+taar1_mouse	Gq/11				icl2_centroid_to_tm6_634																						24.1473	25.2162	-1.0688999999999993						
+taar1_mouse	Gs				icl2_centroid_to_tm6_634																						24.7919	25.2162	-0.4243000000000023						
+taar9_mouse	Gs				icl2_centroid_to_tm6_634																						25.2387	24.71195	0.5267499999999998						
+aa2ar_human	Gs				intracellular_cavity_core_volume																									1384.9339	267.48475	1117.44915			
+acm3_human	Gq/11				intracellular_cavity_core_volume																									1584.5863	1457.7095	126.8768			
+adrb2_human	Gs				intracellular_cavity_core_volume																									2120.9289	2117.9080000000004	3.0208999999995285			
+gp101_human	Gs				intracellular_cavity_core_volume																									1639.2366					
+gpr34_human	Gi/o				intracellular_cavity_core_volume																									1652.9679	1711.05105	-58.08314999999993			
+hcar2_human	Gi/o				intracellular_cavity_core_volume																									1697.7318	1642.1201999999998	55.61160000000018			
+hcar3_human	Gi/o				intracellular_cavity_core_volume																									1786.4356	1723.8211	62.614500000000135			
+lpar1_human	Gi/o				intracellular_cavity_core_volume																									953.2234					
+lpar1_human	Gq/11				intracellular_cavity_core_volume																									1038.0825					
+mrgx2_human	Gi/o				intracellular_cavity_core_volume																									2133.8362	2133.8362	0.0			
+mrgx2_human	Gq/11				intracellular_cavity_core_volume																									2516.9381	2133.8362	383.10189999999966			
+mrgx4_human	Gq/11				intracellular_cavity_core_volume																														
+oprd_human	Gi/o				intracellular_cavity_core_volume																									1501.6495	631.0883	870.5612			
+opsd_bovin	Gi/o				intracellular_cavity_core_volume																									997.9873	1036.984	-38.99669999999992			
+pe2r3_human	Gi/o				intracellular_cavity_core_volume																									788.723	651.1359	137.58709999999996			
+taar1_mouse	Gq/11				intracellular_cavity_core_volume																														
+taar1_mouse	Gs				intracellular_cavity_core_volume																									2139.6034					
+taar9_mouse	Gs				intracellular_cavity_core_volume																									1331.1074	1265.6093	65.49810000000002			
+aa2ar_human	Gs				intracellular_cavity_core_mouth_area																												144.495	38.4475	106.0475
+acm3_human	Gq/11				intracellular_cavity_core_mouth_area																												151.6775	138.1575	13.52000000000001
+adrb2_human	Gs				intracellular_cavity_core_mouth_area																												162.6625	163.5075	-0.8449999999999989
+gp101_human	Gs				intracellular_cavity_core_mouth_area																												155.48		
+gpr34_human	Gi/o				intracellular_cavity_core_mouth_area																												126.75	131.60875	-4.858749999999986
+hcar2_human	Gi/o				intracellular_cavity_core_mouth_area																												149.9875	153.57875	-3.5912500000000023
+hcar3_human	Gi/o				intracellular_cavity_core_mouth_area																												160.9725	158.015	2.9575000000000102
+lpar1_human	Gi/o				intracellular_cavity_core_mouth_area																												111.1175		
+lpar1_human	Gq/11				intracellular_cavity_core_mouth_area																												124.6375		
+mrgx2_human	Gi/o				intracellular_cavity_core_mouth_area																												198.575	198.575	0.0
+mrgx2_human	Gq/11				intracellular_cavity_core_mouth_area																												216.32	198.575	17.745000000000005
+mrgx4_human	Gq/11				intracellular_cavity_core_mouth_area																														
+oprd_human	Gi/o				intracellular_cavity_core_mouth_area																												164.3525	84.0775	80.27499999999999
+opsd_bovin	Gi/o				intracellular_cavity_core_mouth_area																												127.595	126.75	0.8449999999999989
+pe2r3_human	Gi/o				intracellular_cavity_core_mouth_area																												92.105	95.9075	-3.802499999999995
+taar1_mouse	Gq/11				intracellular_cavity_core_mouth_area																														
+taar1_mouse	Gs				intracellular_cavity_core_mouth_area																												185.4775		
+taar9_mouse	Gs				intracellular_cavity_core_mouth_area																												158.86	147.66375	11.19625000000002

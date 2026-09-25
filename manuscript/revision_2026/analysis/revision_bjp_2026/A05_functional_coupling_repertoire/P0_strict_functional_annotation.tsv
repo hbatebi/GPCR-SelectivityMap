@@ -1,0 +1,16 @@
+receptor_name	transducer_family	n_documented_positive_families	n_documented_positive_analyzed_classes	n_known_analyzed_classes	Gs	Gi/o	Gq/11	G12/13	primary_family	annotation_source
+aa2ar_human	Gs	1.0	1.0	3	1.0	0.0	0.0			GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31
+acm3_human	Gq/11	2.0	2.0	3	0.0	1.0	1.0			GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31
+adrb2_human	Gs	3.0	3.0	3	1.0	1.0	1.0			GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31
+gp101_human	Gs	1.0	1.0	3	1.0	0.0	0.0			GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31
+gpr34_human	Gi/o	1.0	1.0	3	0.0	1.0	0.0			GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31
+hcar2_human	Gi/o	1.0	1.0	3	0.0	1.0	0.0			GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31
+lpar1_human	Gi/o	2.0	2.0	3	0.0	1.0	1.0			GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31
+lpar1_human	Gq/11	2.0	2.0	3	0.0	1.0	1.0			GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31
+mrgx2_human	Gi/o	2.0	2.0	3	0.0	1.0	1.0			GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31
+mrgx2_human	Gq/11	2.0	2.0	3	0.0	1.0	1.0			GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31
+oprd_human	Gi/o	1.0	1.0	3	0.0	1.0	0.0			GproteinDb/GPCRdb merged family consensus + conservative manual curation; accessed 2026-07-31
+opsd_bovin	Gi/o			0						
+taar1_mouse	Gq/11			0						
+taar1_mouse	Gs			0						
+taar9_mouse	Gs			0						

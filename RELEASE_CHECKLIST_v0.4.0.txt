@@ -1,0 +1,16 @@
+GPCR SelectivityMap v0.4.0 local release candidate
+==================================================
+
+1. Inspect this archive locally.
+2. Run: python -m pip install -e '.[test]'
+3. Run: pytest
+4. Push the contents to the GitHub repository (ideally on a v0.4.0/revision branch first).
+5. Merge after checking the README/release notes and GitHub Actions.
+6. Create Git tag: v0.4.0
+7. Create the GitHub Release using RELEASE_NOTES_v0.4.0.md.
+8. Let the linked Zenodo integration archive the GitHub release.
+9. Copy the new version-specific Zenodo DOI. Keep 10.5281/zenodo.21820928 as the concept DOI.
+10. Replace the manuscript/SI wording that currently says v0.4.0 is forthcoming with the final version DOI.
+11. Upload the versioned source-data/provenance bundle to Zenodo if it is not appropriate for GitHub size/provenance reasons.
+
+Before public release, add the full specimen-level provenance raw table/script if you want the repository/Zenodo package to reproduce every item promised in Supporting Source Data S14 (full deposited titles, EM sample descriptions and particle-level evidence). The compact S22-S26 tables are included here, but the raw specimen-provenance source record was not among the available uploaded analysis files.

@@ -1,0 +1,11 @@
+experiment	validation	fold	status	train_n	test_n	train_groups	test_groups	group_overlap	n_numeric_features	n_categorical_features	n_iter	max_iter	converged	best_parameters
+bound_geometry	receptor_grouped_5fold	0	ok	17	4	13	4	0	92	0	454	50000	True	"{""inner_macro_auc"": 0.83179012345679, ""model__C"": 0.5, ""model__l1_ratio"": 0.75}"
+bound_geometry	receptor_grouped_5fold	1	ok	17	4	14	3	0	92	0	108	50000	True	"{""inner_macro_auc"": 0.7962962962962963, ""model__C"": 0.1, ""model__l1_ratio"": 0.25}"
+bound_geometry	receptor_grouped_5fold	2	ok	17	4	13	4	0	92	0	261	50000	True	"{""inner_macro_auc"": 0.8919753086419752, ""model__C"": 0.5, ""model__l1_ratio"": 0.25}"
+bound_geometry	receptor_grouped_5fold	3	ok	17	4	14	3	0	92	0	1040	50000	True	"{""inner_macro_auc"": 0.9453703703703703, ""model__C"": 5.0, ""model__l1_ratio"": 0.25}"
+bound_geometry	receptor_grouped_5fold	4	ok	16	5	14	3	0	92	0	115	50000	True	"{""inner_macro_auc"": 0.8296296296296296, ""model__C"": 0.1, ""model__l1_ratio"": 0.25}"
+receptor_only_geometry	receptor_grouped_5fold	0	ok	17	4	13	4	0	92	0	806	50000	True	"{""inner_macro_auc"": 0.6466049382716048, ""model__C"": 1.0, ""model__l1_ratio"": 1.0}"
+receptor_only_geometry	receptor_grouped_5fold	1	ok	17	4	14	3	0	92	0	1192	50000	True	"{""inner_macro_auc"": 0.7851851851851852, ""model__C"": 5.0, ""model__l1_ratio"": 0.25}"
+receptor_only_geometry	receptor_grouped_5fold	2	ok	17	4	13	4	0	92	0	2418	50000	True	"{""inner_macro_auc"": 0.7219135802469135, ""model__C"": 5.0, ""model__l1_ratio"": 0.75}"
+receptor_only_geometry	receptor_grouped_5fold	3	ok	17	4	14	3	0	92	0	1221	50000	True	"{""inner_macro_auc"": 0.5970679012345679, ""model__C"": 5.0, ""model__l1_ratio"": 0.25}"
+receptor_only_geometry	receptor_grouped_5fold	4	ok	16	5	14	3	0	92	0	1165	50000	True	"{""inner_macro_auc"": 0.6078703703703704, ""model__C"": 5.0, ""model__l1_ratio"": 0.25}"

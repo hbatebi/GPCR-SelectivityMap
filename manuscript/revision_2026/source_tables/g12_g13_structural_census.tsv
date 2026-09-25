@@ -1,0 +1,8 @@
+pdb_id	chain_id	preferred_chain	receptor_name	species	experimental_method	resolution	year_of_deposition	transducer_family	has_strict_partner_free_active	matchable_in_P1_terminal_strict
+8H8J	C	C	gpr35_human	Homo sapiens	Electron microscopy	3.2	2023.0	G12/13	False	False
+8ZX4	R	R	gpr55_human	Homo sapiens	Electron microscopy	2.85	2024.0	G12/13	False	False
+8ZX5	R	R	gpr55_human	Homo sapiens	Electron microscopy	3.03	2024.0	G12/13	False	False
+9IY8	R	R	gpr55_human	Homo sapiens	Electron microscopy	3.01	2025.0	G12/13	False	False
+9IZH	R	R	lpar1_human	Homo sapiens	Electron microscopy	3.04	2025.0	G12/13	True	True
+8KGG	R	R	p2y10_human	Homo sapiens	Electron microscopy	3.06	2024.0	G12/13	False	False
+7T6B	R	R	s1pr2_human	Homo sapiens	Electron microscopy	3.19	2022.0	G12/13	False	False

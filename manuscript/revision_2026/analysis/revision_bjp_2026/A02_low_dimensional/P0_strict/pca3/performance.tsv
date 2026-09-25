@@ -1,0 +1,3 @@
+experiment	macro_roc_auc	n
+bound_pca3	0.7838720538720539	15
+receptor_only_pca3	0.573776655443322	15

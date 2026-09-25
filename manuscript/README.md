@@ -6,3 +6,8 @@ This directory contains editable SVG figures and compact source tables used in t
 - `sequence_phylogeny_audit/` contains the decisive low-homology, identity-kNN, interface-control, and coefficient-localisation outputs added in the phylogeny-revised manuscript.
 
 Full out-of-fold predictions, bootstrap distributions, checkpoints, analysis frames, structure inputs, and mapping tables should be archived in the manuscript's versioned Zenodo record rather than committed to GitHub.
+
+
+## Revision 2026 (v0.4.0)
+
+`revision_2026/` contains the peer-review revision audit: specimen provenance, final Hauser et al. functional-repertoire mapping, G12/13 census, descriptor dictionary, class-coverage sensitivity, and final five-figure assets.

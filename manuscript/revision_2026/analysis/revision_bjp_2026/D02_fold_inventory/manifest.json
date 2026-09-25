@@ -1,0 +1,5 @@
+{
+  "analysis": "D02_fold_inventory",
+  "rows": 86,
+  "warning": "train counts marked approx are reconstructed from OOF fold membership. Use project audit tables as authoritative when a dedicated training-count field is available."
+}

@@ -1,0 +1,21 @@
+{
+  "cosine_summary": [
+    {
+      "count": 105,
+      "mean": -0.031367698953700694,
+      "median": -0.035817731766838064,
+      "same_class": false
+    },
+    {
+      "count": 48,
+      "mean": 0.0033927671799393825,
+      "median": -0.006753034299437527,
+      "same_class": true
+    }
+  ],
+  "median_deformation_magnitude_z": 7.535438148471957,
+  "n_receptors": 15,
+  "n_receptors_with_free_variability": 6,
+  "n_units": 18,
+  "population": "P1_terminal_strict"
+}

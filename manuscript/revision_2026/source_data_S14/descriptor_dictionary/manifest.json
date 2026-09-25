@@ -1,0 +1,9 @@
+{
+  "analysis": "D01_feature_dictionary",
+  "n_features": 92,
+  "note": "This generated dictionary is a machine-readable starting point. Exact atom selections and cavity definitions must be checked against the cited source functions before manuscript freezing.",
+  "source_files": {
+    "src/gpcr_icl2/microswitches/cavity.py": "7a9ff98ddebc6c066096f094d14106ee05073ba910c48d8e487e70c7a9174009",
+    "src/gpcr_icl2/microswitches/measurement.py": "0161c7708deb12b19e35f131d31131705eb4b20aa5be8f1f3d14b3a7507724ba"
+  }
+}

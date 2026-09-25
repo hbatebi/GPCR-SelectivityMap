@@ -1,0 +1,18 @@
+pdb_id	receptor_name	uniprot	species	transducer_family
+7S0F	adrb1_melga	P07700	Meleagris gallopavo	Gi/o
+7JJO	adrb1_melga	P07700	Meleagris gallopavo	Gs
+7DH5	adrb3_canlf	O02662	Canis lupus familiaris	Gs
+9EPP	b1b1u5_9arac	B1B1U5	Hasarius adansoni	Gi/o
+8ZFJ	e7fel0_danre	E7FEL0	Danio rerio	Gs
+7L0P	ntr1_rat	P20789	Rattus norvegicus	Gi/o
+8FMZ	ntr1_rat	P20789	Rattus norvegicus	Gq/11
+7SCG	oprm_mouse	P42866	Mus musculus	Gi/o
+4X1H	opsd_bovin	P02699	Bos taurus	Gi/o
+7JHJ	q3ksp2_ebvg	Q3KSP2	Epstein-Barr virus	Gi/o
+8K4P	q76sf8_hhv8	Q76SF8	Human herpesvirus 8	Gi/o
+8PM2	taa7f_mouse	Q5QD08	Mus musculus	Gs
+8WCB	taar1_mouse	Q923Y8	Mus musculus	Gq/11
+8ZSV	taar1_mouse	Q923Y8	Mus musculus	Gs
+8IW9	taar9_mouse	Q5QD04	Mus musculus	Gs
+7RKM	us28_hcmva	P69332	Human cytomegalovirus	Gi/o
+7RKF	us28_hcmva	P69332	Human cytomegalovirus	Gq/11

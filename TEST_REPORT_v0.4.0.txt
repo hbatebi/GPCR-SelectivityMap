@@ -1,0 +1,14 @@
+GPCR SelectivityMap v0.4.0 local release candidate test report
+============================================================
+Date: 2026-09-25
+
+Test command:
+  PYTHONPATH=src python -m pytest -q
+
+Result:
+  13 tests passed.
+
+Note:
+  Editable pip installation could not be exercised in this offline container because pip attempted to download build dependencies (setuptools>=69). The source tree itself passed the complete bundled pytest suite with PYTHONPATH=src. GitHub Actions should re-run the normal installation/test matrix after the candidate is pushed.
+
+Source-data packaging check: complete S14 specimen-provenance source package added after test execution; no analysis code changed.

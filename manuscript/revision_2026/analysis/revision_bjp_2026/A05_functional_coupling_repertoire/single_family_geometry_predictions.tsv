@@ -1,0 +1,30 @@
+pdb_id	chain_id	receptor_name	receptor_family	receptor_ligand_class	publication_reference	transducer_family	experiment	validation	outer_fold	probability_Gi/o	probability_Gq/11	probability_Gs	predicted_class
+7SRR	R	5ht2b_human	001_001_001_007	001_001	https://dx.doi.org/10.1016/J.NEURON.2022.08.006	Gq/11	single_family_geometry	receptor_grouped_5fold	3	0.41085591216226885	0.27981074635852804	0.30933334147920316	Gi/o
+7X5H	R	5ht5a_human	001_001_001_010	001_001	https://dx.doi.org/10.1038/S41421-022-00412-3	Gi/o	single_family_geometry	receptor_grouped_5fold	0	0.8696419702347885	0.10313135581733696	0.02722667394787454	Gi/o
+5G53	B	aa2ar_human	001_006_001_002	001_006	https://dx.doi.org/10.1038/NATURE18966	Gs	single_family_geometry	receptor_grouped_5fold	0	0.9609217516053118	0.011778992202838609	0.02729925619184965	Gi/o
+6K42	R	ada2b_human	001_001_003_005	001_001		Gi/o	single_family_geometry	receptor_grouped_5fold	2	0.28513317698357893	0.25679949437520955	0.45806732864121147	Gs
+7Y67	D	c5ar1_human	001_002_006_002	001_002	https://dx.doi.org/10.1038/S41422-023-00779-2	Gi/o	single_family_geometry	receptor_grouped_5fold	2	0.2746203089653296	0.4866971839839935	0.23868250705067684	Gq/11
+8HNM	R	cxcr3_human	001_003_002_013	001_003	https://dx.doi.org/10.1038/S41594-023-01175-5	Gi/o	single_family_geometry	receptor_grouped_5fold	3	0.3253332472518078	0.352822055677307	0.32184469707088514	Gq/11
+8U4N	R	cxcr4_human	001_003_002_014	001_003	https://dx.doi.org/10.1038/S41594-024-01397-1	Gi/o	single_family_geometry	receptor_grouped_5fold	1	0.050126386121264896	0.16314998758255447	0.7867236262961806	Gs
+7CMV	R	drd3_human	001_001_004_003	001_001	https://dx.doi.org/10.1016/J.MOLCEL.2021.01.003	Gi/o	single_family_geometry	receptor_grouped_5fold	2	0.4051092872621199	0.31157336185379386	0.28331735088408627	Gi/o
+7T6U	R	fpr2_human	001_002_008_002	001_002	https://dx.doi.org/10.1038/S41467-022-28586-0	Gi/o	single_family_geometry	receptor_grouped_5fold	1	0.13352223678991193	0.004540749326168569	0.8619370138839195	Gs
+7WQ3	R	galr1_human	001_002_009_001	001_002	https://dx.doi.org/10.1038/S41467-022-29072-3	Gi/o	single_family_geometry	receptor_grouped_5fold	0	0.9830970841736458	0.004534677659261803	0.012368238167092342	Gi/o
+8W8Q	C	gp101_human	001_010_001_039	001_010	https://dx.doi.org/10.1038/S41589-023-01456-6	Gs	single_family_geometry	receptor_grouped_5fold	3	0.4040595141777578	0.21399951658478883	0.3819409692374534	Gi/o
+7TUZ	R	gp183_human	001_010_001_060	001_010	https://dx.doi.org/10.1016/J.STR.2022.04.006	Gi/o	single_family_geometry	receptor_grouped_5fold	2	0.2801482460252829	0.5549834683479874	0.16486828562672973	Gq/11
+8HS3	R	gpr20_human	001_010_001_008	001_010	https://dx.doi.org/10.1038/S41421-023-00520-8	Gi/o	single_family_geometry	receptor_grouped_5fold	3	0.33071662008519115	0.3702783898676573	0.29900499004715153	Gq/11
+8XBH	R	gpr34_human	001_010_001_017	001_010		Gi/o	single_family_geometry	receptor_grouped_5fold	1	0.9260928832628254	0.07282637508594172	0.0010807416512329812	Gi/o
+8KGK	A	gpr61_human	001_010_001_025	001_010	https://dx.doi.org/10.1038/S41467-023-41654-3	Gs	single_family_geometry	receptor_grouped_5fold	1	0.9685589308015422	0.006862102014592717	0.024578967183865152	Gi/o
+8TYW	A	gpr6_human	001_010_001_003	001_010	https://dx.doi.org/10.1126/SCISIGNAL.ADO8741	Gs	single_family_geometry	receptor_grouped_5fold	0	0.8378027122157431	0.021866244029077515	0.14033104375517952	Gi/o
+8J6J	R	hcar2_human	001_008_001_002	001_008	https://dx.doi.org/10.1016/J.CELREP.2023.113406	Gi/o	single_family_geometry	receptor_grouped_5fold	3	0.41320699877538264	0.2222725154015141	0.36452048582310315	Gi/o
+8JEI	A	hcar3_human	001_008_001_003	001_008	https://dx.doi.org/10.1016/J.CELREP.2024.114895	Gi/o	single_family_geometry	receptor_grouped_5fold	3	0.397608723149067	0.2508095708206312	0.35158170603030187	Gi/o
+8YN5	R	hrh3_human	001_001_005_003	001_001	https://dx.doi.org/10.1038/S41467-024-52585-Y	Gi/o	single_family_geometry	receptor_grouped_5fold	3	0.4073108111163321	0.20841838304185065	0.3842708058418174	Gi/o
+7S8P	R	mrgx4_human	001_010_001_073	001_010	https://dx.doi.org/10.1038/S41586-021-04126-6	Gq/11	single_family_geometry	receptor_grouped_5fold	1	0.4468783412623184	0.1355974211454363	0.4175242375922452	Gi/o
+7YON	R	npy2r_human	001_002_020_002	001_002	https://dx.doi.org/10.1016/J.STR.2022.11.010	Gi/o	single_family_geometry	receptor_grouped_5fold	1	0.41500931794361606	0.01657297964989019	0.5684177024064937	Gs
+8F7S	R	oprd_human	001_002_022_001	001_002	https://dx.doi.org/10.1016/J.CELL.2022.12.026	Gi/o	single_family_geometry	receptor_grouped_5fold	0	0.7464135515810328	0.2184914739173202	0.03509497450164705	Gi/o
+8F7W	R	oprk_human	001_002_022_002	001_002	https://dx.doi.org/10.1016/J.CELL.2022.12.026	Gi/o	single_family_geometry	receptor_grouped_5fold	1	0.9975108031378424	0.0019618684810487215	0.0005273283811090644	Gi/o
+8EFO	R	oprm_human	001_002_022_003	001_002	https://dx.doi.org/10.1016/J.CELL.2022.09.041	Gi/o	single_family_geometry	receptor_grouped_5fold	0	0.9979591607615359	4.336641999943653e-05	0.001997472818464649	Gi/o
+7XXH	R	p2ry1_human	001_006_002_001	001_006		Gq/11	single_family_geometry	receptor_grouped_5fold	2	0.4113110122502341	0.31800252959548375	0.2706864581542822	Gi/o
+8WJX	R	p2ry1_human	001_006_002_001	001_006		Gs	single_family_geometry	receptor_grouped_5fold	2	0.44025727209035154	0.29368468588444396	0.26605804202520444	Gi/o
+7XXI	A	p2y12_human	001_006_002_006	001_006		Gi/o	single_family_geometry	receptor_grouped_5fold	0	0.6417997690006825	0.10900278608358022	0.24919744491573742	Gi/o
+7T10	R	ssr2_human	001_002_028_002	001_002	https://dx.doi.org/10.1038/S41594-022-00727-5	Gi/o	single_family_geometry	receptor_grouped_5fold	2	0.37866186359107507	0.2788365165607006	0.34250161984822436	Gi/o
+7Y26	E	ssr2_human	001_002_028_002	001_002	https://dx.doi.org/10.1038/S41589-022-01130-3	Gq/11	single_family_geometry	receptor_grouped_5fold	2	0.32799247852881613	0.2603128839832194	0.41169463748796453	Gs

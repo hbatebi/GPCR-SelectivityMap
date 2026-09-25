@@ -1,0 +1,4 @@
+category	n_units	n_receptors	fraction_of_all_207_units	fraction_of_mapped_units
+All structural archive	207	169		
+Directly mapped to Hauser human receptors	190	156		
+Mapped receptors supporting >=2 of Gs/Gi/o/Gq/11	101	76	0.48792270531400966	0.531578947368421

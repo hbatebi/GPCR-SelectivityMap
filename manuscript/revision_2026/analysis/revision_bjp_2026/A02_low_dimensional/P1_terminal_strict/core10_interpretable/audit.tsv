@@ -1,0 +1,11 @@
+experiment	validation	fold	status	train_n	test_n	train_groups	test_groups	group_overlap	n_numeric_features	n_categorical_features	n_iter	max_iter	converged	best_parameters
+core10_interpretable__bound	receptor_grouped_5fold	0	ok	14	4	11	4	0	10	0	15	50000	True	"{""fixed"": true}"
+core10_interpretable__bound	receptor_grouped_5fold	1	ok	15	3	12	3	0	10	0	16	50000	True	"{""fixed"": true}"
+core10_interpretable__bound	receptor_grouped_5fold	2	ok	15	3	13	2	0	10	0	13	50000	True	"{""fixed"": true}"
+core10_interpretable__bound	receptor_grouped_5fold	3	ok	14	4	12	3	0	10	0	15	50000	True	"{""fixed"": true}"
+core10_interpretable__bound	receptor_grouped_5fold	4	ok	14	4	12	3	0	10	0	16	50000	True	"{""fixed"": true}"
+core10_interpretable__free	receptor_grouped_5fold	0	ok	14	4	11	4	0	10	0	12	50000	True	"{""fixed"": true}"
+core10_interpretable__free	receptor_grouped_5fold	1	ok	15	3	12	3	0	10	0	14	50000	True	"{""fixed"": true}"
+core10_interpretable__free	receptor_grouped_5fold	2	ok	15	3	13	2	0	10	0	15	50000	True	"{""fixed"": true}"
+core10_interpretable__free	receptor_grouped_5fold	3	ok	14	4	12	3	0	10	0	15	50000	True	"{""fixed"": true}"
+core10_interpretable__free	receptor_grouped_5fold	4	ok	14	4	12	3	0	10	0	14	50000	True	"{""fixed"": true}"

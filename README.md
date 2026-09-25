@@ -1,12 +1,13 @@
 # GPCR SelectivityMap
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21820928.svg)](https://doi.org/10.5281/zenodo.21820928)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Tests](https://github.com/hbatebi/GPCR-SelectivityMap/actions/workflows/tests.yml/badge.svg)](https://github.com/hbatebi/GPCR-SelectivityMap/actions/workflows/tests.yml)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-0.4.0-informational.svg)](CHANGELOG.md)
 
+**GPCR SelectivityMap** is an open, auditable toolkit for resolving the distinct sources of information encoded by class A GPCR endpoint structures. It profiles generic-position sequence, activation geometry, contact networks, intracellular surface chemistry, approximate electrostatics, and elastic-network susceptibility, then stress-tests those representations with receptor grouping, sequence-identity cluster transfer, missingness baselines, interface controls, and receptor-only evaluation.
 
-**GPCR SelectivityMap** is an open, auditable toolkit for static receptor profiling and phylogeny-aware benchmarking of class A G protein-coupled receptors. It integrates GPCR generic-position sequence, endpoint geometry, contact networks, intracellular surface chemistry, approximate electrostatics, and elastic-network susceptibility, then tests whether apparent signals survive receptor grouping, low-homology transfer, missingness controls, and interface-specificity audits.
-
-The package is designed to separate **bound-class association**, **family-constrained signal**, and **transferable evidence** before biological interpretation. It does not report calibrated functional G-protein coupling probabilities.
+The framework separates **conserved receptor state**, **evolutionary organization**, **receptor-side compatibility**, **bound-partner association**, and evidence for **transferable receptor-intrinsic preference**. It reports structural associations and validation outcomes, not calibrated functional G-protein coupling probabilities.
 
 ## Experimental interface-complementarity module
 
@@ -33,21 +34,19 @@ gpcr-selectivitymap receptor-compatibility \
 
 These are compatibility scores, not calibrated functional coupling probabilities.
 
-## What changed in v0.2.0
+## What changed in v0.4.0
 
-Version 0.2.0 adds the controls required to distinguish transferable representation signal from receptor homology:
+Version 0.4.0 aligns the public software and manuscript assets with the revised analysis of **captured G protein class** in mature class A GPCR complexes.
 
-- 30%, 40%, and 50% sequence-identity cluster holdouts
-- global sequence-identity k-nearest-neighbour baseline
-- coarse taxonomy and receptor-family baselines
-- predefined intracellular interface sequence model
-- interface versus non-interface comparison
-- matched non-interface and positional scrambling controls
-- receptor-level or receptor-by-transducer aggregation
-- label-provenance auditing
-- automated interpretation gates that separate receptor-grouped association from low-homology transfer
+- adds a specimen-level provenance audit that distinguishes **coordinate-level receptor-only** entries from structures obtained from **experimentally partner-free specimens**;
+- preserves the original coordinate-level matched analysis as a transparent pre-audit record, but does not use it as evidence for an experimentally partner-free versus bound contrast;
+- adds the final Hauser et al. (2022) common-coupling-map annotation by exact human UniProt accession (190/207 mapped structural units; non-human and viral receptors left unannotated);
+- adds the G12/13 structural census and matched-set feasibility audit;
+- adds the 92-feature structural-descriptor dictionary and the reviewer-requested same-receptor 408-comparison table;
+- packages the BJP revision analysis specification, manifests, checksums and compact outputs;
+- updates manuscript source assets to the revised five-figure organization and the title **“Mature GPCR complexes carry distributed information about the captured G protein class.”**
 
-The associated manuscript audit found that sequence and interface representations are predictive under conventional receptor-grouped validation but lose their advantage under stringent homology removal. Global sequence proximity matches the interface model at 30% identity, while endpoint geometry retains more information at intermediate divergence. The software therefore emphasizes representation benchmarking rather than coupling prediction.
+The current experimental archive provides only three receptors with an active reference that is experimentally partner free under the strict specimen-level definition, with no Gq/11 receptor. This is treated as an archive-coverage limit, not as evidence from a fitted three-class matched model. The workflow is versioned so that the comparison can be expanded as new experimentally partner-free structures are deposited.
 
 ## Scientific scope and claim boundary
 
@@ -239,7 +238,7 @@ These exclusions keep the package scientifically honest and distinct from trajec
 The editable workflow overview used in the manuscript is provided as:
 
 ```text
-manuscript/figures/Figure_4_GPCR_SelectivityMap_workflow.svg
+manuscript/revision_2026/figures/Figure_1_overview_v7.svg
 ```
 
 PNG and PDF exports are included beside it.
@@ -250,6 +249,7 @@ PNG and PDF exports are included beside it.
 - `manuscript/sequence_phylogeny_audit/` contains the decisive phylogeny-audit summary tables and figures.
 - `manuscript_workflow/gpcr_icl2_overlay/` preserves the static receptor-only extension.
 - `manuscript_workflow/sequence_interface_audit_v1/` preserves the exact Fritz analysis driver and batch files used for the manuscript audit.
+- `manuscript/revision_2026/` contains the revision-specific provenance, functional-repertoire, G12/13, descriptor, fold-audit and figure assets introduced during peer review.
 
 Large structure archives, full prediction tables, and bootstrap distributions should be deposited in a versioned Zenodo record rather than committed to GitHub.
 
@@ -259,18 +259,12 @@ Please cite the associated manuscript and archived software release. See `CITATI
 
 ## Associated manuscript
 
-Batebi H. *Bound G proteins leave a readable imprint on GPCR structures* (submitted, 2026).
+Batebi H. *Mature GPCR complexes carry distributed information about the captured G protein class* (revised manuscript, 2026).
 Source tables and fold assignments underlying the main figures are in `manuscript/source_data/`
 and `manuscript/sequence_phylogeny_audit/source_data/`.
 
 ## Use of generative AI
 
-See [AI_USE.md](AI_USE.md). Generative AI was used for prose editing, code assistance, and consistency
-checking only. No figure or image content was AI-generated, and AI was not used to generate
-results or conclusions.
+See [AI_USE.md](AI_USE.md). Generative AI tools assisted with prose editing, code review, plotting code, and figure-layout development. All numerical results derive from the archived analysis outputs, and every scientific claim, value, and figure was reviewed by the author.
 
-## Citation
-
-See [CITATION.cff](CITATION.cff), or use the GitHub "Cite this repository" button.
-
-Archived at Zenodo. Cite the concept DOI [10.5281/zenodo.21820928](https://doi.org/10.5281/zenodo.21820928) for the software in general, or [10.5281/zenodo.21820929](https://doi.org/10.5281/zenodo.21820929) for the exact v0.3.1 snapshot used in the manuscript.
+Use [CITATION.cff](CITATION.cff), or the GitHub **Cite this repository** button, for citation metadata.

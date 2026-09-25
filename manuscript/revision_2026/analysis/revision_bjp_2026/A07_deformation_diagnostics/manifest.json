@@ -1,0 +1,22 @@
+{
+  "analysis": "A07_deformation_diagnostics",
+  "inputs": {
+    "active_none": {
+      "path": "results/microswitches/publication_controls_v9.2_final/active_transducer_none_structures.csv",
+      "sha256": "4877a2c8076eb6ed9ad6c13d35871ca7960f7f6e3c32325715ec1f4782e6c2bc",
+      "size": 671464
+    },
+    "p0_matched": {
+      "path": "results/microswitches/manuscript_claims_nhr/v081_full_3941857_20260803_195636/transducer_imprint/transducer_imprint_matched_units.csv",
+      "sha256": "36cdb3cdab6eb8b9e81dee81b269668016a7ecbeef3a47fbee7f257a12fcfbe8",
+      "size": 50966
+    },
+    "strict_frame": {
+      "path": "data/manual/strict_polymer_only_structures.csv",
+      "sha256": "9309ec285b76d48a843ef21290ceefc3214071eee592e33d64a95b5900120149",
+      "size": 185837
+    }
+  },
+  "prespec_sha256": "06bd2c1a9f278b1603719bebe990c5dae4783910be11d5b4349bb95cf8d8115b",
+  "project_root": "/home/atuin/c108cb/c108cb11/gpcr-icl2-microswitches-complete"
+}

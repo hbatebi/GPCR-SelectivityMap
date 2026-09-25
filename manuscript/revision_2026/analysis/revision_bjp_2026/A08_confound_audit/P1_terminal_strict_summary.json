@@ -1,0 +1,15 @@
+{
+  "ligand_overlap_n": 13,
+  "mean_ci_high": 0.3203117148424111,
+  "mean_ci_low": -0.05935680405145942,
+  "mean_margin_gain": 0.12034959997098861,
+  "median_margin_gain": 0.0719787051896007,
+  "n_negative": 7,
+  "n_positive": 8,
+  "n_receptors": 15,
+  "n_zero": 0,
+  "same_method_n": 13,
+  "signflip_p_two_sided": 0.244873046875,
+  "species_overlap_n": 15,
+  "status": "ok"
+}

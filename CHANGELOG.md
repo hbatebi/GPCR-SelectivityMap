@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.4.0 - 2026-09-25
+
+- Added specimen-level experimental-provenance auditing to distinguish coordinate-level receptor-only models from experimentally partner-free specimens.
+- Reframed the matched receptor-only analysis as a pre-audit transparency analysis rather than evidence for a biological partner-free versus bound contrast.
+- Added final Hauser et al. (2022) common-coupling-map annotation using exact human UniProt accession matching; non-human and viral receptors remain unannotated.
+- Added G12/13 structural census, matched-set feasibility audit, four-fold coverage sensitivity output, and reviewer-requested 408 same-receptor comparison table.
+- Added the complete 92-feature descriptor dictionary and revision-specific manifests/checksums.
+- Added revised five-figure manuscript assets and updated manuscript title/scope.
+- Core package APIs are unchanged from v0.3.1; this release primarily adds audit/reproducibility material and revised manuscript workflows.
+
 ## 0.3.1 - 2026-08-06
 
 - Added the manuscript software workflow as editable SVG, PDF, and high-resolution PNG.

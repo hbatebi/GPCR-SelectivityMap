@@ -1,0 +1,23 @@
+{
+  "archive_scored_bound": 0.8826923076923077,
+  "archive_scored_free": 0.6692307692307692,
+  "best_parameters": {
+    "inner_macro_auc": 0.7466987642905188,
+    "model__C": 0.1,
+    "model__l1_ratio": 0.25
+  },
+  "delta_auc": 0.21346153846153848,
+  "mean_ci_high": 0.46689017256719095,
+  "mean_ci_low": 0.024269379569368997,
+  "mean_margin_gain": 0.23787542559737945,
+  "median_margin_gain": 0.17258754033410462,
+  "n_negative": 4,
+  "n_positive": 11,
+  "n_receptors": 15,
+  "n_training_receptors": 154,
+  "n_training_units": 189,
+  "n_zero": 0,
+  "signflip_p_two_sided": 0.05487060546875,
+  "status": "ok",
+  "variant": "P1_terminal_strict__exclude_matched"
+}
