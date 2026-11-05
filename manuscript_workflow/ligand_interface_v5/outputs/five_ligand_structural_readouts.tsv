@@ -1,0 +1,6 @@
+pdb_id	ligand	expected_component_id	resolution_A	Ga_construct_group	Emax_status	Gi1_BRET_Emax_percent_5HT	Emax_source	TM3.50_TM6.34_CA	PIF_TM5.50_TM6.44_CA	TM3.50_TM7.53_CA	TM6.48_TM7.53_CA	TM3.40_TM5.50_CA	n_ligand_heavy_atoms	n_receptor_ligand_contact_residues	n_receptor_ga_contact_residues	n_receptor_alpha5_contact_residues
+8FY8	5-MeO-DMT	YFW	2.7900000	DNG	qualitative_full_or_near_full		Paper Fig.1a and Supplementary Table 1 (not digitized)	15.5424767	10.5243895	11.7996424	16.6363018	7.0540792	16	16	22	17
+8FYT	LSD	7LD	2.6400000	non_DNG	qualitative_full_or_near_full		Paper Fig.1a and Supplementary Table 1 (not digitized)	15.5585386	10.4516267	12.0588239	16.5796717	7.0208471	24	16	21	17
+8FYE	4-F,5-MeO-PyrT	YGH	2.8500000	non_DNG	quantitative_verified	102.8000000	Warren et al. Nature 2024 main text Fig.4	15.7240023	10.6924507	11.8238940	16.7939912	7.0540785	19	15	22	16
+8FYL	vilazodone	YG7	2.9400000	non_DNG	quantitative_verified	97.4000000	Warren et al. Nature 2024 main text Fig.4	15.9104374	10.7248961	12.0363683	16.9799226	7.2525021	33	20	20	17
+8FYX	buspirone	YLX	2.6200000	DNG	quantitative_verified	93.4000000	Warren et al. Nature 2024 main text Fig.4	15.4095378	10.4990170	11.9261899	16.6379463	7.0368865	28	22	21	17

@@ -3,7 +3,7 @@
 [![Tests](https://github.com/hbatebi/GPCR-SelectivityMap/actions/workflows/tests.yml/badge.svg)](https://github.com/hbatebi/GPCR-SelectivityMap/actions/workflows/tests.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-0.4.0-informational.svg)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-0.5.2-informational.svg)](CHANGELOG.md)
 
 **GPCR SelectivityMap** is an open, auditable toolkit for resolving the distinct sources of information encoded by class A GPCR endpoint structures. It profiles generic-position sequence, activation geometry, contact networks, intracellular surface chemistry, approximate electrostatics, and elastic-network susceptibility, then stress-tests those representations with receptor grouping, sequence-identity cluster transfer, missingness baselines, interface controls, and receptor-only evaluation.
 
@@ -268,3 +268,7 @@ and `manuscript/sequence_phylogeny_audit/source_data/`.
 See [AI_USE.md](AI_USE.md). Generative AI tools assisted with prose editing, code review, plotting code, and figure-layout development. All numerical results derive from the archived analysis outputs, and every scientific claim, value, and figure was reviewed by the author.
 
 Use [CITATION.cff](CITATION.cff), or the GitHub **Cite this repository** button, for citation metadata.
+## Nature Communications v5 source data and ligand-interface case study (v0.5.2)
+
+The optional, exploratory case study quantifies receptor-side ligand-contact versus mature Gα-interface contact overlap for a five-structure 5-HT1A–Gi1 ligand series, alongside four receptor examples and sensitivity checks. **It does not establish the molecular determinants of G-protein activation efficacy or a universal endpoint-convergence mechanism.** The complete matched manuscript source data are in `source_data/natcomms_v5/` (Source Data 1–29), with inspectable code under `manuscript_workflow/ligand_interface_v5/`. See `docs/NATCOMMS_V5_LIGAND_DATA_RELEASE.md` for reproducibility and interpretation boundaries.
+

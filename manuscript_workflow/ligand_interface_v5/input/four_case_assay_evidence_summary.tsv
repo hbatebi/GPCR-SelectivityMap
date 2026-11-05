@@ -1,0 +1,9 @@
+case_id	receptor	gprotein_family	structure_pdb	ligand	comparison_role	gtp_ligand_id	gtp_human_action_categories	gtp_pmids	matched_quantitative_Emax_available_in_GtoPdb_export	measured_G_protein_subtype_specific_Emax_available_here	important_caveat
+5HT1A_2021	5-HT1A	Gi/o	7E2Y	serotonin	full	5	Full agonist	10431754;1386736;15628665;9205951;9550290;9760039	NO	NO	GtoPdb full/partial actions are from independent assays; lipids influence coupling
+5HT1A_2021	5-HT1A	Gi/o	7E2Z	aripiprazole	partial	34	Partial agonist	12784105	NO	NO	GtoPdb full/partial actions are from independent assays; lipids influence coupling
+DRD1_2022	D1	Gs	7X2C	fenoldopam	full	939	Full agonist	7525564	NO	NO	Tavapadon efficacy depends on Gs versus Golf; double fenoldopam ligand limits simple contact comparisons
+DRD1_2022	D1	Gs	7X2D	tavapadon	partial	13372	Partial agonist	30525590	NO	NO	Tavapadon efficacy depends on Gs versus Golf; double fenoldopam ligand limits simple contact comparisons
+ADA2A_2024	alpha2A	Gi/o	9CBL	adrenaline	full	479	Full agonist	36101495;9605427;9824686	NO	NO	Dexmedetomidine may approach full response in some assays, so partial label is assay-dependent
+ADA2A_2024	alpha2A	Gi/o	9CBM	dexmedetomidine	partial	521	Agonist;Partial agonist	36101495;9227000;9605427;9760042;9824686	NO	NO	Dexmedetomidine may approach full response in some assays, so partial label is assay-dependent
+MC1R_2021	MC1R	Gs	7F4D	alpha-MSH	full	1320	Full agonist	12007532	NO	NO	Peptide agonism is receptor-dependent; SHU9119 is partial at MC1R but antagonist at MC4R
+MC1R_2021	MC1R	Gs	7F4I	SHU9119	partial	1325	Partial agonist	10657491;7658432	NO	NO	Peptide agonism is receptor-dependent; SHU9119 is partial at MC1R but antagonist at MC4R

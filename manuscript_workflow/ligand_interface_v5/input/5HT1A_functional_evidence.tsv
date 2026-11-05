@@ -1,0 +1,8 @@
+pdb_id	ligand	receptor	transducer	assay	Emax_percent_of_serotonin	Emax_basis	quantitative_status	structural_study	functional_study	important_caveat
+7E2Y	serotonin	5-HT1A	Gi1	BRET G-protein activation	100.0	reference normalization	reference	10.1038/s41586-021-03376-8	10.1038/s41586-024-07403-2	Structural study is 2021; pharmacology is 2024
+7E2Z	aripiprazole	5-HT1A	Gi1	BRET G-protein activation	77.1	reported main text	verified_number	10.1038/s41586-021-03376-8	10.1038/s41586-024-07403-2	Independent 2023 assay reported different subtype/assay responses
+8FY8	5-MeO-DMT	5-HT1A	Gi1	BRET G-protein activation		full or near-full in text	qualitative_only	10.1038/s41586-024-07403-2	10.1038/s41586-024-07403-2	DNG Gαi1; exact Emax and uncertainty not verified
+8FYT	LSD	5-HT1A	Gi1	BRET G-protein activation		full or near-full in text	qualitative_only	10.1038/s41586-024-07403-2	10.1038/s41586-024-07403-2	Exact Emax and uncertainty not verified
+8FYE	4-F,5-MeO-PyrT	5-HT1A	Gi1	BRET G-protein activation	102.8	reported main text	verified_number	10.1038/s41586-024-07403-2	10.1038/s41586-024-07403-2	No uncertainty verified
+8FYL	vilazodone	5-HT1A	Gi1	BRET G-protein activation	97.4	reported main text	verified_number	10.1038/s41586-024-07403-2	10.1038/s41586-024-07403-2	No uncertainty verified
+8FYX	buspirone	5-HT1A	Gi1	BRET G-protein activation	93.4	reported main text	verified_number	10.1038/s41586-024-07403-2	10.1038/s41586-024-07403-2	DNG Gαi1; no uncertainty verified

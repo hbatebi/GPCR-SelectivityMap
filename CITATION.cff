@@ -8,8 +8,8 @@ abstract: >-
   structural associations and validation outcomes, not calibrated functional
   G-protein coupling probabilities.
 type: software
-version: 0.4.0
-date-released: 2026-09-25
+version: 0.5.2
+date-released: 2026-11-05
 authors:
   - family-names: Batebi
     given-names: Hossein

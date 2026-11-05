@@ -1,0 +1,6 @@
+pdb_id	ligand	expected_component_id	resolution_A	Ga_construct_group	Emax_status	Gi1_BRET_Emax_percent_5HT	Emax_source
+8FY8	5-MeO-DMT	YFW	2.79	DNG	qualitative_full_or_near_full		Paper Fig.1a and Supplementary Table 1 (not digitized)
+8FYT	LSD	7LD	2.64	non_DNG	qualitative_full_or_near_full		Paper Fig.1a and Supplementary Table 1 (not digitized)
+8FYE	4-F,5-MeO-PyrT	YGH	2.85	non_DNG	quantitative_verified	102.8	Warren et al. Nature 2024 main text Fig.4
+8FYL	vilazodone	YG7	2.94	non_DNG	quantitative_verified	97.4	Warren et al. Nature 2024 main text Fig.4
+8FYX	buspirone	YLX	2.62	DNG	quantitative_verified	93.4	Warren et al. Nature 2024 main text Fig.4

@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.5.2 - 2026-11-05
+
+- Archived Nature Communications v5 Source Data 1–29 without replacing the existing BJP revision dataset.
+- Added exploratory five-ligand 5-HT1A–Gi1 pocket versus mature Gα interface comparison, four-receptor controls, construct/cutoff sensitivity, inspectable scripts, figure and SHA-256 manifest.
+- Core package APIs unchanged. This case study does not establish ligand-efficacy mechanisms or endpoint equivalence.
+
+
 ## 0.4.0 - 2026-09-25
 
 - Added specimen-level experimental-provenance auditing to distinguish coordinate-level receptor-only models from experimentally partner-free specimens.

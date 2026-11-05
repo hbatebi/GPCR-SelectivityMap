@@ -1,0 +1,16 @@
+pdb_id	receptor	group	ligand	structural_doi	coordinate_status_on_release
+7E2Y	5HT1A	4_receptor_panel	serotonin	10.1038/s41586-021-03376-8	bundled
+7E2Z	5HT1A	4_receptor_panel	aripiprazole	10.1038/s41586-021-03376-8	bundled
+7X2C	DRD1	4_receptor_panel	fenoldopam	10.1038/s41467-022-30929-w	bundled
+7X2D	DRD1	4_receptor_panel	tavapadon	10.1038/s41467-022-30929-w	bundled
+7X2F	DRD1	4_receptor_panel	dopamine+PAM	10.1038/s41467-022-30929-w	bundled
+9CBL	ADRA2A	4_receptor_panel	adrenaline	10.1038/s12276-024-01296-x	bundled
+9CBM	ADRA2A	4_receptor_panel	dexmedetomidine	10.1038/s12276-024-01296-x	bundled
+7F4D	MC1R	4_receptor_panel	alpha-MSH	10.1038/s41422-021-00557-y	bundled
+7F4H	MC1R	4_receptor_panel	afamelanotide	10.1038/s41422-021-00557-y	bundled
+7F4I	MC1R	4_receptor_panel	SHU9119	10.1038/s41422-021-00557-y	bundled
+8FY8	5HT1A	Warren2024_5_ligand	5-MeO-DMT	10.1038/s41586-024-07403-2	needs_download
+8FYT	5HT1A	Warren2024_5_ligand	LSD	10.1038/s41586-024-07403-2	needs_download
+8FYE	5HT1A	Warren2024_5_ligand	4-F,5-MeO-PyrT	10.1038/s41586-024-07403-2	needs_download
+8FYL	5HT1A	Warren2024_5_ligand	vilazodone	10.1038/s41586-024-07403-2	bundled
+8FYX	5HT1A	Warren2024_5_ligand	buspirone	10.1038/s41586-024-07403-2	bundled

@@ -19,3 +19,6 @@ results/
 *.whl
 .coverage
 htmlcov/
+
+# Permit manuscript v5 source-data archive files in Git / Zenodo releases
+!source_data/natcomms_v5/*.zip
